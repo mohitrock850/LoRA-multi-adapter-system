@@ -1,0 +1,10 @@
+# Environment
+.venv/
+.env
+
+# Project specific files
+adapters/
+logs/
+__pycache__/
+.gradio/
+data_extra/

@@ -1,0 +1,4 @@
+law:
+  train: data/law_train.jsonl
+  eval: data/law_eval.jsonl
+  adapter_path: adapters/law_adapter

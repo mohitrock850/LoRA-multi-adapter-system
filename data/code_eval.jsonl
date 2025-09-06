@@ -1,0 +1,5 @@
+{"instruction": "What does HTML stand for?", "input": "", "output": "HTML stands for HyperText Markup Language."}
+{"instruction": "What is the purpose of Git?", "input": "", "output": "Git is a version control system used to track changes in source code during software development."}
+{"instruction": "Write a Python snippet to reverse a string.", "input": "", "output": "text = 'hello'\nreversed_text = text[::-1]"}
+{"instruction": "What is log aggregation?", "input": "", "output": "Log aggregation collects and centralizes logs from multiple sources to simplify monitoring and analysis."}
+{"instruction": "What is ELK stack?", "input": "", "output": "ELK stack (Elasticsearch, Logstash, Kibana) is a set of tools for searching, analyzing, and visualizing log data."}

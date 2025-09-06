@@ -1,0 +1,25 @@
+base_model: "google/flan-t5-base"   # Default base model
+hf_token: ${oc.env:HF_TOKEN}         # Load Hugging Face token from .env
+
+training:
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 4
+  learning_rate: 0.0002              # Ensure this is a number, not a string
+  num_train_epochs: 3
+  save_strategy: "epoch"
+  logging_dir: "./logs"
+  logging_steps: 10
+  report_to: "none"
+
+peft:
+  r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  bias: "none"
+  target_modules: ["q", "v"]
+  task_type: "SEQ_2_SEQ_LM"          # CORRECTED: T5 is a seq2seq model
+
+dataset:
+  sample_size: 10000      # Default training samples
+  eval_size: 500         # Default eval samples
+  max_length: 512

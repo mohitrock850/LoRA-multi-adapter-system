@@ -1,0 +1,10 @@
+{"instruction": "Write a Python function to calculate the factorial of a number.", "input": "", "output": "def factorial(n):\n    return 1 if n==0 else n*factorial(n-1)"}
+{"instruction": "Explain the difference between a list and a tuple in Python.", "input": "", "output": "A list is mutable, meaning it can be changed after creation, while a tuple is immutable."}
+{"instruction": "How do you declare a variable in JavaScript?", "input": "", "output": "You can declare a variable using var, let, or const. Example: let x = 5;"}
+{"instruction": "Write an SQL query to select all users from a 'users' table.", "input": "", "output": "SELECT * FROM users;"}
+{"instruction": "What is a class in object-oriented programming?" , "input": "","output": "A class is a blueprint for creating objects, encapsulating data for the object and methods to manipulate that data."}
+{"instruction": "What is a variable in programming?", "input": "", "output": "A variable is a named storage location in memory used to hold data that can be modified during program execution."}
+{"instruction": "What is a constant in programming?", "input": "", "output": "A constant is a named storage location in memory whose value cannot be changed after initialization."}
+{"instruction": "What is a data type?", "input": "", "output": "A data type defines the kind of data a variable can hold, such as integer, float, string, or boolean."}
+{"instruction": "What is an array?", "input": "", "output": "An array is a collection of elements of the same data type stored at contiguous memory locations."}
+{"instruction": "What is a list in Python?", "input": "", "output": "A list in Python is an ordered, mutable collection of elements that can contain different data types."}

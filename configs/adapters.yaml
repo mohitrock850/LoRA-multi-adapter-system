@@ -1,0 +1,22 @@
+adapters:
+  law:
+    path: adapters/law_adapter
+    dataset: data/law_train.jsonl
+    eval: data/law_eval.jsonl
+  med:
+    path: adapters/med_adapter
+    dataset: data/med_train.jsonl
+    eval: data/med_eval.jsonl
+  code:
+    path: adapters/code_adapter
+    dataset: data/code_train.jsonl
+    eval: data/code_eval.jsonl
+
+lora:
+  r: 8
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules_causal: ["q_proj", "v_proj", "k_proj", "o_proj"]
+  target_modules_seq2seq: ["q", "v"]
+  bias: none
+  # if using seq2seq models set this to SEQ_2_SEQ_LM etc in train args
