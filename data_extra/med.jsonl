@@ -1,0 +1,483 @@
+{"instruction": "Which hormone regulates blood glucose levels?", "input": "", "output": "Insulin and glucagon regulate blood glucose levels."}
+{"instruction": "What is the normal respiratory rate in adults?", "input": "", "output": "The normal respiratory rate in adults is 12–20 breaths per minute."}
+{"instruction": "What is the function of the kidneys?", "input": "", "output": "The kidneys filter waste from the blood, regulate electrolytes, and maintain fluid balance."}
+{"instruction": "What is the main symptom of myocardial infarction?", "input": "", "output": "The main symptom is chest pain or pressure, often radiating to the arm, neck, or jaw."}
+{"instruction": "Which vitamin deficiency causes rickets?", "input": "", "output": "Vitamin D deficiency causes rickets."}
+{"instruction": "What is the common site of peptic ulcers?", "input": "", "output": "The common sites are the duodenum and the stomach."}
+{"instruction": "What is the normal body temperature?", "input": "", "output": "The normal body temperature is around 37°C (98.6°F)."}
+{"instruction": "What is the causative agent of malaria?", "input": "", "output": "Malaria is caused by Plasmodium species, transmitted by Anopheles mosquitoes."}
+{"instruction": "What is anemia?", "input": "", "output": "Anemia is a condition in which the blood has a lower-than-normal number of red blood cells or hemoglobin."}
+{"instruction": "What is the function of the pancreas?", "input": "", "output": "The pancreas produces digestive enzymes and hormones such as insulin and glucagon."}
+{"instruction": "What is the treatment for bacterial pneumonia?", "input": "", "output": "Treatment usually involves antibiotics, rest, and fluids."}
+{"instruction": "Which artery is commonly used to check the pulse at the wrist?", "input": "", "output": "The radial artery is commonly used to check the pulse."}
+{"instruction": "What is the causative organism of cholera?", "input": "", "output": "Vibrio cholerae is the causative organism of cholera."}
+{"instruction": "What is the function of the thyroid gland?", "input": "", "output": "The thyroid gland regulates metabolism through secretion of thyroid hormones T3 and T4."}
+{"instruction": "What is the common cause of jaundice?", "input": "", "output": "Jaundice is commonly caused by liver diseases, bile duct obstruction, or hemolysis."}
+{"instruction": "What is meningitis?", "input": "", "output": "Meningitis is an inflammation of the protective membranes covering the brain and spinal cord."}
+{"instruction": "What is the primary mode of transmission of HIV?", "input": "", "output": "HIV is mainly transmitted through unprotected sexual contact, contaminated blood, and from mother to child during childbirth or breastfeeding."}
+{"instruction": "What is the function of the lungs?", "input": "", "output": "The lungs facilitate gas exchange, taking in oxygen and expelling carbon dioxide."}
+{"instruction": "What is osteoporosis?", "input": "", "output": "Osteoporosis is a condition where bones become weak and brittle due to loss of bone density."}
+{"instruction": "What is the normal blood pressure range?", "input": "", "output": "The normal blood pressure range is around 120/80 mmHg."}
+{"instruction": "What is the treatment for anaphylaxis?", "input": "", "output": "The treatment is immediate administration of intramuscular epinephrine."}
+{"instruction": "What is the cause of sickle cell disease?", "input": "", "output": "Sickle cell disease is caused by a genetic mutation leading to abnormal hemoglobin (HbS)."}
+{"instruction": "Which vitamin deficiency causes night blindness?", "input": "", "output": "Vitamin A deficiency causes night blindness."}
+{"instruction": "What is the incubation period of measles?", "input": "", "output": "The incubation period of measles is 10–14 days."}
+{"instruction": "What is the main function of white blood cells?", "input": "", "output": "White blood cells defend the body against infection and foreign invaders."}
+{"instruction": "What is hypertension?", "input": "", "output": "Hypertension is persistently high blood pressure, usually above 140/90 mmHg."}
+{"instruction": "What is the treatment for iron deficiency anemia?", "input": "", "output": "Treatment includes oral or intravenous iron supplements and addressing the underlying cause."}
+{"instruction": "What is the cause of Down syndrome?", "input": "", "output": "Down syndrome is caused by an extra copy of chromosome 21 (trisomy 21)."}
+{"instruction": "What is asthma?", "input": "", "output": "Asthma is a chronic inflammatory disease of the airways causing wheezing, breathlessness, and cough."}
+{"instruction": "What is the function of hemoglobin?", "input": "", "output": "Hemoglobin carries oxygen from the lungs to tissues and carbon dioxide back to the lungs."}
+{"instruction": "What is the most common site of bone fractures in the elderly?", "input": "", "output": "The hip is the most common site of fractures in the elderly."}
+{"instruction": "What is insulin shock?", "input": "", "output": "Insulin shock, or hypoglycemia, occurs when blood sugar drops too low due to excess insulin."}
+{"instruction": "What is the mode of transmission of hepatitis A?", "input": "", "output": "Hepatitis A is transmitted via the fecal-oral route, usually through contaminated food or water."}
+{"instruction": "What is the function of cerebrospinal fluid?", "input": "", "output": "Cerebrospinal fluid cushions the brain and spinal cord, and helps in nutrient transport and waste removal."}
+{"instruction": "What is stroke?", "input": "", "output": "Stroke is a medical condition caused by interrupted blood supply to the brain, leading to brain cell death."}
+{"instruction": "What is the normal platelet count?", "input": "", "output": "The normal platelet count is 150,000–450,000 per microliter of blood."}
+{"instruction": "What is goiter?", "input": "", "output": "Goiter is an abnormal enlargement of the thyroid gland."}
+{"instruction": "What is pneumonia?", "input": "", "output": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus."}
+{"instruction": "What is dialysis?", "input": "", "output": "Dialysis is a medical treatment that removes waste and excess fluid from the blood when the kidneys fail."}
+{"instruction": "What is the treatment for dehydration?", "input": "", "output": "Treatment involves oral rehydration therapy or intravenous fluids in severe cases."}
+{"instruction": "What is epilepsy?", "input": "", "output": "Epilepsy is a neurological disorder marked by recurrent, unprovoked seizures."}
+{"instruction": "What is the incubation period of chickenpox?", "input": "", "output": "The incubation period of chickenpox is 10–21 days."}
+{"instruction": "What is atherosclerosis?", "input": "", "output": "Atherosclerosis is the buildup of fatty deposits (plaques) inside arteries, leading to narrowing and reduced blood flow."}
+{"instruction": "What is the normal range of hemoglobin in adult males?", "input": "", "output": "The normal hemoglobin range in adult males is 13.8–17.2 g/dL."}
+{"instruction": "What is the normal range of hemoglobin in adult females?", "input": "", "output": "The normal hemoglobin range in adult females is 12.1–15.1 g/dL."}
+{"instruction": "What is hypoxia?", "input": "", "output": "Hypoxia is a condition where body tissues receive insufficient oxygen."}
+{"instruction": "What is the treatment for acute appendicitis?", "input": "", "output": "The definitive treatment for acute appendicitis is surgical removal of the appendix (appendectomy)."}
+{"instruction": "What is the causative agent of syphilis?", "input": "", "output": "Treponema pallidum is the causative agent of syphilis."}
+{"instruction": "What is tachycardia?", "input": "", "output": "Tachycardia is a condition where the heart rate exceeds 100 beats per minute."}
+{"instruction": "What is bradycardia?", "input": "", "output": "Bradycardia is a condition where the heart rate falls below 60 beats per minute."}
+{"instruction": "What is hemophilia?", "input": "", "output": "Hemophilia is a genetic bleeding disorder caused by deficiency of clotting factors."}
+{"instruction": "What is myocardial ischemia?", "input": "", "output": "Myocardial ischemia is reduced blood flow to the heart muscle due to narrowed coronary arteries."}
+{"instruction": "What is ketoacidosis?", "input": "", "output": "Ketoacidosis is a serious complication of diabetes where the body produces high levels of ketones, leading to acidic blood."}
+{"instruction": "What is the treatment for rabies exposure?", "input": "", "output": "Rabies exposure is treated with immediate wound cleaning, rabies vaccine, and rabies immunoglobulin."}
+{"instruction": "What is shock in medical terms?", "input": "", "output": "Shock is a life-threatening condition where blood circulation is inadequate to meet tissue oxygen demands."}
+{"instruction": "What is angina pectoris?", "input": "", "output": "Angina pectoris is chest pain caused by reduced blood flow to the heart muscle."}
+{"instruction": "What is glaucoma?", "input": "", "output": "Glaucoma is a group of eye diseases that damage the optic nerve, often due to increased intraocular pressure."}
+{"instruction": "What is cataract?", "input": "", "output": "Cataract is clouding of the lens of the eye, leading to decreased vision."}
+{"instruction": "What is anemia of chronic disease?", "input": "", "output": "Anemia of chronic disease is a type of anemia seen in long-term illnesses, where inflammation affects red blood cell production."}
+{"instruction": "What is thalassemia?", "input": "", "output": "Thalassemia is an inherited blood disorder characterized by abnormal hemoglobin production."}
+{"instruction": "What is hematocrit?", "input": "", "output": "Hematocrit is the proportion of red blood cells in the total blood volume, expressed as a percentage."}
+{"instruction": "What is leukopenia?", "input": "", "output": "Leukopenia is a condition where the white blood cell count is lower than normal."}
+{"instruction": "What is leukocytosis?", "input": "", "output": "Leukocytosis is an increased white blood cell count, often due to infection or inflammation."}
+{"instruction": "What is aplastic anemia?", "input": "", "output": "Aplastic anemia is a rare disorder where the bone marrow fails to produce enough blood cells."}
+{"instruction": "What is Hodgkin’s lymphoma?", "input": "", "output": "Hodgkin’s lymphoma is a type of cancer that originates in the lymphatic system, characterized by Reed–Sternberg cells."}
+{"instruction": "What is non-Hodgkin’s lymphoma?", "input": "", "output": "Non-Hodgkin’s lymphoma is a group of blood cancers that include all lymphomas except Hodgkin’s lymphoma."}
+{"instruction": "What is leukemia?", "input": "", "output": "Leukemia is a cancer of the blood-forming tissues, causing abnormal white blood cell production."}
+{"instruction": "What is multiple myeloma?", "input": "", "output": "Multiple myeloma is a cancer of plasma cells that accumulate in bone marrow and interfere with blood production."}
+{"instruction": "What is sepsis?", "input": "", "output": "Sepsis is a life-threatening condition caused by the body’s extreme response to infection."}
+{"instruction": "What is septic shock?", "input": "", "output": "Septic shock is a severe form of sepsis with dangerously low blood pressure despite fluid resuscitation."}
+{"instruction": "What is meningococcal meningitis?", "input": "", "output": "It is meningitis caused by Neisseria meningitidis bacteria."}
+{"instruction": "What is Bell’s palsy?", "input": "", "output": "Bell’s palsy is sudden, temporary weakness or paralysis of the muscles on one side of the face."}
+{"instruction": "What is Parkinson’s disease?", "input": "", "output": "Parkinson’s disease is a progressive neurodegenerative disorder affecting movement, caused by loss of dopamine-producing neurons."}
+{"instruction": "What is Alzheimer’s disease?", "input": "", "output": "Alzheimer’s disease is a progressive neurodegenerative disorder that causes memory loss, cognitive decline, and personality changes."}
+{"instruction": "What is epilepsy aura?", "input": "", "output": "An epilepsy aura is a warning symptom before a seizure, often involving unusual sensations, smells, or visual disturbances."}
+{"instruction": "What is hydrocephalus?", "input": "", "output": "Hydrocephalus is a condition where excess cerebrospinal fluid builds up in the brain’s ventricles."}
+{"instruction": "What is spina bifida?", "input": "", "output": "Spina bifida is a birth defect where the spinal cord does not develop properly, leading to spinal malformations."}
+{"instruction": "What is muscular dystrophy?", "input": "", "output": "Muscular dystrophy is a group of genetic disorders causing progressive muscle weakness and degeneration."}
+{"instruction": "What is Guillain-Barré syndrome?", "input": "", "output": "Guillain-Barré syndrome is a rare autoimmune disorder where the immune system attacks peripheral nerves, causing muscle weakness and paralysis."}
+{"instruction": "What is amyotrophic lateral sclerosis (ALS)?", "input": "", "output": "ALS is a progressive neurodegenerative disease affecting motor neurons, leading to muscle weakness and atrophy."}
+{"instruction": "What is meningomyelocele?", "input": "", "output": "Meningomyelocele is a severe form of spina bifida where the spinal cord and meninges protrude through an opening in the spine."}
+{"instruction": "What is cleft palate?", "input": "", "output": "Cleft palate is a congenital defect where the roof of the mouth does not fully close during development."}
+{"instruction": "What is cleft lip?", "input": "", "output": "Cleft lip is a congenital split in the upper lip that occurs when facial structures don’t fuse properly during development."}
+{"instruction": "What is congenital heart disease?", "input": "", "output": "Congenital heart disease refers to structural problems of the heart present at birth."}
+{"instruction": "What is patent ductus arteriosus?", "input": "", "output": "Patent ductus arteriosus is a condition where a fetal blood vessel fails to close after birth, leading to abnormal blood flow."}
+{"instruction": "What is atrial septal defect?", "input": "", "output": "Atrial septal defect is a congenital heart defect where there is a hole in the wall separating the atria."}
+{"instruction": "What is ventricular septal defect?", "input": "", "output": "Ventricular septal defect is a congenital heart defect with a hole in the wall separating the ventricles."}
+{"instruction": "What is tetralogy of Fallot?", "input": "", "output": "Tetralogy of Fallot is a congenital heart defect with four abnormalities: VSD, pulmonary stenosis, right ventricular hypertrophy, and overriding aorta."}
+{"instruction": "What is coarctation of the aorta?", "input": "", "output": "Coarctation of the aorta is a narrowing of the aorta that restricts blood flow."}
+{"instruction": "What is rheumatic fever?", "input": "", "output": "Rheumatic fever is an inflammatory disease that can develop after a Streptococcus pyogenes infection, affecting the heart, joints, and skin."}
+{"instruction": "What is infective endocarditis?", "input": "", "output": "Infective endocarditis is an infection of the inner lining of the heart, usually involving heart valves."}
+{"instruction": "What is pericarditis?", "input": "", "output": "Pericarditis is inflammation of the pericardium, the sac surrounding the heart."}
+{"instruction": "What is myocarditis?", "input": "", "output": "Myocarditis is inflammation of the heart muscle, often due to viral infection."}
+{"instruction": "What is cardiomyopathy?", "input": "", "output": "Cardiomyopathy is a disease of the heart muscle that makes it harder for the heart to pump blood."}
+{"instruction": "What is dilated cardiomyopathy?", "input": "", "output": "Dilated cardiomyopathy is a condition where the heart chambers enlarge and weaken, reducing pumping efficiency."}
+{"instruction": "What is hypertrophic cardiomyopathy?", "input": "", "output": "Hypertrophic cardiomyopathy is a condition where the heart muscle thickens, making it harder for the heart to pump blood."}
+{"instruction": "What is restrictive cardiomyopathy?", "input": "", "output": "Restrictive cardiomyopathy is a condition where the heart muscle becomes stiff, restricting its ability to fill with blood."}
+{"instruction": "What is arrhythmia?", "input": "", "output": "Arrhythmia is an abnormal heart rhythm caused by irregular electrical activity."}
+{"instruction": "What is atrial fibrillation?", "input": "", "output": "Atrial fibrillation is an irregular and often rapid heartbeat caused by chaotic electrical impulses in the atria."}
+{"instruction": "What is ventricular fibrillation?", "input": "", "output": "Ventricular fibrillation is a life-threatening arrhythmia where the ventricles quiver instead of pumping blood."}
+{"instruction": "What is cardiac arrest?", "input": "", "output": "Cardiac arrest is the sudden loss of heart function, breathing, and consciousness due to electrical disturbances."}
+{"instruction": "What is sudden cardiac death?", "input": "", "output": "Sudden cardiac death is unexpected death caused by sudden loss of heart function, usually from arrhythmia."}
+{"instruction": "What is heart failure?", "input": "", "output": "Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs."}
+{"instruction": "What is left-sided heart failure?", "input": "", "output": "Left-sided heart failure occurs when the left ventricle cannot pump effectively, leading to fluid buildup in the lungs."}
+{"instruction": "What is right-sided heart failure?", "input": "", "output": "Right-sided heart failure occurs when the right ventricle cannot pump effectively, leading to fluid buildup in the body."}
+{"instruction": "What is pulmonary edema?", "input": "", "output": "Pulmonary edema is the accumulation of fluid in the lungs, often caused by left-sided heart failure."}
+{"instruction": "What is cardiogenic shock?", "input": "", "output": "Cardiogenic shock is a condition where the heart suddenly can’t pump enough blood to meet the body’s needs."}
+{"instruction": "What is cardiac tamponade?", "input": "", "output": "Cardiac tamponade is compression of the heart due to fluid accumulation in the pericardial sac."}
+{"instruction": "What is an ECG?", "input": "", "output": "An ECG (electrocardiogram) is a test that records the electrical activity of the heart."}
+{"instruction": "What is echocardiography?", "input": "", "output": "Echocardiography is an imaging test that uses ultrasound waves to create pictures of the heart."}
+{"instruction": "What is angioplasty?", "input": "", "output": "Angioplasty is a procedure to open narrowed or blocked coronary arteries using a balloon or stent."}
+{"instruction": "What is coronary artery bypass graft surgery?", "input": "", "output": "Coronary artery bypass graft (CABG) surgery is an operation to improve blood flow to the heart by bypassing blocked arteries."}
+{"instruction": "What is pacemaker implantation?", "input": "", "output": "Pacemaker implantation is the placement of a device that regulates abnormal heart rhythms."}
+{"instruction": "What is defibrillation?", "input": "", "output": "Defibrillation is the delivery of an electric shock to restore normal heart rhythm in cases of life-threatening arrhythmia."}
+{"instruction": "What is angiography?", "input": "", "output": "Angiography is an imaging test that uses X-rays and dye to visualize blood vessels."}
+{"instruction": "What is hypertension emergency?", "input": "", "output": "Hypertensive emergency is a sudden, severe elevation of blood pressure causing organ damage."}
+{"instruction": "What is hypertensive urgency?", "input": "", "output": "Hypertensive urgency is a severe elevation of blood pressure without evidence of acute organ damage."}
+{"instruction": "What is pulmonary embolism?", "input": "", "output": "Pulmonary embolism is a blockage of a pulmonary artery by a blood clot, leading to reduced blood flow to the lungs."}
+{"instruction": "What is deep vein thrombosis?", "input": "", "output": "Deep vein thrombosis (DVT) is the formation of a blood clot in a deep vein, usually in the legs."}
+{"instruction": "What is varicose vein?", "input": "", "output": "Varicose veins are swollen, twisted veins usually occurring in the legs due to weak vein walls and valves."}
+{"instruction": "What is thrombophlebitis?", "input": "", "output": "Thrombophlebitis is inflammation of a vein caused by a blood clot."}
+{"instruction": "What is hemangioma?", "input": "", "output": "Hemangioma is a benign tumor made up of blood vessels."}
+{"instruction": "What is lymphadenopathy?", "input": "", "output": "Lymphadenopathy is the abnormal enlargement of lymph nodes."}
+{"instruction": "What is lymphedema?", "input": "", "output": "Lymphedema is swelling caused by buildup of lymph fluid due to obstruction or damage to lymphatic vessels."}
+{"instruction": "What is Hodgkin’s disease?", "input": "", "output": "Hodgkin’s disease is another term for Hodgkin’s lymphoma, a cancer of the lymphatic system."}
+{"instruction": "What is splenomegaly?", "input": "", "output": "Splenomegaly is enlargement of the spleen."}
+{"instruction": "What is hepatomegaly?", "input": "", "output": "Hepatomegaly is enlargement of the liver."}
+{"instruction": "What is cirrhosis?", "input": "", "output": "Cirrhosis is scarring of the liver tissue due to chronic liver disease."}
+{"instruction": "What is portal hypertension?", "input": "", "output": "Portal hypertension is increased blood pressure in the portal venous system, often due to cirrhosis."}
+{"instruction": "What is ascites?", "input": "", "output": "Ascites is accumulation of fluid in the abdominal cavity, usually due to liver disease."}
+{"instruction": "What is hepatic encephalopathy?", "input": "", "output": "Hepatic encephalopathy is brain dysfunction caused by liver failure leading to buildup of toxins in blood."}
+{"instruction": "What is hepatitis A?", "input": "", "output": "Hepatitis A is a viral liver infection transmitted via the fecal-oral route."}
+{"instruction": "What is hepatitis B?", "input": "", "output": "Hepatitis B is a viral liver infection transmitted through blood and body fluids."}
+{"instruction": "What is hepatitis C?", "input": "", "output": "Hepatitis C is a viral liver infection transmitted primarily through blood."}
+{"instruction": "What is fatty liver disease?", "input": "", "output": "Fatty liver disease is accumulation of excess fat in the liver cells."}
+{"instruction": "What is alcoholic liver disease?", "input": "", "output": "Alcoholic liver disease is liver damage caused by excessive alcohol consumption."}
+{"instruction": "What is non-alcoholic fatty liver disease (NAFLD)?", "input": "", "output": "NAFLD is accumulation of fat in the liver not caused by alcohol consumption."}
+{"instruction": "What is hemochromatosis?", "input": "", "output": "Hemochromatosis is a disorder where the body absorbs too much iron, leading to organ damage."}
+{"instruction": "What is Wilson’s disease?", "input": "", "output": "Wilson’s disease is a genetic disorder causing copper accumulation in the liver, brain, and other organs."}
+{"instruction": "What is cholestasis?", "input": "", "output": "Cholestasis is a condition where bile flow from the liver is reduced or blocked."}
+{"instruction": "What is gallstone disease?", "input": "", "output": "Gallstone disease is the presence of hardened deposits of bile in the gallbladder."}
+{"instruction": "What is cholecystitis?", "input": "", "output": "Cholecystitis is inflammation of the gallbladder, usually caused by gallstones."}
+{"instruction": "What is cholangitis?", "input": "", "output": "Cholangitis is infection of the bile ducts, usually caused by obstruction."}
+{"instruction": "What is pancreatitis?", "input": "", "output": "Pancreatitis is inflammation of the pancreas, often due to gallstones or alcohol."}
+{"instruction": "What is chronic pancreatitis?", "input": "", "output": "Chronic pancreatitis is long-term inflammation of the pancreas leading to permanent damage."}
+{"instruction": "What is pancreatic cancer?", "input": "", "output": "Pancreatic cancer is a malignant tumor that arises from the pancreas, often with poor prognosis."}
+{"instruction": "What is gastroesophageal reflux disease (GERD)?", "input": "", "output": "GERD is a condition where stomach acid frequently flows back into the esophagus, causing irritation."}
+{"instruction": "What is peptic ulcer disease?", "input": "", "output": "Peptic ulcer disease refers to sores in the lining of the stomach or duodenum due to acid and pepsin damage."}
+{"instruction": "What is gastritis?", "input": "", "output": "Gastritis is inflammation of the stomach lining."}
+{"instruction": "What is gastric carcinoma?", "input": "", "output": "Gastric carcinoma is a malignant tumor of the stomach lining."}
+{"instruction": "What is celiac disease?", "input": "", "output": "Celiac disease is an autoimmune disorder triggered by gluten, leading to small intestine damage."}
+{"instruction": "What is Crohn’s disease?", "input": "", "output": "Crohn’s disease is a chronic inflammatory bowel disease that can affect any part of the gastrointestinal tract."}
+{"instruction": "What is ulcerative colitis?", "input": "", "output": "Ulcerative colitis is a chronic inflammatory bowel disease that affects the colon and rectum."}
+{"instruction": "What is irritable bowel syndrome (IBS)?", "input": "", "output": "IBS is a functional gastrointestinal disorder causing abdominal pain, bloating, and altered bowel habits."}
+{"instruction": "What is diverticulosis?", "input": "", "output": "Diverticulosis is the presence of small pouches (diverticula) in the colon wall."}
+{"instruction": "What is diverticulitis?", "input": "", "output": "Diverticulitis is inflammation or infection of diverticula in the colon."}
+{"instruction": "What is colorectal cancer?", "input": "", "output": "Colorectal cancer is a malignant tumor arising from the colon or rectum."}
+{"instruction": "What is hemorrhoid?", "input": "", "output": "Hemorrhoids are swollen veins in the lower rectum or anus."}
+{"instruction": "What is anal fissure?", "input": "", "output": "An anal fissure is a small tear in the lining of the anus causing pain and bleeding."}
+{"instruction": "What is appendicitis?", "input": "", "output": "Appendicitis is inflammation of the appendix, usually requiring surgical removal."}
+{"instruction": "What is peritonitis?", "input": "", "output": "Peritonitis is inflammation of the peritoneum, often due to infection or perforation."}
+{"instruction": "What is intestinal obstruction?", "input": "", "output": "Intestinal obstruction is a blockage that prevents normal movement of intestinal contents."}
+{"instruction": "What is volvulus?", "input": "", "output": "Volvulus is twisting of the intestine, which can cause obstruction and ischemia."}
+{"instruction": "What is intussusception?", "input": "", "output": "Intussusception is a condition where one part of the intestine slides into another, causing obstruction."}
+{"instruction": "What is hernia?", "input": "", "output": "A hernia is the protrusion of an organ or tissue through a weak spot in the surrounding muscle or connective tissue."}
+{"instruction": "What is inguinal hernia?", "input": "", "output": "An inguinal hernia occurs when abdominal contents protrude through the inguinal canal."}
+{"instruction": "What is umbilical hernia?", "input": "", "output": "An umbilical hernia is a bulge near the belly button where intestine or fat pushes through the abdominal wall."}
+{"instruction": "What is femoral hernia?", "input": "", "output": "A femoral hernia occurs when tissue pushes through the femoral canal near the groin."}
+{"instruction": "What is hiatal hernia?", "input": "", "output": "A hiatal hernia occurs when part of the stomach bulges into the chest through the diaphragm."}
+{"instruction": "What is hepatitis D?", "input": "", "output": "Hepatitis D is a viral liver infection that occurs only in people already infected with hepatitis B."}
+{"instruction": "What is hepatitis E?", "input": "", "output": "Hepatitis E is a viral liver infection transmitted via the fecal-oral route, often through contaminated water."}
+{"instruction": "What is esophageal varices?", "input": "", "output": "Esophageal varices are swollen veins in the esophagus, usually due to portal hypertension."}
+{"instruction": "What is Barrett’s esophagus?", "input": "", "output": "Barrett’s esophagus is a condition where the esophageal lining changes due to chronic acid reflux, increasing cancer risk."}
+{"instruction": "What is achalasia?", "input": "", "output": "Achalasia is a disorder where the lower esophageal sphincter fails to relax, causing swallowing difficulty."}
+{"instruction": "What is dysphagia?", "input": "", "output": "Dysphagia is difficulty swallowing."}
+{"instruction": "What is odynophagia?", "input": "", "output": "Odynophagia is painful swallowing."}
+{"instruction": "What is melena?", "input": "", "output": "Melena is black, tarry stools caused by gastrointestinal bleeding."}
+{"instruction": "What is hematemesis?", "input": "", "output": "Hematemesis is vomiting of blood."}
+{"instruction": "What is hematochezia?", "input": "", "output": "Hematochezia is the passage of fresh blood per rectum."}
+{"instruction": "What is steatorrhea?", "input": "", "output": "Steatorrhea is fatty, foul-smelling stool due to malabsorption."}
+{"instruction": "What is lactose intolerance?", "input": "", "output": "Lactose intolerance is the inability to digest lactose due to lactase enzyme deficiency."}
+{"instruction": "What is short bowel syndrome?", "input": "", "output": "Short bowel syndrome occurs when a significant portion of the small intestine is missing or not functional, leading to malabsorption."}
+{"instruction": "What is Zollinger-Ellison syndrome?", "input": "", "output": "Zollinger-Ellison syndrome is a condition caused by gastrin-secreting tumors leading to excess stomach acid and ulcers."}
+{"instruction": "What is pernicious anemia?", "input": "", "output": "Pernicious anemia is a type of anemia caused by vitamin B12 deficiency due to impaired absorption."}
+{"instruction": "What is megaloblastic anemia?", "input": "", "output": "Megaloblastic anemia is characterized by large, abnormal red blood cells, usually due to vitamin B12 or folate deficiency."}
+{"instruction": "What is folate deficiency anemia?", "input": "", "output": "Folate deficiency anemia is caused by insufficient folate, leading to impaired red blood cell production."}
+{"instruction": "What is vitamin B12 deficiency anemia?", "input": "", "output": "Vitamin B12 deficiency anemia occurs when lack of vitamin B12 leads to abnormal red blood cell formation."}
+{"instruction": "What is hemolytic anemia?", "input": "", "output": "Hemolytic anemia is caused by premature destruction of red blood cells."}
+{"instruction": "What is sickle cell anemia?", "input": "", "output": "Sickle cell anemia is a genetic disorder where red blood cells are abnormally shaped, causing blockages and anemia."}
+{"instruction": "What is glucose-6-phosphate dehydrogenase deficiency?", "input": "", "output": "G6PD deficiency is a genetic disorder that makes red blood cells vulnerable to oxidative stress, leading to hemolysis."}
+{"instruction": "What is polycythemia vera?", "input": "", "output": "Polycythemia vera is a blood disorder where the bone marrow makes too many red blood cells."}
+{"instruction": "What is thrombocytopenia?", "input": "", "output": "Thrombocytopenia is a condition where the platelet count is abnormally low."}
+{"instruction": "What is thrombocytosis?", "input": "", "output": "Thrombocytosis is an abnormally high platelet count."}
+{"instruction": "What is disseminated intravascular coagulation (DIC)?", "input": "", "output": "DIC is a condition where widespread clotting occurs in small blood vessels, leading to both clotting and bleeding."}
+{"instruction": "What is vitamin K deficiency?", "input": "", "output": "Vitamin K deficiency impairs blood clotting and can cause excessive bleeding."}
+{"instruction": "What is hemophilia A?", "input": "", "output": "Hemophilia A is a genetic bleeding disorder caused by deficiency of clotting factor VIII."}
+{"instruction": "What is hemophilia B?", "input": "", "output": "Hemophilia B is a genetic bleeding disorder caused by deficiency of clotting factor IX."}
+{"instruction": "What is von Willebrand disease?", "input": "", "output": "Von Willebrand disease is a bleeding disorder caused by deficiency or dysfunction of von Willebrand factor."}
+{"instruction": "What is aplastic crisis?", "input": "", "output": "Aplastic crisis is a temporary cessation of red blood cell production, often triggered by parvovirus B19 infection."}
+{"instruction": "What is heparin-induced thrombocytopenia?", "input": "", "output": "Heparin-induced thrombocytopenia is an immune-mediated reaction to heparin causing low platelets and thrombosis."}
+{"instruction": "What is warfarin?", "input": "", "output": "Warfarin is an oral anticoagulant that inhibits vitamin K–dependent clotting factors."}
+{"instruction": "What is heparin?", "input": "", "output": "Heparin is an anticoagulant that works by activating antithrombin III, inhibiting clotting factors."}
+{"instruction": "What is aspirin used for?", "input": "", "output": "Aspirin is used as an antiplatelet drug to reduce risk of heart attack and stroke."}
+{"instruction": "What is clopidogrel?", "input": "", "output": "Clopidogrel is an antiplatelet drug that prevents blood clots by inhibiting platelet aggregation."}
+{"instruction": "What is thrombolytic therapy?", "input": "", "output": "Thrombolytic therapy involves drugs that dissolve blood clots, such as tPA (tissue plasminogen activator)."}
+{"instruction": "What is anticoagulant therapy?", "input": "", "output": "Anticoagulant therapy uses medications like heparin or warfarin to prevent blood clot formation."}
+{"instruction": "What is antiplatelet therapy?", "input": "", "output": "Antiplatelet therapy uses drugs like aspirin or clopidogrel to prevent platelet aggregation and clot formation."}
+{"instruction": "What is blood transfusion?", "input": "", "output": "Blood transfusion is the process of transferring donated blood or blood components into a patient’s circulation."}
+{"instruction": "What is bone marrow transplant?", "input": "", "output": "Bone marrow transplant is a procedure where damaged bone marrow is replaced with healthy stem cells."}
+{"instruction": "What is stem cell therapy?", "input": "", "output": "Stem cell therapy involves using stem cells to repair or replace damaged tissues or organs."}
+{"instruction": "What is immunotherapy?", "input": "", "output": "Immunotherapy is a type of treatment that uses the body's immune system to fight cancer and other diseases."}
+{"instruction": "What is chemotherapy?", "input": "", "output": "Chemotherapy is the use of drugs to kill or stop the growth of cancer cells."}
+{"instruction": "What is radiotherapy?", "input": "", "output": "Radiotherapy is the use of high-energy radiation to destroy or damage cancer cells."}
+{"instruction": "What is targeted therapy?", "input": "", "output": "Targeted therapy uses drugs that specifically target cancer cell proteins or genes involved in growth and survival."}
+{"instruction": "What is hormone therapy in cancer?", "input": "", "output": "Hormone therapy blocks or lowers hormones to slow or stop the growth of hormone-sensitive cancers."}
+{"instruction": "What is palliative care?", "input": "", "output": "Palliative care is specialized medical care focused on relief of symptoms and improving quality of life for serious illnesses."}
+{"instruction": "What is hospice care?", "input": "", "output": "Hospice care is end-of-life care that provides comfort and support to terminally ill patients."}
+{"instruction": "What is oncology?", "input": "", "output": "Oncology is the branch of medicine that deals with the prevention, diagnosis, and treatment of cancer."}
+{"instruction": "What is hematology?", "input": "", "output": "Hematology is the branch of medicine that studies blood, blood-forming organs, and blood diseases."}
+{"instruction": "What is cardiology?", "input": "", "output": "Cardiology is the branch of medicine that studies and treats heart diseases."}
+{"instruction": "What is pulmonology?", "input": "", "output": "Pulmonology is the branch of medicine that deals with diseases of the respiratory system."}
+{"instruction": "What is gastroenterology?", "input": "", "output": "Gastroenterology is the branch of medicine that studies the digestive system and its disorders."}
+{"instruction": "What is nephrology?", "input": "", "output": "Nephrology is the branch of medicine that deals with kidney diseases."}
+{"instruction": "What is urology?", "input": "", "output": "Urology is the branch of medicine dealing with urinary tract and male reproductive system diseases."}
+{"instruction": "What is endocrinology?", "input": "", "output": "Endocrinology is the branch of medicine that studies hormones and endocrine system disorders."}
+{"instruction": "What is neurology?", "input": "", "output": "Neurology is the branch of medicine that deals with the nervous system and its disorders."}
+{"instruction": "What is psychiatry?", "input": "", "output": "Psychiatry is the branch of medicine focused on diagnosis, treatment, and prevention of mental health disorders."}
+{"instruction": "What is dermatology?", "input": "", "output": "Dermatology is the branch of medicine that deals with skin, hair, and nail conditions."}
+{"instruction": "What is ophthalmology?", "input": "", "output": "Ophthalmology is the branch of medicine that deals with eye diseases."}
+{"instruction": "What is otolaryngology?", "input": "", "output": "Otolaryngology is the branch of medicine that deals with ear, nose, and throat (ENT) disorders."}
+{"instruction": "What is orthopedics?", "input": "", "output": "Orthopedics is the branch of medicine that deals with the musculoskeletal system, including bones and joints."}
+{"instruction": "What is rheumatology?", "input": "", "output": "Rheumatology is the branch of medicine that deals with autoimmune and musculoskeletal diseases."}
+{"instruction": "What is pediatrics?", "input": "", "output": "Pediatrics is the branch of medicine that deals with the health of infants, children, and adolescents."}
+{"instruction": "What is geriatrics?", "input": "", "output": "Geriatrics is the branch of medicine focused on the health of elderly people."}
+{"instruction": "What is obstetrics?", "input": "", "output": "Obstetrics is the branch of medicine dealing with pregnancy, childbirth, and postpartum care."}
+{"instruction": "What is gynecology?", "input": "", "output": "Gynecology is the branch of medicine that deals with the female reproductive system."}
+{"instruction": "What is andrology?", "input": "", "output": "Andrology is the branch of medicine concerned with male reproductive health."}
+{"instruction": "What is pathology?", "input": "", "output": "Pathology is the study of diseases, their causes, and effects on the body."}
+{"instruction": "What is microbiology?", "input": "", "output": "Microbiology is the study of microorganisms, including bacteria, viruses, fungi, and parasites."}
+{"instruction": "What is virology?", "input": "", "output": "Virology is the study of viruses and virus-related diseases."}
+{"instruction": "What is bacteriology?", "input": "", "output": "Bacteriology is the study of bacteria and bacterial diseases."}
+{"instruction": "What is parasitology?", "input": "", "output": "Parasitology is the study of parasites and parasitic diseases."}
+{"instruction": "What is immunology?", "input": "", "output": "Immunology is the study of the immune system and immune-related disorders."}
+{"instruction": "What is forensic medicine?", "input": "", "output": "Forensic medicine applies medical knowledge to legal investigations, especially in determining cause of death."}
+{"instruction": "What is community medicine?", "input": "", "output": "Community medicine focuses on prevention, promotion, and maintenance of health in the community."}
+{"instruction": "What is public health?", "input": "", "output": "Public health is the science of protecting and improving the health of populations through prevention, education, and policy."}
+{"instruction": "What is epidemiology?", "input": "", "output": "Epidemiology is the study of how diseases spread, their distribution, and determinants in populations."}
+{"instruction": "What is biostatistics?", "input": "", "output": "Biostatistics is the application of statistical methods to biological and medical research."}
+{"instruction": "What is health informatics?", "input": "", "output": "Health informatics is the use of information technology to manage and analyze healthcare data."}
+{"instruction": "What is evidence-based medicine?", "input": "", "output": "Evidence-based medicine is the practice of making clinical decisions based on the best available research evidence."}
+{"instruction": "What is clinical trial?", "input": "", "output": "A clinical trial is a research study that tests the safety and effectiveness of medical treatments or interventions."}
+{"instruction": "What is placebo?", "input": "", "output": "A placebo is an inactive substance given in clinical trials to compare against the active treatment."}
+{"instruction": "What is randomization in clinical trials?", "input": "", "output": "Randomization is the process of assigning participants to treatment groups by chance to reduce bias."}
+{"instruction": "What is double-blind study?", "input": "", "output": "A double-blind study is a type of clinical trial where neither the participants nor researchers know who is receiving the treatment or placebo."}
+{"instruction": "What is informed consent?", "input": "", "output": "Informed consent is the process of explaining risks, benefits, and alternatives before a patient agrees to a procedure or study."}
+{"instruction": "What is health promotion?", "input": "", "output": "Health promotion involves activities that help people improve their health and prevent disease."}
+{"instruction": "What is disease prevention?", "input": "", "output": "Disease prevention includes actions taken to reduce the risk of developing diseases, such as vaccinations and screenings."}
+{"instruction": "What is vaccination?", "input": "", "output": "Vaccination is the process of administering a vaccine to stimulate the immune system and prevent infectious diseases."}
+{"instruction": "What is immunization?", "input": "", "output": "Immunization is the process by which a person becomes protected against a disease, either through vaccination or prior infection."}
+{"instruction": "What is herd immunity?", "input": "", "output": "Herd immunity occurs when a large portion of a population becomes immune to a disease, reducing its spread."}
+{"instruction": "What is active immunity?", "input": "", "output": "Active immunity occurs when exposure to a disease or vaccine stimulates the immune system to produce antibodies."}
+{"instruction": "What is passive immunity?", "input": "", "output": "Passive immunity is provided when a person receives ready-made antibodies, such as from maternal transfer or immunoglobulin therapy."}
+{"instruction": "What is congenital disease?", "input": "", "output": "A congenital disease is a condition present at birth due to genetic or developmental factors."}
+{"instruction": "What is genetic counseling?", "input": "", "output": "Genetic counseling provides information and support to individuals or families about inherited conditions."}
+{"instruction": "What is gene therapy?", "input": "", "output": "Gene therapy is a technique that modifies or replaces faulty genes to treat or prevent disease."}
+{"instruction": "What is precision medicine?", "input": "", "output": "Precision medicine is a healthcare approach that tailors treatment to individual genetic, lifestyle, and environmental factors."}
+{"instruction": "What is pharmacology?", "input": "", "output": "Pharmacology is the study of drugs, their actions, and effects on the body."}
+{"instruction": "What is pharmacokinetics?", "input": "", "output": "Pharmacokinetics is the study of how drugs are absorbed, distributed, metabolized, and excreted in the body."}
+{"instruction": "What is pharmacodynamics?", "input": "", "output": "Pharmacodynamics studies the effects of drugs on the body and how they exert their actions."}
+{"instruction": "What is toxicology?", "input": "", "output": "Toxicology is the study of harmful effects of substances, including drugs, chemicals, and toxins."}
+{"instruction": "What is over-the-counter drug?", "input": "", "output": "An over-the-counter drug is a medication available without a prescription."}
+{"instruction": "What is prescription drug?", "input": "", "output": "A prescription drug is a medication that requires authorization from a healthcare provider."}
+{"instruction": "What is adverse drug reaction?", "input": "", "output": "An adverse drug reaction is an unwanted or harmful effect caused by a medication at normal doses."}
+{"instruction": "What is drug interaction?", "input": "", "output": "A drug interaction occurs when one drug affects the activity of another, increasing or decreasing its effectiveness or side effects."}
+{"instruction": "What is polypharmacy?", "input": "", "output": "Polypharmacy is the use of multiple medications by a patient, often common in elderly populations."}
+{"instruction": "What is antimicrobial resistance?", "input": "", "output": "Antimicrobial resistance is the ability of microorganisms to resist the effects of drugs like antibiotics."}
+{"instruction": "What is antibiotic stewardship?", "input": "", "output": "Antibiotic stewardship is a program to promote appropriate use of antibiotics to combat resistance."}
+{"instruction": "What is nosocomial infection?", "input": "", "output": "A nosocomial infection is an infection acquired in a hospital or healthcare facility."}
+{"instruction": "What is sepsis?", "input": "", "output": "Sepsis is a life-threatening condition where infection triggers a widespread inflammatory response."}
+{"instruction": "What is septic shock?", "input": "", "output": "Septic shock is severe sepsis with dangerously low blood pressure despite fluid resuscitation."}
+{"instruction": "What is systemic inflammatory response syndrome (SIRS)?", "input": "", "output": "SIRS is a widespread inflammatory response in the body, which can occur due to infection or non-infectious causes."}
+{"instruction": "What is multiple organ dysfunction syndrome (MODS)?", "input": "", "output": "MODS is the progressive failure of two or more organ systems due to severe illness or injury."}
+{"instruction": "What is shock?", "input": "", "output": "Shock is a life-threatening condition where the body does not get enough blood flow to vital organs."}
+{"instruction": "What is hypovolemic shock?", "input": "", "output": "Hypovolemic shock occurs due to severe blood or fluid loss leading to inadequate circulation."}
+{"instruction": "What is cardiogenic shock?", "input": "", "output": "Cardiogenic shock is caused by failure of the heart to pump enough blood, often due to myocardial infarction."}
+{"instruction": "What is anaphylactic shock?", "input": "", "output": "Anaphylactic shock is a severe allergic reaction causing widespread vasodilation and airway obstruction."}
+{"instruction": "What is neurogenic shock?", "input": "", "output": "Neurogenic shock occurs due to spinal cord injury or damage leading to loss of vascular tone."}
+{"instruction": "What is obstructive shock?", "input": "", "output": "Obstructive shock is caused by physical obstruction of blood flow, such as pulmonary embolism or cardiac tamponade."}
+{"instruction": "What is cardiac arrest?", "input": "", "output": "Cardiac arrest is the sudden loss of heart function, leading to loss of circulation and consciousness."}
+{"instruction": "What is sudden cardiac death?", "input": "", "output": "Sudden cardiac death is unexpected death due to cardiac causes within a short time period, usually within one hour of symptom onset."}
+{"instruction": "What is resuscitation?", "input": "", "output": "Resuscitation is the process of reviving a person from unconsciousness or apparent death, often using CPR."}
+{"instruction": "What is CPR?", "input": "", "output": "CPR (cardiopulmonary resuscitation) is an emergency procedure combining chest compressions and rescue breaths to restore circulation and breathing."}
+{"instruction": "What is defibrillation?", "input": "", "output": "Defibrillation is the delivery of an electric shock to restore a normal heart rhythm in cardiac arrest."}
+{"instruction": "What is automated external defibrillator (AED)?", "input": "", "output": "An AED is a portable device that analyzes heart rhythm and delivers a shock if needed during cardiac arrest."}
+{"instruction": "What is advanced cardiac life support (ACLS)?", "input": "", "output": "ACLS is a set of clinical interventions for cardiac arrest, stroke, and other emergencies, including advanced airway and drug therapy."}
+{"instruction": "What is basic life support (BLS)?", "input": "", "output": "BLS is the initial care for cardiac arrest or respiratory failure, including CPR and use of an AED."}
+{"instruction": "What is stroke?", "input": "", "output": "Stroke is a sudden interruption of blood supply to the brain, causing neurological deficits."}
+{"instruction": "What is ischemic stroke?", "input": "", "output": "Ischemic stroke occurs due to a blockage in a blood vessel supplying the brain."}
+{"instruction": "What is hemorrhagic stroke?", "input": "", "output": "Hemorrhagic stroke occurs due to bleeding into the brain tissue or surrounding spaces."}
+{"instruction": "What is transient ischemic attack (TIA)?", "input": "", "output": "TIA is a brief episode of neurological dysfunction caused by temporary brain ischemia without permanent damage."}
+{"instruction": "What is intracerebral hemorrhage?", "input": "", "output": "Intracerebral hemorrhage is bleeding within the brain tissue."}
+{"instruction": "What is subarachnoid hemorrhage?", "input": "", "output": "Subarachnoid hemorrhage is bleeding into the space between the brain and its surrounding membrane."}
+{"instruction": "What is brain aneurysm?", "input": "", "output": "A brain aneurysm is a weakened area of a blood vessel in the brain that can bulge or rupture."}
+{"instruction": "What is carotid artery stenosis?", "input": "", "output": "Carotid artery stenosis is narrowing of the carotid arteries, increasing the risk of stroke."}
+{"instruction": "What is thrombolysis?", "input": "", "output": "Thrombolysis is the use of drugs to dissolve blood clots in conditions like ischemic stroke."}
+{"instruction": "What is thrombectomy?", "input": "", "output": "Thrombectomy is a procedure to remove a blood clot from a blood vessel."}
+{"instruction": "What is intracranial pressure (ICP)?", "input": "", "output": "ICP is the pressure inside the skull and brain tissue."}
+{"instruction": "What is meningitis?", "input": "", "output": "Meningitis is inflammation of the meninges, usually caused by infection."}
+{"instruction": "What is bacterial meningitis?", "input": "", "output": "Bacterial meningitis is a life-threatening infection of the meninges caused by bacteria."}
+{"instruction": "What is viral meningitis?", "input": "", "output": "Viral meningitis is inflammation of the meninges caused by viruses, generally less severe than bacterial."}
+{"instruction": "What is encephalitis?", "input": "", "output": "Encephalitis is inflammation of the brain tissue, often due to viral infection."}
+{"instruction": "What is brain abscess?", "input": "", "output": "A brain abscess is a localized collection of pus in the brain due to infection."}
+{"instruction": "What is seizure?", "input": "", "output": "A seizure is a sudden, uncontrolled electrical disturbance in the brain."}
+{"instruction": "What is epilepsy?", "input": "", "output": "Epilepsy is a neurological disorder characterized by recurrent, unprovoked seizures."}
+{"instruction": "What is status epilepticus?", "input": "", "output": "Status epilepticus is a life-threatening condition of continuous or repeated seizures without recovery."}
+{"instruction": "What is migraine?", "input": "", "output": "Migraine is a neurological disorder characterized by recurrent headaches, often with nausea and sensitivity to light."}
+{"instruction": "What is cluster headache?", "input": "", "output": "Cluster headache is a severe headache occurring in cyclical patterns or clusters, usually around one eye."}
+{"instruction": "What is tension-type headache?", "input": "", "output": "Tension-type headache is a mild to moderate headache caused by muscle tension or stress."}
+{"instruction": "What is Parkinson’s disease?", "input": "", "output": "Parkinson’s disease is a progressive neurodegenerative disorder causing tremor, rigidity, and bradykinesia."}
+{"instruction": "What is Alzheimer’s disease?", "input": "", "output": "Alzheimer’s disease is a progressive neurodegenerative disorder causing memory loss and cognitive decline."}
+{"instruction": "What is multiple sclerosis?", "input": "", "output": "Multiple sclerosis is an autoimmune disease that damages the myelin sheath of nerve fibers in the central nervous system."}
+{"instruction": "What is amyotrophic lateral sclerosis (ALS)?", "input": "", "output": "ALS is a neurodegenerative disorder affecting motor neurons, leading to muscle weakness and paralysis."}
+{"instruction": "What is Guillain-Barré syndrome?", "input": "", "output": "Guillain-Barré syndrome is an autoimmune disorder causing rapid-onset muscle weakness due to peripheral nerve damage."}
+{"instruction": "What is neuropathy?", "input": "", "output": "Neuropathy is damage to the peripheral nerves causing pain, numbness, or weakness."}
+{"instruction": "What is myasthenia gravis?", "input": "", "output": "Myasthenia gravis is an autoimmune disorder causing weakness of voluntary muscles due to antibody-mediated neuromuscular junction damage."}
+{"instruction": "What is cerebral palsy?", "input": "", "output": "Cerebral palsy is a group of permanent movement disorders caused by damage to the developing brain."}
+{"instruction": "What is hydrocephalus?", "input": "", "output": "Hydrocephalus is abnormal accumulation of cerebrospinal fluid in the brain's ventricles."}
+{"instruction": "What is spina bifida?", "input": "", "output": "Spina bifida is a congenital defect where the spinal cord does not develop properly, causing spinal malformations."}
+{"instruction": "What is traumatic brain injury (TBI)?", "input": "", "output": "TBI is brain dysfunction caused by an external force, such as a blow to the head."}
+{"instruction": "What is concussion?", "input": "", "output": "Concussion is a mild TBI causing temporary brain function disturbance, often with headache and confusion."}
+{"instruction": "What is intracranial hemorrhage?", "input": "", "output": "Intracranial hemorrhage is bleeding within the skull, which can compress brain tissue."}
+{"instruction": "What is subdural hematoma?", "input": "", "output": "Subdural hematoma is a collection of blood between the dura mater and the brain, often due to head trauma."}
+{"instruction": "What is epidural hematoma?", "input": "", "output": "Epidural hematoma is a collection of blood between the skull and dura mater, often from arterial bleeding."}
+{"instruction": "What is concussion management?", "input": "", "output": "Concussion management includes rest, gradual return to activity, and monitoring for worsening symptoms."}
+{"instruction": "What is traumatic spinal cord injury?", "input": "", "output": "Traumatic spinal cord injury is damage to the spinal cord due to trauma, causing loss of motor or sensory function."}
+{"instruction": "What is paraplegia?", "input": "", "output": "Paraplegia is paralysis of the lower limbs due to spinal cord injury."}
+{"instruction": "What is quadriplegia?", "input": "", "output": "Quadriplegia is paralysis of all four limbs due to spinal cord injury."}
+{"instruction": "What is autonomic dysreflexia?", "input": "", "output": "Autonomic dysreflexia is a sudden, dangerous rise in blood pressure in individuals with spinal cord injury."}
+{"instruction": "What is cerebrovascular accident rehabilitation?", "input": "", "output": "CVA rehabilitation involves therapies like physical, occupational, and speech therapy to recover function after stroke."}
+{"instruction": "What is neurorehabilitation?", "input": "", "output": "Neurorehabilitation is the process of recovery and rehabilitation following neurological injury or disease."}
+{"instruction": "What is brain tumor?", "input": "", "output": "A brain tumor is an abnormal growth of cells in the brain which may be benign or malignant."}
+{"instruction": "What is glioblastoma?", "input": "", "output": "Glioblastoma is an aggressive type of malignant brain tumor."}
+{"instruction": "What is meningioma?", "input": "", "output": "Meningioma is a usually benign tumor arising from the meninges of the brain or spinal cord."}
+{"instruction": "What is pituitary adenoma?", "input": "", "output": "Pituitary adenoma is a benign tumor of the pituitary gland which may affect hormone secretion."}
+{"instruction": "What is epilepsy surgery?", "input": "", "output": "Epilepsy surgery involves removing or altering brain tissue to reduce or stop seizures."}
+{"instruction": "What is stroke?", "input": "", "output": "Stroke is a sudden interruption of blood supply to the brain, causing neurological deficits."}
+{"instruction": "What is ischemic stroke?", "input": "", "output": "Ischemic stroke occurs due to a blockage in a blood vessel supplying the brain."}
+{"instruction": "What is hemorrhagic stroke?", "input": "", "output": "Hemorrhagic stroke occurs due to bleeding into the brain tissue or surrounding spaces."}
+{"instruction": "What is transient ischemic attack (TIA)?", "input": "", "output": "TIA is a brief episode of neurological dysfunction caused by temporary brain ischemia without permanent damage."}
+{"instruction": "What is intracerebral hemorrhage?", "input": "", "output": "Intracerebral hemorrhage is bleeding within the brain tissue."}
+{"instruction": "What is subarachnoid hemorrhage?", "input": "", "output": "Subarachnoid hemorrhage is bleeding into the space between the brain and its surrounding membrane."}
+{"instruction": "What is brain aneurysm?", "input": "", "output": "A brain aneurysm is a weakened area of a blood vessel in the brain that can bulge or rupture."}
+{"instruction": "What is carotid artery stenosis?", "input": "", "output": "Carotid artery stenosis is narrowing of the carotid arteries, increasing the risk of stroke."}
+{"instruction": "What is thrombolysis?", "input": "", "output": "Thrombolysis is the use of drugs to dissolve blood clots in conditions like ischemic stroke."}
+{"instruction": "What is thrombectomy?", "input": "", "output": "Thrombectomy is a procedure to remove a blood clot from a blood vessel."}
+{"instruction": "What is intracranial pressure (ICP)?", "input": "", "output": "ICP is the pressure inside the skull and brain tissue."}
+{"instruction": "What is meningitis?", "input": "", "output": "Meningitis is inflammation of the meninges, usually caused by infection."}
+{"instruction": "What is bacterial meningitis?", "input": "", "output": "Bacterial meningitis is a life-threatening infection of the meninges caused by bacteria."}
+{"instruction": "What is viral meningitis?", "input": "", "output": "Viral meningitis is inflammation of the meninges caused by viruses, generally less severe than bacterial."}
+{"instruction": "What is encephalitis?", "input": "", "output": "Encephalitis is inflammation of the brain tissue, often due to viral infection."}
+{"instruction": "What is brain abscess?", "input": "", "output": "A brain abscess is a localized collection of pus in the brain due to infection."}
+{"instruction": "What is seizure?", "input": "", "output": "A seizure is a sudden, uncontrolled electrical disturbance in the brain."}
+{"instruction": "What is epilepsy?", "input": "", "output": "Epilepsy is a neurological disorder characterized by recurrent, unprovoked seizures."}
+{"instruction": "What is status epilepticus?", "input": "", "output": "Status epilepticus is a life-threatening condition of continuous or repeated seizures without recovery."}
+{"instruction": "What is migraine?", "input": "", "output": "Migraine is a neurological disorder characterized by recurrent headaches, often with nausea and sensitivity to light."}
+{"instruction": "What is cluster headache?", "input": "", "output": "Cluster headache is a severe headache occurring in cyclical patterns or clusters, usually around one eye."}
+{"instruction": "What is tension-type headache?", "input": "", "output": "Tension-type headache is a mild to moderate headache caused by muscle tension or stress."}
+{"instruction": "What is Parkinson’s disease?", "input": "", "output": "Parkinson’s disease is a progressive neurodegenerative disorder causing tremor, rigidity, and bradykinesia."}
+{"instruction": "What is Alzheimer’s disease?", "input": "", "output": "Alzheimer’s disease is a progressive neurodegenerative disorder causing memory loss and cognitive decline."}
+{"instruction": "What is multiple sclerosis?", "input": "", "output": "Multiple sclerosis is an autoimmune disease that damages the myelin sheath of nerve fibers in the central nervous system."}
+{"instruction": "What is amyotrophic lateral sclerosis (ALS)?", "input": "", "output": "ALS is a neurodegenerative disorder affecting motor neurons, leading to muscle weakness and paralysis."}
+{"instruction": "What is Guillain-Barré syndrome?", "input": "", "output": "Guillain-Barré syndrome is an autoimmune disorder causing rapid-onset muscle weakness due to peripheral nerve damage."}
+{"instruction": "What is neuropathy?", "input": "", "output": "Neuropathy is damage to the peripheral nerves causing pain, numbness, or weakness."}
+{"instruction": "What is myasthenia gravis?", "input": "", "output": "Myasthenia gravis is an autoimmune disorder causing weakness of voluntary muscles due to antibody-mediated neuromuscular junction damage."}
+{"instruction": "What is cerebral palsy?", "input": "", "output": "Cerebral palsy is a group of permanent movement disorders caused by damage to the developing brain."}
+{"instruction": "What is hydrocephalus?", "input": "", "output": "Hydrocephalus is abnormal accumulation of cerebrospinal fluid in the brain's ventricles."}
+{"instruction": "What is spina bifida?", "input": "", "output": "Spina bifida is a congenital defect where the spinal cord does not develop properly, causing spinal malformations."}
+{"instruction": "What is traumatic brain injury (TBI)?", "input": "", "output": "TBI is brain dysfunction caused by an external force, such as a blow to the head."}
+{"instruction": "What is concussion?", "input": "", "output": "Concussion is a mild TBI causing temporary brain function disturbance, often with headache and confusion."}
+{"instruction": "What is intracranial hemorrhage?", "input": "", "output": "Intracranial hemorrhage is bleeding within the skull, which can compress brain tissue."}
+{"instruction": "What is subdural hematoma?", "input": "", "output": "Subdural hematoma is a collection of blood between the dura mater and the brain, often due to head trauma."}
+{"instruction": "What is epidural hematoma?", "input": "", "output": "Epidural hematoma is a collection of blood between the skull and dura mater, often from arterial bleeding."}
+{"instruction": "What is concussion management?", "input": "", "output": "Concussion management includes rest, gradual return to activity, and monitoring for worsening symptoms."}
+{"instruction": "What is traumatic spinal cord injury?", "input": "", "output": "Traumatic spinal cord injury is damage to the spinal cord due to trauma, causing loss of motor or sensory function."}
+{"instruction": "What is paraplegia?", "input": "", "output": "Paraplegia is paralysis of the lower limbs due to spinal cord injury."}
+{"instruction": "What is quadriplegia?", "input": "", "output": "Quadriplegia is paralysis of all four limbs due to spinal cord injury."}
+{"instruction": "What is autonomic dysreflexia?", "input": "", "output": "Autonomic dysreflexia is a sudden, dangerous rise in blood pressure in individuals with spinal cord injury."}
+{"instruction": "What is cerebrovascular accident rehabilitation?", "input": "", "output": "CVA rehabilitation involves therapies like physical, occupational, and speech therapy to recover function after stroke."}
+{"instruction": "What is neurorehabilitation?", "input": "", "output": "Neurorehabilitation is the process of recovery and rehabilitation following neurological injury or disease."}
+{"instruction": "What is brain tumor?", "input": "", "output": "A brain tumor is an abnormal growth of cells in the brain which may be benign or malignant."}
+{"instruction": "What is glioblastoma?", "input": "", "output": "Glioblastoma is an aggressive type of malignant brain tumor."}
+{"instruction": "What is meningioma?", "input": "", "output": "Meningioma is a usually benign tumor arising from the meninges of the brain or spinal cord."}
+{"instruction": "What is pituitary adenoma?", "input": "", "output": "Pituitary adenoma is a benign tumor of the pituitary gland which may affect hormone secretion."}
+{"instruction": "What is epilepsy surgery?", "input": "", "output": "Epilepsy surgery involves removing or altering brain tissue to reduce or stop seizures."}
+{"instruction": "What is hypertension?", "input": "", "output": "Hypertension is a condition where blood pressure is consistently elevated above normal levels."}
+{"instruction": "What is primary hypertension?", "input": "", "output": "Primary hypertension is high blood pressure with no identifiable cause, often related to genetics and lifestyle."}
+{"instruction": "What is secondary hypertension?", "input": "", "output": "Secondary hypertension is high blood pressure caused by an underlying condition such as kidney disease or endocrine disorders."}
+{"instruction": "What is hypotension?", "input": "", "output": "Hypotension is abnormally low blood pressure, which can cause dizziness and fainting."}
+{"instruction": "What is preeclampsia?", "input": "", "output": "Preeclampsia is a pregnancy complication characterized by high blood pressure and organ dysfunction, usually after 20 weeks of gestation."}
+{"instruction": "What is eclampsia?", "input": "", "output": "Eclampsia is the occurrence of seizures in a woman with preeclampsia."}
+{"instruction": "What is heart failure?", "input": "", "output": "Heart failure is a condition where the heart cannot pump blood effectively to meet the body’s needs."}
+{"instruction": "What is left-sided heart failure?", "input": "", "output": "Left-sided heart failure occurs when the left ventricle cannot pump blood efficiently, causing pulmonary congestion and dyspnea."}
+{"instruction": "What is right-sided heart failure?", "input": "", "output": "Right-sided heart failure occurs when the right ventricle cannot pump blood to the lungs, causing peripheral edema and ascites."}
+{"instruction": "What is congestive heart failure?", "input": "", "output": "Congestive heart failure is a type of heart failure where fluid accumulates in the lungs and other tissues."}
+{"instruction": "What is myocardial infarction?", "input": "", "output": "Myocardial infarction is the death of heart muscle due to blockage of coronary blood flow, commonly known as a heart attack."}
+{"instruction": "What is angina pectoris?", "input": "", "output": "Angina pectoris is chest pain caused by reduced blood flow to the heart muscle."}
+{"instruction": "What is stable angina?", "input": "", "output": "Stable angina is predictable chest pain that occurs with exertion and is relieved by rest or medication."}
+{"instruction": "What is unstable angina?", "input": "", "output": "Unstable angina is chest pain that occurs unpredictably, often at rest, and signals increased risk of heart attack."}
+{"instruction": "What is atherosclerosis?", "input": "", "output": "Atherosclerosis is the buildup of fatty plaques in the arteries, leading to reduced blood flow."}
+{"instruction": "What is coronary artery disease (CAD)?", "input": "", "output": "CAD is the narrowing or blockage of coronary arteries, usually due to atherosclerosis, causing angina or myocardial infarction."}
+{"instruction": "What is peripheral vascular disease?", "input": "", "output": "Peripheral vascular disease is the narrowing or blockage of blood vessels outside the heart and brain, often affecting the legs."}
+{"instruction": "What is deep vein thrombosis (DVT)?", "input": "", "output": "DVT is the formation of a blood clot in a deep vein, usually in the legs."}
+{"instruction": "What is pulmonary embolism?", "input": "", "output": "Pulmonary embolism is a blockage of a pulmonary artery by a blood clot, often originating from a DVT."}
+{"instruction": "What is atrial fibrillation?", "input": "", "output": "Atrial fibrillation is an irregular, often rapid heart rhythm originating from the atria."}
+{"instruction": "What is ventricular tachycardia?", "input": "", "output": "Ventricular tachycardia is a fast heart rhythm originating from the ventricles, which can be life-threatening."}
+{"instruction": "What is ventricular fibrillation?", "input": "", "output": "Ventricular fibrillation is a life-threatening irregular heart rhythm where ventricles quiver instead of pumping blood."}
+{"instruction": "What is bradycardia?", "input": "", "output": "Bradycardia is a slower-than-normal heart rate, usually less than 60 beats per minute."}
+{"instruction": "What is tachycardia?", "input": "", "output": "Tachycardia is a faster-than-normal heart rate, usually above 100 beats per minute."}
+{"instruction": "What is cardiomyopathy?", "input": "", "output": "Cardiomyopathy is a disease of the heart muscle that affects its size, shape, or function."}
+{"instruction": "What is dilated cardiomyopathy?", "input": "", "output": "Dilated cardiomyopathy is a condition where the heart chambers enlarge and weaken, reducing pumping efficiency."}
+{"instruction": "What is hypertrophic cardiomyopathy?", "input": "", "output": "Hypertrophic cardiomyopathy is a condition where the heart muscle thickens, potentially obstructing blood flow."}
+{"instruction": "What is restrictive cardiomyopathy?", "input": "", "output": "Restrictive cardiomyopathy is a condition where the heart becomes rigid and cannot fill properly."}
+{"instruction": "What is valvular heart disease?", "input": "", "output": "Valvular heart disease is dysfunction of one or more heart valves, affecting blood flow through the heart."}
+{"instruction": "What is mitral valve prolapse?", "input": "", "output": "Mitral valve prolapse is a condition where the mitral valve leaflets bulge into the left atrium during contraction."}
+{"instruction": "What is aortic stenosis?", "input": "", "output": "Aortic stenosis is narrowing of the aortic valve opening, reducing blood flow from the left ventricle."}
+{"instruction": "What is mitral regurgitation?", "input": "", "output": "Mitral regurgitation is leakage of blood backward through the mitral valve when the heart contracts."}
+{"instruction": "What is endocarditis?", "input": "", "output": "Endocarditis is infection of the inner lining of the heart and heart valves."}
+{"instruction": "What is pericarditis?", "input": "", "output": "Pericarditis is inflammation of the pericardium, the sac surrounding the heart."}
+{"instruction": "What is pericardial effusion?", "input": "", "output": "Pericardial effusion is accumulation of fluid in the pericardial sac around the heart."}
+{"instruction": "What is cardiac tamponade?", "input": "", "output": "Cardiac tamponade is a life-threatening condition where fluid accumulation compresses the heart and impairs its function."}
+{"instruction": "What is shockable rhythm?", "input": "", "output": "Shockable rhythms are heart rhythms like ventricular fibrillation or pulseless ventricular tachycardia that can be treated with defibrillation."}
+{"instruction": "What is non-shockable rhythm?", "input": "", "output": "Non-shockable rhythms are heart rhythms like asystole or pulseless electrical activity that are not treated with defibrillation."}
+{"instruction": "What is cardiopulmonary rehabilitation?", "input": "", "output": "Cardiopulmonary rehabilitation is a program of exercise, education, and counseling to improve heart and lung health."}
+{"instruction": "What is lipid profile?", "input": "", "output": "A lipid profile is a blood test measuring cholesterol, triglycerides, LDL, and HDL to assess cardiovascular risk."}
+{"instruction": "What is hyperlipidemia?", "input": "", "output": "Hyperlipidemia is abnormally high levels of lipids (cholesterol or triglycerides) in the blood."}
+{"instruction": "What is statin therapy?", "input": "", "output": "Statin therapy uses drugs that lower cholesterol levels to reduce cardiovascular risk."}
+{"instruction": "What is angiotensin-converting enzyme (ACE) inhibitor?", "input": "", "output": "ACE inhibitors are drugs that lower blood pressure by blocking the conversion of angiotensin I to angiotensin II."}
+{"instruction": "What is beta-blocker?", "input": "", "output": "Beta-blockers are medications that reduce heart rate and blood pressure by blocking beta-adrenergic receptors."}
+{"instruction": "What is calcium channel blocker?", "input": "", "output": "Calcium channel blockers are drugs that relax blood vessels and reduce heart rate by blocking calcium entry into cells."}
+{"instruction": "What is diuretic?", "input": "", "output": "Diuretics are medications that increase urine production to reduce fluid overload and lower blood pressure."}
+{"instruction": "What is emphysema?", "input": "", "output": "Emphysema is a type of COPD where the alveoli are damaged, reducing respiratory surface area and causing shortness of breath."}
+{"instruction": "What is chronic bronchitis?", "input": "", "output": "Chronic bronchitis is inflammation of the bronchi with persistent cough and mucus production for at least three months in two consecutive years."}
+{"instruction": "What is bronchiectasis?", "input": "", "output": "Bronchiectasis is permanent dilation of the bronchi due to chronic infection or inflammation."}
+{"instruction": "What is pulmonary fibrosis?", "input": "", "output": "Pulmonary fibrosis is scarring of lung tissue leading to stiffness and reduced oxygen exchange."}
+{"instruction": "What is pneumonia?", "input": "", "output": "Pneumonia is infection of the lung parenchyma, causing fever, cough, and difficulty breathing."}
+{"instruction": "What is community-acquired pneumonia (CAP)?", "input": "", "output": "CAP is pneumonia acquired outside of hospitals or healthcare settings."}
+{"instruction": "What is hospital-acquired pneumonia (HAP)?", "input": "", "output": "HAP is pneumonia that develops 48 hours or more after hospital admission, not incubating at the time of admission."}
+{"instruction": "What is aspiration pneumonia?", "input": "", "output": "Aspiration pneumonia occurs when food, liquid, or vomit is inhaled into the lungs, causing infection."}
+{"instruction": "What is tuberculosis (TB)?", "input": "", "output": "Tuberculosis is a contagious infection caused by Mycobacterium tuberculosis, usually affecting the lungs."}
+{"instruction": "What is latent TB?", "input": "", "output": "Latent TB is an inactive form of tuberculosis where the bacteria are present but the person has no symptoms and is not contagious."}
+{"instruction": "What is active TB?", "input": "", "output": "Active TB is when Mycobacterium tuberculosis multiplies and causes symptoms, making the person contagious."}
+{"instruction": "What is multidrug-resistant TB (MDR-TB)?", "input": "", "output": "MDR-TB is tuberculosis resistant to at least isoniazid and rifampicin, the two most effective TB drugs."}
+{"instruction": "What is extensively drug-resistant TB (XDR-TB)?", "input": "", "output": "XDR-TB is tuberculosis resistant to first-line drugs and most second-line drugs."}
+{"instruction": "What is pleuritis (pleurisy)?", "input": "", "output": "Pleuritis is inflammation of the pleura, causing sharp chest pain worsened by breathing."}
+{"instruction": "What is pleural effusion?", "input": "", "output": "Pleural effusion is accumulation of fluid between the layers of the pleura surrounding the lungs."}
+{"instruction": "What is pneumothorax?", "input": "", "output": "Pneumothorax is the presence of air in the pleural space, causing lung collapse."}
+{"instruction": "What is tension pneumothorax?", "input": "", "output": "Tension pneumothorax is a life-threatening condition where air accumulates under pressure in the pleural space, compressing the lungs and heart."}
+{"instruction": "What is sleep apnea?", "input": "", "output": "Sleep apnea is a disorder characterized by repeated pauses in breathing during sleep."}
+{"instruction": "What is obstructive sleep apnea?", "input": "", "output": "Obstructive sleep apnea is caused by blockage of the upper airway during sleep."}
+{"instruction": "What is central sleep apnea?", "input": "", "output": "Central sleep apnea occurs when the brain fails to send proper signals to the muscles controlling breathing."}
+{"instruction": "What is pulmonary hypertension?", "input": "", "output": "Pulmonary hypertension is high blood pressure in the arteries of the lungs."}
+{"instruction": "What is cor pulmonale?", "input": "", "output": "Cor pulmonale is right-sided heart failure caused by chronic lung disease or pulmonary hypertension."}
+{"instruction": "What is cystic fibrosis?", "input": "", "output": "Cystic fibrosis is a genetic disorder causing thick mucus buildup in the lungs and digestive system."}
+{"instruction": "What is bronchial asthma exacerbation?", "input": "", "output": "An asthma exacerbation is a worsening of asthma symptoms requiring increased treatment or hospitalization."}
+{"instruction": "What is spirometry?", "input": "", "output": "Spirometry is a test measuring lung function, including airflow and lung volumes."}
+{"instruction": "What is peak expiratory flow rate (PEFR)?", "input": "", "output": "PEFR is the maximum speed of expiration, used to monitor asthma control."}
+{"instruction": "What is inhaler therapy?", "input": "", "output": "Inhaler therapy delivers medication directly to the lungs for conditions like asthma and COPD."}
+{"instruction": "What is short-acting beta-agonist (SABA)?", "input": "", "output": "SABA is a medication that quickly relaxes airway muscles to relieve bronchospasm."}
+{"instruction": "What is long-acting beta-agonist (LABA)?", "input": "", "output": "LABA is a medication that provides prolonged bronchodilation to control chronic airway disease."}
+{"instruction": "What is inhaled corticosteroid (ICS)?", "input": "", "output": "ICS is a medication that reduces airway inflammation in asthma and COPD."}
+{"instruction": "What is leukotriene receptor antagonist?", "input": "", "output": "Leukotriene receptor antagonists block chemicals that cause airway inflammation and constriction."}
+{"instruction": "What is theophylline?", "input": "", "output": "Theophylline is a bronchodilator used to treat asthma and COPD by relaxing airway muscles."}
+{"instruction": "What is oxygen therapy?", "input": "", "output": "Oxygen therapy provides supplemental oxygen to patients with low blood oxygen levels."}
+{"instruction": "What is mechanical ventilation?", "input": "", "output": "Mechanical ventilation is the use of a machine to assist or replace spontaneous breathing."}
+{"instruction": "What is non-invasive ventilation (NIV)?", "input": "", "output": "NIV provides ventilatory support through a mask or nasal device without intubation."}
+{"instruction": "What is intubation?", "input": "", "output": "Intubation is the insertion of a tube into the airway to maintain patency and deliver ventilation."}
+{"instruction": "What is tracheostomy?", "input": "", "output": "Tracheostomy is a surgical procedure creating an opening in the neck into the trachea to assist breathing."}
+{"instruction": "What is acute respiratory distress syndrome (ARDS)?", "input": "", "output": "ARDS is severe lung inflammation causing fluid accumulation, impaired oxygenation, and respiratory failure."}
+{"instruction": "What is pulmonary embolism risk factors?", "input": "", "output": "Risk factors include immobility, surgery, cancer, pregnancy, obesity, and genetic clotting disorders."}
+{"instruction": "What is deep vein thrombosis prevention?", "input": "", "output": "DVT prevention includes early mobilization, compression stockings, and anticoagulant therapy."}
+{"instruction": "What is spirometry interpretation?", "input": "", "output": "Spirometry interpretation involves analyzing FEV1, FVC, and FEV1/FVC ratio to diagnose obstructive or restrictive lung disease."}
+{"instruction": "What is restrictive lung disease?", "input": "", "output": "Restrictive lung disease is characterized by reduced lung volume, making it difficult to fully expand the lungs."}
+{"instruction": "What is obstructive lung disease?", "input": "", "output": "Obstructive lung disease is characterized by airflow limitation, making it hard to exhale completely from the lungs."}

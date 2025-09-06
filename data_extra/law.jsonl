@@ -1,0 +1,512 @@
+{"instruction": "What is habeas corpus?", "input": "", "output": "Habeas corpus is a legal writ that protects against unlawful detention, requiring a person under arrest to be brought before a court to determine the legality of their detention."}
+{"instruction": "What is the principle of separation of powers?", "input": "", "output": "The principle of separation of powers divides the functions of government into three branches—legislative, executive, and judicial—to prevent the concentration of power and provide checks and balances."}
+{"instruction": "What is a fiduciary duty?", "input": "", "output": "A fiduciary duty is an obligation to act in the best interest of another party, typically arising in relationships like trustee-beneficiary, director-company, or agent-principal."}
+{"instruction": "What is intellectual property law?", "input": "", "output": "Intellectual property law protects creations of the mind, including inventions, literary and artistic works, trademarks, and patents, granting the creator certain exclusive rights."}
+{"instruction": "What is the difference between a void contract and a voidable contract?", "input": "", "output": "A void contract is invalid from the beginning and has no legal effect, whereas a voidable contract is initially valid but can be declared void by one of the parties due to certain legal defenses."}
+{"instruction": "What is the difference between a misdemeanor and a felony?", "input": "", "output": "A misdemeanor is a less serious crime typically punishable by fines or short-term imprisonment, while a felony is a more serious crime punishable by longer imprisonment or even death."}
+{"instruction": "What is the role of precedent in common law?", "input": "", "output": "Precedent refers to previous court decisions that guide judges in deciding similar future cases, ensuring consistency and predictability in the law."}
+{"instruction": "What is the difference between an offer and an invitation to treat?", "input": "", "output": "An offer is a definite proposal made with the intention to be legally bound upon acceptance, while an invitation to treat is an invitation for others to make offers, such as displaying goods for sale."}
+{"instruction": "What is the difference between actual authority and apparent authority?", "input": "", "output": "Actual authority is the power granted to an agent by the principal, either expressly or implicitly, while apparent authority arises when a third party reasonably believes the agent has authority based on the principal's representations."}
+{"instruction": "What is the difference between a sole proprietorship and a partnership?", "input": "", "output": "A sole proprietorship is owned and operated by one individual who bears all risks and rewards, while a partnership involves two or more individuals sharing ownership, profits, losses, and liabilities."}
+{"instruction": "What is the difference between libel and slander?", "input": "", "output": "Libel refers to defamatory statements made in written or permanent form, while slander refers to defamatory statements made in spoken or transient form."}
+{"instruction": "What is the difference between an easement and a license in property law?", "input": "", "output": "An easement is a permanent right to use another's land for a specific purpose, while a license is a temporary permission to use land without creating any interest in it."}
+{"instruction": "What is the difference between arbitration and mediation?", "input": "", "output": "Arbitration involves a neutral third party making a binding decision on a dispute, while mediation involves a neutral third party facilitating negotiation between parties to reach a voluntary agreement."}
+{"instruction": "What is the difference between statutory law and common law?", "input": "", "output": "Statutory law consists of laws enacted by legislative bodies, while common law is developed through judicial decisions and precedents."}
+{"instruction": "What is the difference between a trust and a will?", "input": "", "output": "A trust is a legal arrangement where a trustee holds and manages assets for the benefit of beneficiaries, while a will is a legal document that outlines how a person's assets will be distributed after their death."}
+{"instruction": "What is the difference between an injunction and a restraining order?", "input": "", "output": "An injunction is a court order requiring a party to do or refrain from doing specific acts, while a restraining order is a type of injunction that specifically prohibits certain actions, often in cases of harassment or domestic violence."}
+{"instruction": "What is the difference between bankruptcy and insolvency?", "input": "", "output": "Insolvency is the financial state where an individual or entity cannot pay their debts as they come due, while bankruptcy is a legal process through which insolvent individuals or entities can seek relief from some or all of their debts."}
+{"instruction": "What is the difference between a public company and a private company?", "input": "", "output": "A public company has shares that are traded on public stock exchanges and can be owned by anyone, while a private company has shares that are not publicly traded and are typically owned by a smaller group of investors."}
+{"instruction": "What is the difference between an affidavit and a deposition?", "input": "", "output": "An affidavit is a written statement made under oath, while a deposition is an oral testimony given under oath outside of court, usually recorded for later use in legal proceedings."}
+{"instruction": "What is the difference between contributory negligence and comparative negligence?", "input": "", "output": "Contributory negligence bars recovery if the plaintiff is found to be even slightly at fault, while comparative negligence allows for recovery based on the degree of fault assigned to each party."}
+{"instruction": "What is the difference between an express contract and an implied contract?", "input": "", "output": "An express contract is explicitly stated in words, either orally or in writing, while an implied contract is formed by the actions or conduct of the parties involved."}
+{"instruction": "What is the difference between a patent and a trademark?", "input": "", "output": "A patent protects inventions and new processes for a limited time, granting exclusive rights to the inventor, while a trademark protects."}
+{"instruction": "What is consideration in contract law?", "input": "", "output": "Consideration is something of value exchanged between parties in a contract, which is necessary for the contract to be enforceable."}
+{"instruction": "What is the doctrine of ultra vires?", "input": "", "output": "The doctrine of ultra vires refers to acts performed by a company or authority that are beyond the scope of its legal power or authority, making them invalid."}
+{"instruction": "What is mens rea in criminal law?", "input": "", "output": "Mens rea is the mental element of a crime, referring to the intention or knowledge of wrongdoing that constitutes part of a criminal offense."}
+{"instruction": "What is actus reus?", "input": "", "output": "Actus reus is the physical act or conduct that constitutes a criminal offense, complementing mens rea to establish liability."}
+{"instruction": "What is res ipsa loquitur?", "input": "", "output": "Res ipsa loquitur is a tort doctrine meaning 'the thing speaks for itself', used when the facts imply negligence without direct evidence."}
+{"instruction": "What is tort law?", "input": "", "output": "Tort law addresses civil wrongs that cause harm or loss to individuals, allowing them to claim compensation from the responsible party."}
+{"instruction": "What is the difference between civil law and criminal law?", "input": "", "output": "Civil law deals with disputes between individuals or organizations, typically involving compensation, whereas criminal law deals with offenses against the state, punishable by fines or imprisonment."}
+{"instruction": "What is habeas corpus?", "input": "", "output": "Habeas corpus is a legal writ that protects against unlawful detention, requiring a person under arrest to be brought before a court to determine the legality of their detention."}
+{"instruction": "What is the principle of separation of powers?", "input": "", "output": "The principle of separation of powers divides the functions of government into legislative, executive, and judicial branches to prevent concentration of power and provide checks and balances."}
+{"instruction": "What is fiduciary duty?", "input": "", "output": "A fiduciary duty is an obligation to act in the best interest of another party, typically arising in relationships like trustee-beneficiary, director-company, or agent-principal."}
+{"instruction": "What is intellectual property law?", "input": "", "output": "Intellectual property law protects creations of the mind, including inventions, literary and artistic works, trademarks, and patents, granting the creator certain exclusive rights."}
+{"instruction": "What is patent?", "input": "", "output": "A patent is an exclusive right granted to an inventor to prevent others from making, using, or selling the invention for a limited time."}
+{"instruction": "What is trademark?", "input": "", "output": "A trademark is a symbol, word, or logo that identifies and distinguishes the source of goods or services of a particular entity."}
+{"instruction": "What is copyright?", "input": "", "output": "Copyright is a legal protection granted to the creators of original literary, artistic, musical, and other intellectual works."}
+{"instruction": "What is trade secret?", "input": "", "output": "A trade secret is confidential business information that provides a competitive advantage and is protected from unauthorized disclosure or use."}
+{"instruction": "What is a void contract?", "input": "", "output": "A void contract is invalid from the beginning and has no legal effect."}
+{"instruction": "What is a voidable contract?", "input": "", "output": "A voidable contract is initially valid but can be declared void by one of the parties due to certain legal defenses such as misrepresentation or undue influence."}
+{"instruction": "What is a breach of contract?", "input": "", "output": "A breach of contract occurs when a party fails to perform obligations as agreed in a contract, giving the other party a right to remedies."}
+{"instruction": "What is specific performance?", "input": "", "output": "Specific performance is a legal remedy that compels a party to fulfill their contractual obligations rather than paying damages."}
+{"instruction": "What is injunction?", "input": "", "output": "An injunction is a court order directing a party to do or refrain from doing a specific act."}
+{"instruction": "What is the difference between injunction and restraining order?", "input": "", "output": "An injunction can be permanent or temporary to compel action or prevent harm, while a restraining order is a specific temporary order to prevent immediate harm or harassment."}
+{"instruction": "What is negligence?", "input": "", "output": "Negligence is a tort where a person fails to exercise reasonable care, causing harm to another."}
+{"instruction": "What is contributory negligence?", "input": "", "output": "Contributory negligence occurs when the injured party's own negligence contributed to the harm, which can reduce or bar recovery."}
+{"instruction": "What is comparative negligence?", "input": "", "output": "Comparative negligence allocates fault between parties based on their respective contributions to the harm."}
+{"instruction": "What is strict liability?", "input": "", "output": "Strict liability is a legal doctrine where a party is held liable for harm regardless of fault or intent, often applied in cases involving dangerous activities or defective products."}
+{"instruction": "What is vicarious liability?", "input": "", "output": "Vicarious liability holds one party responsible for the actions of another, such as an employer being liable for employee actions within the scope of employment."}
+{"instruction": "What is defamation?", "input": "", "output": "Defamation is a false statement presented as fact that injures a person’s reputation, including libel (written) and slander (spoken)."}
+{"instruction": "What is the difference between libel and slander?", "input": "", "output": "Libel refers to written defamation, whereas slander refers to spoken defamation."}
+{"instruction": "What is arbitration?", "input": "", "output": "Arbitration is a method of dispute resolution where parties agree to have a neutral third party render a binding decision."}
+{"instruction": "What is mediation?", "input": "", "output": "Mediation is a dispute resolution process where a neutral third party facilitates negotiation between parties to reach a voluntary agreement."}
+{"instruction": "What is the difference between arbitration and mediation?", "input": "", "output": "Arbitration results in a binding decision by the arbitrator, while mediation seeks a mutually agreed settlement facilitated by the mediator without binding authority."}
+{"instruction": "What is the Indian Penal Code?", "input": "", "output": "The Indian Penal Code is the primary criminal code in India, defining offenses and prescribing punishments."}
+{"instruction": "What is the difference between cognizable and non-cognizable offenses?", "input": "", "output": "Cognizable offenses allow police to investigate without court permission, while non-cognizable offenses require court approval for investigation."}
+{"instruction": "What is bail?", "input": "", "output": "Bail is a temporary release of an accused person awaiting trial, usually under conditions to ensure their appearance in court."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a pre-arrest legal provision allowing an individual to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is writ of certiorari?", "input": "", "output": "Certiorari is a writ issued by a higher court to review the decision of a lower court or tribunal for legality."}
+{"instruction": "What is writ of mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a duty it is legally obligated to perform."}
+{"instruction": "What is writ of prohibition?", "input": "", "output": "Prohibition is a writ issued by a higher court to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is writ of quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person’s right to hold a public office, questioning by what authority they hold it."}
+{"instruction": "What is writ of habeas corpus?", "input": "", "output": "Habeas corpus is a writ protecting individuals from unlawful detention by requiring the detaining authority to produce the detainee before a court."}
+{"instruction": "What is the difference between substantive law and procedural law?", "input": "", "output": "Substantive law defines rights and duties, while procedural law outlines the methods and processes to enforce those rights and duties."}
+{"instruction": "What is equity?", "input": "", "output": "Equity refers to a system of law providing remedies and principles to achieve fairness when strict legal rules may result in injustice."}
+{"instruction": "What is contract vs tort?", "input": "", "output": "A contract arises from agreements between parties creating legal obligations, whereas a tort arises from duties imposed by law to prevent harm to others."}
+{"instruction": "What is power of attorney?", "input": "", "output": "Power of attorney is a legal document authorizing one person to act on behalf of another in legal or financial matters."}
+{"instruction": "What is the difference between lease and license?", "input": "", "output": "A lease grants exclusive possession of property for a term, creating a property interest, whereas a license merely allows use without transferring interest."}
+{"instruction": "What is company law?", "input": "", "output": "Company law governs the formation, operation, and regulation of companies, including rights and duties of shareholders and directors."}
+{"instruction": "What is limited liability?", "input": "", "output": "Limited liability limits a shareholder's responsibility for company debts to the amount invested in shares, protecting personal assets."}
+{"instruction": "What is partnership?", "input": "", "output": "A partnership is a business arrangement where two or more individuals share ownership, profits, and liabilities of a business."}
+{"instruction": "What is limited liability partnership (LLP)?", "input": "", "output": "An LLP is a partnership where partners have limited liability while retaining flexible internal management."}
+{"instruction": "What is intellectual property infringement?", "input": "", "output": "Intellectual property infringement occurs when a protected work, trademark, patent, or trade secret is used without authorization."}
+{"instruction": "What is copyright infringement?", "input": "", "output": "Copyright infringement is the unauthorized use, reproduction, or distribution of a copyrighted work."}
+{"instruction": "What is patent infringement?", "input": "", "output": "Patent infringement occurs when an invention protected by a patent is made, used, sold, or imported without permission."}
+{"instruction": "What is trademark infringement?", "input": "", "output": "Trademark infringement is the unauthorized use of a registered mark that causes confusion regarding the source of goods or services."}
+{"instruction": "What is family law?", "input": "", "output": "Family law governs legal issues related to marriage, divorce, child custody, adoption, and other domestic relations."}
+{"instruction": "What is divorce?", "input": "", "output": "Divorce is the legal dissolution of a marriage by a court, terminating marital rights and obligations."}
+{"instruction": "What is child custody?", "input": "", "output": "Child custody determines the legal and physical care of a child after separation or divorce, focusing on the child's best interests."}
+{"instruction": "What is adoption?", "input": "", "output": "Adoption is the legal process by which an individual or couple becomes the legal parent(s) of a child, assuming all rights and responsibilities."}
+{"instruction": "What is property law?", "input": "", "output": "Property law governs the ownership, use, and transfer of real and personal property."}
+{"instruction": "What is real property?", "input": "", "output": "Real property refers to land and anything permanently attached to it, such as buildings or trees."}
+{"instruction": "What is personal property?", "input": "", "output": "Personal property includes movable items that are not fixed to land, such as vehicles, furniture, and jewelry."}
+{"instruction": "What is eminent domain?", "input": "", "output": "Eminent domain is the government's power to take private property for public use, with just compensation to the owner."}
+{"instruction": "What is landlord-tenant law?", "input": "", "output": "Landlord-tenant law regulates the relationship between landlords and tenants, including lease agreements, rent, maintenance, and eviction."}
+{"instruction": "What is eviction?", "input": "", "output": "Eviction is the legal process by which a landlord removes a tenant from rental property for violating lease terms or non-payment of rent."}
+{"instruction": "What is environmental law?", "input": "", "output": "Environmental law encompasses regulations and policies aimed at protecting the environment and natural resources from harm."}
+{"instruction": "What is criminal procedure?", "input": "", "output": "Criminal procedure outlines the rules governing the investigation, prosecution, and adjudication of criminal offenses."}
+{"instruction": "What is due process?", "input": "", "output": "Due process is a constitutional guarantee that ensures fair treatment through the judicial system before depriving a person of life, liberty, or property."}
+{"instruction": "What is Miranda rights?", "input": "", "output": "Miranda rights are the rights read to an arrested person, including the right to remain silent and the right to an attorney."}
+{"instruction": "What is plea bargain?", "input": "", "output": "A plea bargain is an agreement between a defendant and prosecutor where the defendant pleads guilty to a lesser charge in exchange for a lighter sentence or other concessions."}
+{"instruction": "What is double jeopardy?", "input": "", "output": "Double jeopardy is the legal principle that prohibits an individual from being tried twice for the same offense after an acquittal or conviction."}
+{"instruction": "What is the statute of limitations?", "input": "", "output": "The statute of limitations is a law that sets the maximum time after an event within which legal proceedings may be initiated."}
+{"instruction": "What is juvenile law?", "input": "", "output": "Juvenile law governs legal matters involving individuals under the age of majority, focusing on rehabilitation rather than punishment."}
+{"instruction": "What is probate law?", "input": "", "output": "Probate law deals with the administration of a deceased person's estate, including validating wills and distributing assets to heirs."}
+{"instruction": "What is cyber law?", "input": "", "output": "Cyber law encompasses legal issues related to the internet, digital communications, and information technology, including data protection and cybercrime."}
+{"instruction": "What is adoption?", "input": "", "output": "Adoption is the legal process by which an individual assumes the parental rights and responsibilities for a child who is not biologically theirs."}
+{"instruction": "What is maintenance under family law?", "input": "", "output": "Maintenance is the financial support provided by one spouse or parent to the other spouse or child to meet basic needs."}
+{"instruction": "What is alimony?", "input": "", "output": "Alimony is a court-ordered financial support paid by one spouse to the other after separation or divorce."}
+{"instruction": "What is domestic violence?", "input": "", "output": "Domestic violence refers to physical, emotional, sexual, or economic abuse within a domestic relationship, protected under specific laws."}
+{"instruction": "What is criminal law?", "input": "", "output": "Criminal law defines offenses against the state and society and prescribes punishments for their commission."}
+{"instruction": "What is cognizable offense?", "input": "", "output": "A cognizable offense is one in which the police can register a case and investigate without prior court approval."}
+{"instruction": "What is non-cognizable offense?", "input": "", "output": "A non-cognizable offense is one in which police cannot investigate without prior permission from a magistrate."}
+{"instruction": "What is bailable offense?", "input": "", "output": "A bailable offense allows the accused to be released on bail as a matter of right."}
+{"instruction": "What is non-bailable offense?", "input": "", "output": "A non-bailable offense does not grant the accused an automatic right to bail; it is granted at the discretion of the court."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a legal provision that allows a person to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is cognizance of an offense?", "input": "", "output": "Cognizance of an offense is the court's recognition that a case exists, allowing it to begin legal proceedings."}
+{"instruction": "What is the difference between felony and misdemeanor?", "input": "", "output": "A felony is a serious criminal offense punishable by imprisonment for more than one year or death, whereas a misdemeanor is a less serious offense punishable by shorter imprisonment or fines."}
+{"instruction": "What is actus reus?", "input": "", "output": "Actus reus is the physical act or unlawful omission that constitutes a criminal offense."}
+{"instruction": "What is mens rea?", "input": "", "output": "Mens rea is the mental intention or knowledge of wrongdoing required to establish criminal liability."}
+{"instruction": "What is strict liability in criminal law?", "input": "", "output": "Strict liability imposes criminal responsibility without requiring proof of mens rea or intent."}
+{"instruction": "What is vicarious liability in criminal law?", "input": "", "output": "Vicarious liability in criminal law holds an employer or principal responsible for the acts of their employee or agent under certain conditions."}
+{"instruction": "What is corporate law?", "input": "", "output": "Corporate law governs the formation, operation, and regulation of companies and the rights and duties of directors, shareholders, and other stakeholders."}
+{"instruction": "What is memorandum of association (MOA)?", "input": "", "output": "MOA is a legal document defining a company's constitution and scope of operations."}
+{"instruction": "What is articles of association (AOA)?", "input": "", "output": "AOA is a legal document specifying rules for internal management and governance of a company."}
+{"instruction": "What is limited liability company (LLC)?", "input": "", "output": "An LLC is a company structure that provides limited liability protection to its owners while allowing flexible management."}
+{"instruction": "What is partnership?", "input": "", "output": "A partnership is a business arrangement where two or more individuals share ownership, profits, and liabilities of a business."}
+{"instruction": "What is limited liability partnership (LLP)?", "input": "", "output": "An LLP is a partnership where partners have limited liability while retaining internal management flexibility."}
+{"instruction": "What is property law?", "input": "", "output": "Property law governs the rights and obligations related to ownership and use of property, including land, personal property, and intellectual property."}
+{"instruction": "What is movable property?", "input": "", "output": "Movable property refers to assets that can be transferred or moved, such as vehicles, furniture, or money."}
+{"instruction": "What is immovable property?", "input": "", "output": "Immovable property refers to land and things attached to it, like buildings, which cannot be moved."}
+{"instruction": "What is lease?", "input": "", "output": "A lease is a contract granting exclusive possession of property for a fixed term in exchange for rent."}
+{"instruction": "What is license?", "input": "", "output": "A license is permission to use property without transferring ownership or exclusive possession."}
+{"instruction": "What is easement?", "input": "", "output": "An easement is a legal right to use another person’s land for a specific purpose, such as a right of way."}
+{"instruction": "What is mortgage?", "input": "", "output": "A mortgage is a legal agreement where property is pledged as security for a loan."}
+{"instruction": "What is pledge?", "input": "", "output": "A pledge is a transfer of movable property as security for a debt or obligation."}
+{"instruction": "What is bailment?", "input": "", "output": "Bailment is a legal relationship where goods are delivered by one party to another for a specific purpose, under an agreement to return or dispose of them accordingly."}
+{"instruction": "What is trust?", "input": "", "output": "A trust is a legal arrangement where one party holds property for the benefit of another under fiduciary duties."}
+{"instruction": "What is civil procedure?", "input": "", "output": "Civil procedure is the body of law that governs the process for resolving civil disputes in courts."}
+{"instruction": "What is criminal procedure?", "input": "", "output": "Criminal procedure is the set of rules governing the investigation, prosecution, and adjudication of criminal offenses."}
+{"instruction": "What is writ of habeas corpus?", "input": "", "output": "Habeas corpus is a writ protecting individuals from unlawful detention by requiring authorities to produce the detainee before a court."}
+{"instruction": "What is writ of mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a legal duty."}
+{"instruction": "What is writ of prohibition?", "input": "", "output": "Prohibition is a writ issued to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is writ of quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person’s right to hold a public office."}
+{"instruction": "What is administrative law?", "input": "", "output": "Administrative law regulates the actions of government agencies and ensures that public authorities act within the law."}
+{"instruction": "What is rule of natural justice?", "input": "", "output": "Natural justice requires fair procedures, including the right to be heard (audi alteram partem) and no bias (nemo judex in causa sua)."}
+{"instruction": "What is delegated legislation?", "input": "", "output": "Delegated legislation is law made by an authority other than the legislature, under powers granted by an Act of Parliament."}
+{"instruction": "What is public interest litigation (PIL)?", "input": "", "output": "PIL is a legal action initiated in court for the protection of public interest, allowing citizens to seek judicial redress for social or public wrongs."}
+{"instruction": "What is international law?", "input": "", "output": "International law governs relations between nations and includes treaties, conventions, and customary law."}
+{"instruction": "What is treaty?", "input": "", "output": "A treaty is a formal agreement between two or more countries that is legally binding under international law."}
+{"instruction": "What is customary international law?", "input": "", "output": "Customary international law arises from consistent state practice and the belief that such practice is legally obligatory (opinio juris)."}
+{"instruction": "What is the difference between public law and private law?", "input": "", "output": "Public law governs relationships between individuals and the state, while private law governs relationships between private individuals or entities."}
+{"instruction": "What is human rights law?", "input": "", "output": "Human rights law protects fundamental rights and freedoms of individuals, as guaranteed by constitutions and international treaties."}
+{"instruction": "What is the difference between civil rights and human rights?", "input": "", "output": "Civil rights protect individuals from discrimination and ensure equality within a state, whereas human rights are universal rights inherent to all humans regardless of nationality."}
+{"instruction": "What is legal aid?", "input": "", "output": "Legal aid is the provision of free or low-cost legal assistance to individuals who cannot afford representation."}
+{"instruction": "What is juvenile justice?", "input": "", "output": "Juvenile justice law deals with offenses committed by minors and emphasizes rehabilitation rather than punishment."}
+{"instruction": "What is the Indian Constitution?", "input": "", "output": "The Indian Constitution is the supreme law of India, laying down the framework for government, fundamental rights, and duties of citizens."}
+{"instruction": "What are fundamental rights?", "input": "", "output": "Fundamental rights are the basic human rights guaranteed by the Constitution of India, enforceable in court."}
+{"instruction": "What is the right to equality?", "input": "", "output": "The right to equality ensures all citizens are treated equally under the law, prohibiting discrimination on grounds like religion, caste, gender, or place of birth."}
+{"instruction": "What is the right to freedom?", "input": "", "output": "The right to freedom includes freedom of speech, expression, assembly, association, movement, residence, and profession."}
+{"instruction": "What is the right against exploitation?", "input": "", "output": "This right prohibits human trafficking, forced labor, and child labor."}
+{"instruction": "What is the right to freedom of religion?", "input": "", "output": "This right guarantees freedom of conscience and the right to practice, profess, and propagate religion."}
+{"instruction": "What is cultural and educational rights?", "input": "", "output": "These rights protect the interests of minorities to conserve their culture, language, and establish educational institutions."}
+{"instruction": "What is the right to constitutional remedies?", "input": "", "output": "This right allows citizens to move the courts to enforce their fundamental rights."}
+{"instruction": "What is Directive Principles of State Policy?", "input": "", "output": "Directive Principles are guidelines for the state to ensure social and economic welfare but are not enforceable in court."}
+{"instruction": "What is the difference between Fundamental Rights and Directive Principles?", "input": "", "output": "Fundamental Rights are enforceable in court, while Directive Principles are non-justiciable guidelines for government policy."}
+{"instruction": "What is the structure of Indian Parliament?", "input": "", "output": "The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."}
+{"instruction": "What is a bill?", "input": "", "output": "A bill is a proposed law presented for consideration and approval by the legislature."}
+{"instruction": "What is the difference between an ordinance and a law?", "input": "", "output": "An ordinance is a temporary law issued by the President when Parliament is not in session; it must be approved by Parliament within six weeks of reassembling, whereas a law is enacted by Parliament."}
+{"instruction": "What is judicial review?", "input": "", "output": "Judicial review is the power of courts to examine the constitutionality of legislative acts or executive actions."}
+{"instruction": "What is the doctrine of basic structure?", "input": "", "output": "The doctrine of basic structure holds that Parliament cannot amend the fundamental features of the Constitution."}
+{"instruction": "What is separation of powers?", "input": "", "output": "Separation of powers divides government authority into legislative, executive, and judicial branches to prevent concentration of power and maintain checks and balances."}
+{"instruction": "What is the Supreme Court of India?", "input": "", "output": "The Supreme Court is the highest judicial authority in India and the final court of appeal."}
+{"instruction": "What is the jurisdiction of the Supreme Court?", "input": "", "output": "The Supreme Court has original, appellate, advisory, and constitutional jurisdiction."}
+{"instruction": "What is the High Court?", "input": "", "output": "High Courts are the highest courts in a state, having appellate and original jurisdiction over civil and criminal matters."}
+{"instruction": "What is subordinate judiciary?", "input": "", "output": "Subordinate courts include district courts, sessions courts, and other lower courts that operate under the supervision of High Courts."}
+{"instruction": "What is the difference between civil court and criminal court?", "input": "", "output": "Civil courts deal with disputes between individuals or organizations, whereas criminal courts deal with offenses against society or the state."}
+{"instruction": "What is the Indian Evidence Act?", "input": "", "output": "The Indian Evidence Act lays down rules regarding admissibility, relevancy, and weight of evidence in legal proceedings."}
+{"instruction": "What is burden of proof?", "input": "", "output": "Burden of proof refers to the obligation to prove a fact in dispute, usually resting on the party making the claim."}
+{"instruction": "What is standard of proof?", "input": "", "output": "Standard of proof is the level of certainty required to establish a fact, e.g., 'beyond reasonable doubt' in criminal cases and 'preponderance of probability' in civil cases."}
+{"instruction": "What is the Indian Contract Act, 1872?", "input": "", "output": "The Indian Contract Act regulates contracts and obligations arising from agreements, including the enforceability of contracts and remedies for breach."}
+{"instruction": "What is offer and acceptance?", "input": "", "output": "A contract requires a valid offer by one party and acceptance by the other to create a binding agreement."}
+{"instruction": "What is consideration?", "input": "", "output": "Consideration is something of value exchanged between parties, necessary to form a valid contract."}
+{"instruction": "What is capacity to contract?", "input": "", "output": "Capacity to contract refers to the legal ability of a person to enter into a contract, typically requiring sound mind, majority age, and not disqualified by law."}
+{"instruction": "What is free consent?", "input": "", "output": "Free consent means agreement to a contract without coercion, undue influence, fraud, misrepresentation, or mistake."}
+{"instruction": "What is void agreement?", "input": "", "output": "A void agreement is one that is not enforceable by law from the beginning."}
+{"instruction": "What is voidable contract?", "input": "", "output": "A voidable contract is initially valid but may be declared void at the option of one party due to certain legal defects."}
+{"instruction": "What is contingent contract?", "input": "", "output": "A contingent contract is one that depends on the occurrence or non-occurrence of a future uncertain event."}
+{"instruction": "What is quasi-contract?", "input": "", "output": "A quasi-contract is an obligation imposed by law to prevent unjust enrichment, even though no formal contract exists."}
+{"instruction": "What is the Indian Penal Code, 1860?", "input": "", "output": "The IPC defines criminal offenses and prescribes punishments for crimes committed in India."}
+{"instruction": "What is murder under IPC?", "input": "", "output": "Murder is the unlawful killing of a person with the intention to cause death or knowledge that the act is likely to cause death."}
+{"instruction": "What is culpable homicide?", "input": "", "output": "Culpable homicide is causing death by an act done with the intention of causing death or knowledge that it is likely to cause death, but not amounting to murder."}
+{"instruction": "What is theft?", "input": "", "output": "Theft is dishonestly taking someone else's movable property without consent."}
+{"instruction": "What is robbery?", "input": "", "output": "Robbery is theft accompanied by violence or threat of violence."}
+{"instruction": "What is dacoity?", "input": "", "output": "Dacoity is robbery committed by five or more persons acting together."}
+{"instruction": "What is cheating?", "input": "", "output": "Cheating involves deceiving someone to induce them to deliver property or to act to their detriment."}
+{"instruction": "What is mischief?", "input": "", "output": "Mischief is the intentional destruction or damage of property belonging to another."}
+{"instruction": "What is criminal breach of trust?", "input": "", "output": "Criminal breach of trust occurs when a person entrusted with property dishonestly misappropriates it."}
+{"instruction": "What is forgery?", "input": "", "output": "Forgery is making a false document with intent to cause damage or fraud."}
+{"instruction": "What is the Indian Evidence Act?", "input": "", "output": "The Indian Evidence Act governs the admissibility, relevancy, and proof of facts in civil and criminal cases."}
+{"instruction": "What is documentary evidence?", "input": "", "output": "Documentary evidence is proof in the form of documents presented in court."}
+{"instruction": "What is oral evidence?", "input": "", "output": "Oral evidence is testimony given by witnesses verbally in court."}
+{"instruction": "What is presumption of law?", "input": "", "output": "Presumption of law is a legal assumption that certain facts are true until disproven."}
+{"instruction": "What is presumption of fact?", "input": "", "output": "Presumption of fact is a conclusion drawn by the court from evidence, based on experience and reasoning."}
+{"instruction": "What is civil wrong?", "input": "", "output": "A civil wrong is a violation of private rights, giving the injured party a right to sue for damages or remedies."}
+{"instruction": "What is criminal wrong?", "input": "", "output": "A criminal wrong is an act prohibited by law that harms society, punishable by fines, imprisonment, or other penalties."}
+{"instruction": "What is injunction?", "input": "", "output": "An injunction is a court order directing a party to do or refrain from doing a specific act."}
+{"instruction": "What is specific performance?", "input": "", "output": "Specific performance is a legal remedy that requires a party to perform contractual obligations rather than pay damages."}
+{"instruction": "What is compensation?", "input": "", "output": "Compensation is monetary payment awarded to a party for loss, injury, or damage suffered."}
+{"instruction": "What is the Indian Evidence Act, 1872?", "input": "", "output": "The Indian Evidence Act governs the rules regarding admissibility, relevancy, and proof of evidence in civil and criminal cases."}
+{"instruction": "What is relevance of facts?", "input": "", "output": "Facts are relevant if they have a direct or indirect bearing on the matter in issue in a legal proceeding."}
+{"instruction": "What is admissibility of evidence?", "input": "", "output": "Admissibility of evidence refers to whether evidence can be legally considered by a court to prove a fact."}
+{"instruction": "What is direct evidence?", "input": "", "output": "Direct evidence directly proves a fact without inference or presumption, such as eyewitness testimony."}
+{"instruction": "What is circumstantial evidence?", "input": "", "output": "Circumstantial evidence requires inference to connect it to a fact in issue, such as footprints at a crime scene."}
+{"instruction": "What is oral evidence?", "input": "", "output": "Oral evidence is evidence given by a witness verbally in court."}
+{"instruction": "What is documentary evidence?", "input": "", "output": "Documentary evidence is proof in the form of documents, such as contracts, letters, or records."}
+{"instruction": "What is primary evidence?", "input": "", "output": "Primary evidence is the original document itself produced for inspection in court."}
+{"instruction": "What is secondary evidence?", "input": "", "output": "Secondary evidence includes copies, oral accounts, or substitutes of original documents when originals are unavailable."}
+{"instruction": "What is the burden of proof?", "input": "", "output": "The burden of proof is the responsibility of a party to prove the facts asserted in a case."}
+{"instruction": "What is the standard of proof in civil cases?", "input": "", "output": "In civil cases, the standard of proof is 'preponderance of probability', meaning more likely than not."}
+{"instruction": "What is the standard of proof in criminal cases?", "input": "", "output": "In criminal cases, the standard of proof is 'beyond reasonable doubt' to ensure the accused is not wrongly convicted."}
+{"instruction": "What is presumption of innocence?", "input": "", "output": "Presumption of innocence is the principle that an accused is considered innocent until proven guilty."}
+{"instruction": "What is confession?", "input": "", "output": "Confession is a statement by an accused admitting guilt of an offense, which can be used as evidence in court."}
+{"instruction": "What is admission?", "input": "", "output": "Admission is a statement acknowledging a fact relevant to the case but not amounting to a confession."}
+{"instruction": "What is expert evidence?", "input": "", "output": "Expert evidence is opinion provided by a person with specialized knowledge to assist the court in understanding technical matters."}
+{"instruction": "What is the Indian Contract Act, 1872?", "input": "", "output": "The Indian Contract Act governs contracts, obligations, and remedies arising from agreements in India."}
+{"instruction": "What is contract?", "input": "", "output": "A contract is an agreement enforceable by law between two or more parties."}
+{"instruction": "What is offer?", "input": "", "output": "An offer is a proposal by one party to another to enter into a legally binding agreement."}
+{"instruction": "What is acceptance?", "input": "", "output": "Acceptance is the unqualified consent to the terms of an offer, creating a binding contract."}
+{"instruction": "What is consideration?", "input": "", "output": "Consideration is something of value exchanged between parties as part of a contract."}
+{"instruction": "What is capacity to contract?", "input": "", "output": "Capacity to contract refers to the legal ability of a person to enter into a contract, typically requiring majority age, sound mind, and not disqualified by law."}
+{"instruction": "What is free consent?", "input": "", "output": "Free consent means that parties agree to a contract without coercion, undue influence, fraud, misrepresentation, or mistake."}
+{"instruction": "What is coercion?", "input": "", "output": "Coercion is the act of compelling someone to enter into a contract through threats or force."}
+{"instruction": "What is undue influence?", "input": "", "output": "Undue influence occurs when one party dominates another, impairing free consent in a contract."}
+{"instruction": "What is fraud?", "input": "", "output": "Fraud is intentional deception by a party to induce another to enter into a contract."}
+{"instruction": "What is misrepresentation?", "input": "", "output": "Misrepresentation is a false statement made innocently that induces another to enter into a contract."}
+{"instruction": "What is mistake?", "input": "", "output": "Mistake is an erroneous belief that affects the validity of a contract, either mutual or unilateral."}
+{"instruction": "What is void agreement?", "input": "", "output": "A void agreement is an agreement that is not enforceable by law from the beginning."}
+{"instruction": "What is voidable contract?", "input": "", "output": "A voidable contract is initially valid but may be rescinded by one of the parties due to legal defects."}
+{"instruction": "What is contingent contract?", "input": "", "output": "A contingent contract is dependent on the occurrence or non-occurrence of a future uncertain event."}
+{"instruction": "What is quasi-contract?", "input": "", "output": "A quasi-contract is an obligation imposed by law to prevent unjust enrichment in the absence of an actual contract."}
+{"instruction": "What is breach of contract?", "input": "", "output": "Breach of contract occurs when a party fails to perform its contractual obligations."}
+{"instruction": "What is remedies for breach of contract?", "input": "", "output": "Remedies include damages, specific performance, rescission, and injunction."}
+{"instruction": "What is the Indian Penal Code, 1860?", "input": "", "output": "The IPC defines criminal offenses and prescribes punishments for crimes committed in India."}
+{"instruction": "What is murder under IPC?", "input": "", "output": "Murder is the unlawful killing of a person with intent or knowledge that the act is likely to cause death."}
+{"instruction": "What is culpable homicide?", "input": "", "output": "Culpable homicide is causing death by an act done with the intention of causing death or knowledge that it is likely to cause death, but not amounting to murder."}
+{"instruction": "What is theft?", "input": "", "output": "Theft is dishonestly taking another person’s movable property without consent."}
+{"instruction": "What is robbery?", "input": "", "output": "Robbery is theft committed with violence or threat of violence."}
+{"instruction": "What is dacoity?", "input": "", "output": "Dacoity is robbery committed by five or more persons acting together."}
+{"instruction": "What is cheating?", "input": "", "output": "Cheating involves deceiving someone to induce them to deliver property or act to their detriment."}
+{"instruction": "What is mischief?", "input": "", "output": "Mischief is the intentional destruction or damage of property belonging to another."}
+{"instruction": "What is criminal breach of trust?", "input": "", "output": "Criminal breach of trust occurs when a person entrusted with property dishonestly misappropriates it."}
+{"instruction": "What is forgery?", "input": "", "output": "Forgery is making a false document with intent to cause damage or fraud."}
+{"instruction": "What is civil procedure?", "input": "", "output": "Civil procedure is the body of law governing the process of resolving civil disputes in courts."}
+{"instruction": "What is criminal procedure?", "input": "", "output": "Criminal procedure is the set of rules governing the investigation, trial, and punishment of criminal offenses."}
+{"instruction": "What is jurisdiction?", "input": "", "output": "Jurisdiction is the legal authority of a court to hear and decide a case."}
+{"instruction": "What is appellate jurisdiction?", "input": "", "output": "Appellate jurisdiction is the power of a higher court to review and revise the decision of a lower court."}
+{"instruction": "What is original jurisdiction?", "input": "", "output": "Original jurisdiction is the authority of a court to hear a case for the first time."}
+{"instruction": "What is writ?", "input": "", "output": "A writ is a formal order issued by a court directing a party to do or refrain from doing something."}
+{"instruction": "What are the types of writs?", "input": "", "output": "The main types of writs are habeas corpus, mandamus, prohibition, certiorari, and quo warranto."}
+{"instruction": "What is habeas corpus?", "input": "", "output": "Habeas corpus is a writ that protects individuals from unlawful detention by requiring authorities to produce the detainee before a court."}
+{"instruction": "What is mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a legal duty."}
+{"instruction": "What is prohibition?", "input": "", "output": "Prohibition is a writ issued to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is certiorari?", "input": "", "output": "Certiorari is a writ issued by a higher court to review the decision of a lower court."}
+{"instruction": "What is quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person's right to hold a public office."}
+{"instruction": "What is the Indian Evidence Act, 1872?", "input": "", "output": "The Indian Evidence Act governs the rules regarding admissibility, relevancy, and proof of evidence in civil and criminal cases."}
+{"instruction": "What is relevance of facts?", "input": "", "output": "Facts are relevant if they have a direct or indirect bearing on the matter in issue in a legal proceeding."}
+{"instruction": "What is admissibility of evidence?", "input": "", "output": "Admissibility of evidence refers to whether evidence can be legally considered by a court to prove a fact."}
+{"instruction": "What is direct evidence?", "input": "", "output": "Direct evidence directly proves a fact without inference or presumption, such as eyewitness testimony."}
+{"instruction": "What is circumstantial evidence?", "input": "", "output": "Circumstantial evidence requires inference to connect it to a fact in issue, such as footprints at a crime scene."}
+{"instruction": "What is oral evidence?", "input": "", "output": "Oral evidence is evidence given by a witness verbally in court."}
+{"instruction": "What is documentary evidence?", "input": "", "output": "Documentary evidence is proof in the form of documents, such as contracts, letters, or records."}
+{"instruction": "What is primary evidence?", "input": "", "output": "Primary evidence is the original document itself produced for inspection in court."}
+{"instruction": "What is public law?", "input": "", "output": "Public law governs the relationship between individuals and the state, including constitutional, administrative, and criminal law."}
+{"instruction": "What is private law?", "input": "", "output": "Private law governs relationships between private individuals or entities, such as contract law, tort law, and property law."}
+{"instruction": "What is constitutional law?", "input": "", "output": "Constitutional law deals with the structure and functions of government, fundamental rights, and duties of citizens."}
+{"instruction": "What is administrative law?", "input": "", "output": "Administrative law regulates the actions of government agencies and ensures they act within their legal authority."}
+{"instruction": "What is criminal law?", "input": "", "output": "Criminal law defines offenses against the state or society and prescribes punishments for their commission."}
+{"instruction": "What is civil law?", "input": "", "output": "Civil law addresses disputes between individuals or organizations, usually involving compensation or specific performance."}
+{"instruction": "What is tort law?", "input": "", "output": "Tort law deals with civil wrongs causing harm or loss to individuals, allowing victims to claim compensation."}
+{"instruction": "What is contract law?", "input": "", "output": "Contract law governs legally enforceable agreements between parties, including rights, duties, and remedies."}
+{"instruction": "What is property law?", "input": "", "output": "Property law governs ownership, possession, and use of movable and immovable property."}
+{"instruction": "What is family law?", "input": "", "output": "Family law regulates legal issues related to marriage, divorce, child custody, adoption, and maintenance."}
+{"instruction": "What is intellectual property law?", "input": "", "output": "Intellectual property law protects creations of the mind, such as inventions, literary works, trademarks, and patents."}
+{"instruction": "What is international law?", "input": "", "output": "International law governs relationships between countries, including treaties, conventions, and customary practices."}
+{"instruction": "What is treaty?", "input": "", "output": "A treaty is a formal agreement between two or more countries that is legally binding under international law."}
+{"instruction": "What is customary international law?", "input": "", "output": "Customary international law consists of practices consistently followed by states out of a sense of legal obligation."}
+{"instruction": "What is the difference between public law and private law?", "input": "", "output": "Public law governs relations between individuals and the state, while private law governs relations between private parties."}
+{"instruction": "What are fundamental rights?", "input": "", "output": "Fundamental rights are the basic rights guaranteed to all citizens, enforceable in court."}
+{"instruction": "What is the right to equality?", "input": "", "output": "The right to equality ensures that all citizens are treated equally under the law and prohibits discrimination based on religion, caste, gender, or place of birth."}
+{"instruction": "What is the right to freedom?", "input": "", "output": "The right to freedom includes freedom of speech, expression, assembly, association, movement, residence, and profession."}
+{"instruction": "What is the right against exploitation?", "input": "", "output": "This right prohibits human trafficking, forced labor, and child labor."}
+{"instruction": "What is the right to freedom of religion?", "input": "", "output": "This right guarantees freedom of conscience and the right to practice, profess, and propagate religion."}
+{"instruction": "What are cultural and educational rights?", "input": "", "output": "These rights protect the interests of minorities to preserve their culture, language, and establish educational institutions."}
+{"instruction": "What is the right to constitutional remedies?", "input": "", "output": "This right allows citizens to approach the courts to enforce their fundamental rights."}
+{"instruction": "What is Directive Principles of State Policy?", "input": "", "output": "Directive Principles are guidelines for the government to promote social and economic welfare but are not enforceable in courts."}
+{"instruction": "What is the difference between Fundamental Rights and Directive Principles?", "input": "", "output": "Fundamental Rights are justiciable and enforceable in courts, whereas Directive Principles are non-justiciable and serve as policy guidelines."}
+{"instruction": "What is the Indian Parliament?", "input": "", "output": "The Indian Parliament is a bicameral legislature consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."}
+{"instruction": "What is a bill?", "input": "", "output": "A bill is a proposed law presented to the legislature for approval."}
+{"instruction": "What is the difference between an ordinance and a law?", "input": "", "output": "An ordinance is a temporary law issued by the President when Parliament is not in session, while a law is enacted by Parliament and has permanent effect."}
+{"instruction": "What is judicial review?", "input": "", "output": "Judicial review is the power of courts to examine and strike down laws or executive actions that are unconstitutional."}
+{"instruction": "What is the doctrine of basic structure?", "input": "", "output": "The doctrine of basic structure asserts that Parliament cannot amend the fundamental framework of the Constitution."}
+{"instruction": "What is the Supreme Court of India?", "input": "", "output": "The Supreme Court is the highest judicial authority in India and serves as the final court of appeal."}
+{"instruction": "What is the jurisdiction of the Supreme Court?", "input": "", "output": "The Supreme Court has original, appellate, advisory, and constitutional jurisdiction."}
+{"instruction": "What is the High Court?", "input": "", "output": "High Courts are the highest courts in a state, having appellate and original jurisdiction over civil and criminal matters."}
+{"instruction": "What is subordinate judiciary?", "input": "", "output": "Subordinate courts include district courts and lower courts that function under the supervision of the High Court."}
+{"instruction": "What is the difference between civil court and criminal court?", "input": "", "output": "Civil courts handle disputes between individuals or organizations, while criminal courts handle offenses against society or the state."}
+{"instruction": "What is arbitration?", "input": "", "output": "Arbitration is a method of dispute resolution where parties agree to have a neutral third party render a binding decision."}
+{"instruction": "What is mediation?", "input": "", "output": "Mediation is a voluntary process where a neutral third party facilitates negotiation to help disputing parties reach an agreement."}
+{"instruction": "What is the difference between arbitration and mediation?", "input": "", "output": "Arbitration results in a binding decision by the arbitrator, while mediation seeks a mutually agreed settlement without binding authority."}
+{"instruction": "What is bail?", "input": "", "output": "Bail is the temporary release of an accused person awaiting trial, typically under conditions to ensure court appearance."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a pre-arrest legal provision allowing an individual to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is habeas corpus?", "input": "", "output": "Habeas corpus is a writ protecting individuals from unlawful detention by requiring authorities to produce the detainee before a court."}
+{"instruction": "What is mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a legal duty."}
+{"instruction": "What is prohibition?", "input": "", "output": "Prohibition is a writ issued to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person’s right to hold a public office."}
+{"instruction": "What is certiorari?", "input": "", "output": "Certiorari is a writ issued by a higher court to review and quash the decision of a lower court or tribunal."}
+{"instruction": "What is equity?", "input": "", "output": "Equity refers to a body of law that provides remedies based on fairness and justice when strict legal rules may cause hardship."}
+{"instruction": "What is power of attorney?", "input": "", "output": "Power of attorney is a legal document authorizing one person to act on behalf of another in legal or financial matters."}
+{"instruction": "What is the difference between lease and license?", "input": "", "output": "A lease grants exclusive possession of property for a term, creating a property interest, while a license merely allows use without transferring ownership."}
+{"instruction": "What is intellectual property infringement?", "input": "", "output": "Intellectual property infringement occurs when a protected work, trademark, patent, or trade secret is used without authorization."}
+{"instruction": "What is copyright infringement?", "input": "", "output": "Copyright infringement is the unauthorized use, reproduction, or distribution of a copyrighted work."}
+{"instruction": "What is patent infringement?", "input": "", "output": "Patent infringement occurs when an invention protected by a patent is made, used, sold, or imported without permission."}
+{"instruction": "What is trademark infringement?", "input": "", "output": "Trademark infringement is the unauthorized use of a registered mark that causes confusion regarding the source of goods or services."}
+{"instruction": "What is family law?", "input": "", "output": "Family law governs legal issues related to marriage, divorce, child custody, adoption, and other domestic relations."}
+{"instruction": "What is divorce?", "input": "", "output": "Divorce is the legal dissolution of a marriage by a court, terminating marital rights and obligations."}
+{"instruction": "What is child custody?", "input": "", "output": "Child custody determines the legal and physical care of a child after separation or divorce, focusing on the best interests of the child."}
+{"instruction": "What is adoption?", "input": "", "output": "Adoption is the legal process by which an individual assumes the parental rights and responsibilities for a child who is not biologically theirs."}
+{"instruction": "What is maintenance under family law?", "input": "", "output": "Maintenance is financial support provided by one spouse or parent to the other spouse or child to meet basic needs."}
+{"instruction": "What is alimony?", "input": "", "output": "Alimony is court-ordered financial support paid by one spouse to the other after separation or divorce."}
+{"instruction": "What is domestic violence?", "input": "", "output": "Domestic violence refers to physical, emotional, sexual, or economic abuse within a domestic relationship, protected under specific laws."}
+{"instruction": "What is criminal law?", "input": "", "output": "Criminal law defines offenses against the state and society and prescribes punishments for their commission."}
+{"instruction": "What is cognizable offense?", "input": "", "output": "A cognizable offense is one in which the police can register a case and investigate without prior court approval."}
+{"instruction": "What is non-cognizable offense?", "input": "", "output": "A non-cognizable offense is one in which police cannot investigate without prior permission from a magistrate."}
+{"instruction": "What is bailable offense?", "input": "", "output": "A bailable offense allows the accused to be released on bail as a matter of right."}
+{"instruction": "What is non-bailable offense?", "input": "", "output": "A non-bailable offense does not grant the accused an automatic right to bail; it is granted at the discretion of the court."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a legal provision that allows a person to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is cognizance of an offense?", "input": "", "output": "Cognizance of an offense is the court's recognition that a case exists, allowing it to begin legal proceedings."}
+{"instruction": "What is the difference between felony and misdemeanor?", "input": "", "output": "A felony is a serious criminal offense punishable by imprisonment for more than one year or death, whereas a misdemeanor is a less serious offense punishable by shorter imprisonment or fines."}
+{"instruction": "What is actus reus?", "input": "", "output": "Actus reus is the physical act or unlawful omission that constitutes a criminal offense."}
+{"instruction": "What is mens rea?", "input": "", "output": "Mens rea is the mental intention or knowledge of wrongdoing required to establish criminal liability."}
+{"instruction": "What is strict liability in criminal law?", "input": "", "output": "Strict liability imposes criminal responsibility without requiring proof of mens rea or intent."}
+{"instruction": "What is vicarious liability in criminal law?", "input": "", "output": "Vicarious liability in criminal law holds an employer or principal responsible for the acts of their employee or agent under certain conditions."}
+{"instruction": "What is corporate law?", "input": "", "output": "Corporate law governs the formation, operation, and regulation of companies and the rights and duties of directors, shareholders, and other stakeholders."}
+{"instruction": "What is memorandum of association (MOA)?", "input": "", "output": "MOA is a legal document defining a company's constitution and scope of operations."}
+{"instruction": "What is articles of association (AOA)?", "input": "", "output": "AOA is a legal document specifying rules for internal management and governance of a company."}
+{"instruction": "What is limited liability company (LLC)?", "input": "", "output": "An LLC is a company structure that provides limited liability protection to its owners while allowing flexible management."}
+{"instruction": "What is partnership?", "input": "", "output": "A partnership is a business arrangement where two or more individuals share ownership, profits, and liabilities of a business."}
+{"instruction": "What is limited liability partnership (LLP)?", "input": "", "output": "An LLP is a partnership where partners have limited liability while retaining internal management flexibility."}
+{"instruction": "What is property law?", "input": "", "output": "Property law governs the rights and obligations related to ownership and use of property, including land, personal property, and intellectual property."}
+{"instruction": "What is movable property?", "input": "", "output": "Movable property refers to assets that can be transferred or moved, such as vehicles, furniture, or money."}
+{"instruction": "What is immovable property?", "input": "", "output": "Immovable property refers to land and things attached to it, like buildings, which cannot be moved."}
+{"instruction": "What is lease?", "input": "", "output": "A lease is a contract granting exclusive possession of property for a fixed term in exchange for rent."}
+{"instruction": "What is license?", "input": "", "output": "A license is permission to use property without transferring ownership or exclusive possession."}
+{"instruction": "What is easement?", "input": "", "output": "An easement is a legal right to use another person’s land for a specific purpose, such as a right of way."}
+{"instruction": "What is mortgage?", "input": "", "output": "A mortgage is a legal agreement where property is pledged as security for a loan."}
+{"instruction": "What is pledge?", "input": "", "output": "A pledge is a transfer of movable property as security for a debt or obligation."}
+{"instruction": "What is bailment?", "input": "", "output": "Bailment is a legal relationship where goods are delivered by one party to another for a specific purpose, under an agreement to return or dispose of them accordingly."}
+{"instruction": "What is trust?", "input": "", "output": "A trust is a legal arrangement where one party holds property for the benefit of another under fiduciary duties."}
+{"instruction": "What is civil procedure?", "input": "", "output": "Civil procedure is the body of law that governs the process for resolving civil disputes in courts."}
+{"instruction": "What is criminal procedure?", "input": "", "output": "Criminal procedure is the set of rules governing the investigation, prosecution, and adjudication of criminal offenses."}
+{"instruction": "What is writ of habeas corpus?", "input": "", "output": "Habeas corpus is a writ protecting individuals from unlawful detention by requiring authorities to produce the detainee before a court."}
+{"instruction": "What is writ of mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a legal duty."}
+{"instruction": "What is writ of prohibition?", "input": "", "output": "Prohibition is a writ issued to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is writ of quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person’s right to hold a public office."}
+{"instruction": "What is administrative law?", "input": "", "output": "Administrative law regulates the actions of government agencies and ensures that public authorities act within the law."}
+{"instruction": "What is rule of natural justice?", "input": "", "output": "Natural justice requires fair procedures, including the right to be heard (audi alteram partem) and no bias (nemo judex in causa sua)."}
+{"instruction": "What is delegated legislation?", "input": "", "output": "Delegated legislation is law made by an authority other than the legislature, under powers granted by an Act of Parliament."}
+{"instruction": "What is public interest litigation (PIL)?", "input": "", "output": "PIL is a legal action initiated in court for the protection of public interest, allowing citizens to seek judicial redress for social or public wrongs."}
+{"instruction": "What is international law?", "input": "", "output": "International law governs relations between nations and includes treaties, conventions, and customary law."}
+{"instruction": "What is treaty?", "input": "", "output": "A treaty is a formal agreement between two or more countries that is legally binding under international law."}
+{"instruction": "What is customary international law?", "input": "", "output": "Customary international law arises from consistent state practice and the belief that such practice is legally obligatory (opinio juris)."}
+{"instruction": "What is the difference between public law and private law?", "input": "", "output": "Public law governs relationships between individuals and the state, while private law governs relationships between private individuals or entities."}
+{"instruction": "What is human rights law?", "input": "", "output": "Human rights law protects fundamental rights and freedoms of individuals, as guaranteed by constitutions and international treaties."}
+{"instruction": "What is the difference between civil rights and human rights?", "input": "", "output": "Civil rights protect individuals from discrimination and ensure equality within a state, whereas human rights are universal rights inherent to all humans regardless of nationality."}
+{"instruction": "What is legal aid?", "input": "", "output": "Legal aid is the provision of free or low-cost legal assistance to individuals who cannot afford representation."}
+{"instruction": "What is juvenile justice?", "input": "", "output": "Juvenile justice law deals with offenses committed by minors and emphasizes rehabilitation rather than punishment."}
+{"instruction": "What is cyber law?", "input": "", "output": "Cyber law governs legal issues related to the use of the internet, digital communications, and electronic commerce."}
+{"instruction": "What is data protection law?", "input": "", "output": "Data protection law regulates the collection, storage, and use of personal data to protect individuals' privacy."}
+{"instruction": "What is the difference between civil law and criminal law?", "input": "", "output": "Civil law addresses disputes between private parties and typically involves compensation, while criminal law deals with offenses against the state and prescribes punishments."}
+{"instruction": "What is the role of a lawyer?", "input": "", "output": "A lawyer provides legal advice, represents clients in court, drafts legal documents, and ensures compliance with laws."}
+{"instruction": "What is pro bono?", "input": "", "output": "Pro bono refers to legal services provided voluntarily and without payment to those who cannot afford them."}
+{"instruction": "What is the difference between a solicitor and a barrister?", "input": "", "output": "A solicitor provides legal advice and prepares cases, while a barrister represents clients in higher courts and specializes in advocacy."}
+{"instruction": "What is mediation?", "input": "", "output": "Mediation is a voluntary process where a neutral third party helps disputing parties reach a mutually acceptable agreement."}
+{"instruction": "What is conciliation?", "input": "", "output": "Conciliation is a process where a neutral third party facilitates communication between disputing parties to help them resolve their differences."}
+{"instruction": "What is negotiation?", "input": "", "output": "Negotiation is a direct discussion between parties aimed at reaching an agreement without third-party intervention."}
+{"instruction": "What is the difference between mediation and arbitration?", "input": "", "output": "Mediation involves a neutral third party facilitating negotiation without imposing a decision, while arbitration involves a third party making a binding decision on the dispute."}
+{"instruction": "What is the role of the judiciary?", "input": "", "output": "The judiciary interprets laws, adjudicates disputes, protects rights, and ensures justice is administered fairly."}
+{"instruction": "What is judicial activism?", "input": "", "output": "Judicial activism refers to judicial rulings suspected of being based on personal or political considerations rather than existing law."}
+{"instruction": "What is judicial restraint?", "input": "", "output": "Judicial restraint is the principle that judges should limit their own power and defer to the decisions of the legislative and executive branches unless there is a clear violation of the constitution."}       
+{"instruction": "What is the principle of stare decisis?", "input": "", "output": "Stare decisis is the legal principle of determining points in litigation according to precedent."}
+{"instruction": "What is the difference between a civil case and a criminal case?", "input": "", "output": "A civil case involves disputes between individuals or organizations over rights and obligations, while a criminal case involves prosecution by the state for offenses against society."}
+{"instruction": "What is the burden of proof in a criminal case?", "input": "", "output": "In a criminal case, the burden of proof lies with the prosecution, which must prove the defendant's guilt beyond a reasonable doubt."}
+{"instruction": "What is the burden of proof in a civil case?", "input": "", "output": "In a civil case, the burden of proof lies with the plaintiff, who must prove their case by a preponderance of the evidence."}
+{"instruction": "What is hearsay evidence?", "input": "", "output": "Hearsay evidence is an out-of-court statement offered to prove the truth of the matter asserted and is generally inadmissible unless it falls under an exception."}
+{"instruction": "What is direct evidence?", "input": "", "output": "Direct evidence directly proves a fact without needing inference, such as eyewitness testimony."}
+{"instruction": "What is circumstantial evidence?", "input": "", "output": "Circumstantial evidence requires inference to connect it to a fact in issue, such as fingerprints at a crime scene."}
+{"instruction": "What is expert evidence?", "input": "", "output": "Expert evidence is opinion provided by a person with specialized knowledge to assist the court in understanding technical matters."}
+{"instruction": "What is the Indian Contract Act, 1872?", "input": "", "output": "The Indian Contract Act governs contracts, obligations, and remedies arising from agreements in India."}
+{"instruction": "What is contract?", "input": "", "output": "A contract is an agreement enforceable by law between two or more parties."}
+{"instruction": "What is offer?", "input": "", "output": "An offer is a proposal by one party to another to enter into a legally binding agreement."}
+{"instruction": "What is acceptance?", "input": "", "output": "Acceptance is the unconditional agreement to the terms of an offer, creating a binding contract."}
+{"instruction": "What is consideration?", "input": "", "output": "Consideration is something of value exchanged between parties to a contract, which is necessary for its validity."}
+{"instruction": "What is capacity to contract?", "input": "", "output": "Capacity to contract refers to the legal ability of parties to enter into a contract, typically requiring them to be of sound mind and majority age."}
+{"instruction": "What is free consent?", "input": "", "output": "Free consent means that all parties agree to the contract without coercion, undue influence, fraud, misrepresentation, or mistake."}
+{"instruction": "What is lawful object?", "input": "", "output": "A lawful object means that the purpose of the contract must not be illegal or against public policy."}
+{"instruction": "What is void contract?", "input": "", "output": "A void contract is an agreement that is not legally enforceable from the beginning."}
+{"instruction": "What is voidable contract?", "input": "", "output": "A voidable contract is initially valid but may be rescinded by one of the parties due to legal defects."}
+{"instruction": "What is breach of contract?", "input": "", "output": "Breach of contract occurs when a party fails to perform its contractual obligations."}
+{"instruction": "What are remedies for breach of contract?", "input": "", "output": "Remedies include damages, specific performance, rescission, and injunction."}
+{"instruction": "What is the Indian Penal Code, 1860?", "input": "", "output": "The IPC defines criminal offenses and prescribes punishments for crimes committed in India."}
+{"instruction": "What is the Indian Constitution?", "input": "", "output": "The Indian Constitution is the supreme law of India, laying down the framework for government, fundamental rights, and duties of citizens."}
+{"instruction": "What are fundamental rights?", "input": "", "output": "Fundamental rights are the basic human rights guaranteed by the Constitution of India, enforceable in court."}
+{"instruction": "What is the right to equality?", "input": "", "output": "The right to equality ensures all citizens are treated equally under the law, prohibiting discrimination on grounds like religion, caste, gender, or place of birth."}
+{"instruction": "What is the right to freedom?", "input": "", "output": "The right to freedom includes freedom of speech, expression, assembly, association, movement, residence, and profession."}
+{"instruction": "What is the right against exploitation?", "input": "", "output": "This right prohibits human trafficking, forced labor, and child labor."}
+{"instruction": "What is the right to freedom of religion?", "input": "", "output": "This right guarantees freedom of conscience and the right to practice, profess, and propagate religion."}
+{"instruction": "What are cultural and educational rights?", "input": "", "output": "These rights protect the interests of minorities to conserve their culture, language, and establish educational institutions."}
+{"instruction": "What is the right to constitutional remedies?", "input": "", "output": "This right allows citizens to move the courts to enforce their fundamental rights."}
+{"instruction": "What is Directive Principles of State Policy?", "input": "", "output": "Directive Principles are guidelines for the state to ensure social and economic welfare but are not enforceable in court."}
+{"instruction": "What is the difference between Fundamental Rights and Directive Principles?", "input": "", "output": "Fundamental Rights are enforceable in court, while Directive Principles are non-justiciable guidelines for government policy."}
+{"instruction": "What is the structure of Indian Parliament?", "input": "", "output": "The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."}
+{"instruction": "What is a bill?", "input": "", "output": "A bill is a proposed law presented for consideration and approval by the legislature."}
+{"instruction": "What is the difference between an ordinance and a law?", "input": "", "output": "An ordinance is a temporary law issued by the President when Parliament is not in session; it must be approved by Parliament within six weeks of reassembling, whereas a law is enacted by Parliament."}
+{"instruction": "What is judicial review?", "input": "", "output": "Judicial review is the power of courts to examine the constitutionality of legislative acts or executive actions."}
+{"instruction": "What is the doctrine of basic structure?", "input": "", "output": "The doctrine of basic structure holds that Parliament cannot amend the fundamental features of the Constitution."}
+{"instruction": "What is separation of powers?", "input": "", "output": "Separation of powers divides government authority into legislative, executive, and judicial branches to prevent concentration of power and maintain checks and balances."}
+{"instruction": "What is the Supreme Court of India?", "input": "", "output": "The Supreme Court is the highest judicial authority in India and the final court of appeal."}
+{"instruction": "What is the jurisdiction of the Supreme Court?", "input": "", "output": "The Supreme Court has original, appellate, advisory, and constitutional jurisdiction."}
+{"instruction": "What is the High Court?", "input": "", "output": "High Courts are the highest courts in a state, having appellate and original jurisdiction over civil and criminal matters."}
+{"instruction": "What is subordinate judiciary?", "input": "", "output": "Subordinate courts include district courts, sessions courts, and other lower courts that operate under the supervision of High Courts."}
+{"instruction": "What is the difference between civil court and criminal court?", "input": "", "output": "Civil courts deal with disputes between individuals or organizations, whereas criminal courts deal with offenses against society or the state."}
+{"instruction": "What is the Indian Evidence Act?", "input": "", "output": "The Indian Evidence Act lays down rules regarding admissibility, relevancy, and weight of evidence in civil and criminal proceedings."}
+{"instruction": "What is burden of proof?", "input": "", "output": "Burden of proof refers to the obligation to prove a fact in dispute, usually resting on the party making the claim."}
+{"instruction": "What is standard of proof?", "input": "", "output": "Standard of proof is the level of certainty required to establish a fact, e.g., 'beyond reasonable doubt' in criminal cases and 'preponderance of probability' in civil cases."}
+{"instruction": "What is presumption of innocence?", "input": "", "output": "Presumption of innocence is the principle that an accused is considered innocent until proven guilty."}
+{"instruction": "What is confession?", "input": "", "output": "Confession is a statement by an accused admitting guilt of an offense, which can be used as evidence in court."}
+{"instruction": "What is admission?", "input": "", "output": "Admission is a statement acknowledging a fact relevant to the case but not amounting to a confession."}
+{"instruction": "What is expert evidence?", "input": "", "output": "Expert evidence is opinion provided by a person with specialized knowledge to assist the court in understanding technical matters."}
+{"instruction": "What is arbitration?", "input": "", "output": "Arbitration is a method of dispute resolution where parties agree to have a neutral third party render a binding decision."}
+{"instruction": "What is mediation?", "input": "", "output": "Mediation is a voluntary process where a neutral third party facilitates negotiation to help disputing parties reach an agreement."}
+{"instruction": "What is the difference between arbitration and mediation?", "input": "", "output": "Arbitration results in a binding decision by the arbitrator, while mediation seeks a mutually agreed settlement without binding authority."}
+{"instruction": "What is bail?", "input": "", "output": "Bail is the temporary release of an accused person awaiting trial, typically under conditions to ensure court appearance."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a pre-arrest legal provision allowing an individual to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is habeas corpus?", "input": "", "output": "Habeas corpus is a writ protecting individuals from unlawful detention by requiring authorities to produce the detainee before a court."}
+{"instruction": "What is mandamus?", "input": "", "output": "Mandamus is a writ issued by a court to compel a public authority to perform a legal duty."}
+{"instruction": "What is prohibition?", "input": "", "output": "Prohibition is a writ issued to prevent a lower court or authority from acting beyond its jurisdiction."}
+{"instruction": "What is quo warranto?", "input": "", "output": "Quo warranto is a writ challenging a person’s right to hold a public office."}
+{"instruction": "What is certiorari?", "input": "", "output": "Certiorari is a writ issued by a higher court to review and quash the decision of a lower court or tribunal."}
+{"instruction": "What is equity?", "input": "", "output": "Equity refers to a body of law that provides remedies based on fairness and justice when strict legal rules may cause hardship."}
+{"instruction": "What is power of attorney?", "input": "", "output": "Power of attorney is a legal document authorizing one person to act on behalf of another in legal or financial matters."}
+{"instruction": "What is the difference between lease and license?", "input": "", "output": "A lease grants exclusive possession of property for a term, creating a property interest, while a license merely allows use without transferring ownership."}
+{"instruction": "What is intellectual property infringement?", "input": "", "output": "Intellectual property infringement occurs when a protected work, trademark, patent, or trade secret is used without authorization."}
+{"instruction": "What is copyright infringement?", "input": "", "output": "Copyright infringement is the unauthorized use, reproduction, or distribution of a copyrighted work."}
+{"instruction": "What is patent infringement?", "input": "", "output": "Patent infringement occurs when an invention protected by a patent is made, used, sold, or imported without permission."}
+{"instruction": "What is trademark infringement?", "input": "", "output": "Trademark infringement is the unauthorized use of a registered mark that causes confusion regarding the source of goods or services."}
+{"instruction": "What is family law?", "input": "", "output": "Family law governs legal issues related to marriage, divorce, child custody, adoption, and other domestic relations."}
+{"instruction": "What is divorce?", "input": "", "output": "Divorce is the legal dissolution of a marriage by a court, terminating marital rights and obligations."}
+{"instruction": "What is child custody?", "input": "", "output": "Child custody determines the legal and physical care of a child after separation or divorce, focusing on the best interests of the child."}
+{"instruction": "What is adoption?", "input": "", "output": "Adoption is the legal process by which an individual assumes the parental rights and responsibilities for a child who is not biologically theirs."}
+{"instruction": "What is maintenance under family law?", "input": "", "output": "Maintenance is financial support provided by one spouse or parent to the other spouse or child to meet basic needs."}
+{"instruction": "What is alimony?", "input": "", "output": "Alimony is court-ordered financial support paid by one spouse to the other after separation or divorce."}
+{"instruction": "What is domestic violence?", "input": "", "output": "Domestic violence refers to physical, emotional, sexual, or economic abuse within a domestic relationship, protected under specific laws."}
+{"instruction": "What is criminal law?", "input": "", "output": "Criminal law defines offenses against the state and society and prescribes punishments for their commission."}
+{"instruction": "What is cognizable offense?", "input": "", "output": "A cognizable offense is one in which the police can register a case and investigate without prior court approval."}
+{"instruction": "What is non-cognizable offense?", "input": "", "output": "A non-cognizable offense is one in which police cannot investigate without prior permission from a magistrate."}
+{"instruction": "What is bailable offense?", "input": "", "output": "A bailable offense allows the accused to be released on bail as a matter of right."}
+{"instruction": "What is non-bailable offense?", "input": "", "output": "A non-bailable offense does not grant the accused an automatic right to bail; it is granted at the discretion of the court."}
+{"instruction": "What is anticipatory bail?", "input": "", "output": "Anticipatory bail is a legal provision that allows a person to seek bail in anticipation of arrest for a non-bailable offense."}
+{"instruction": "What is cognizance of an offense?", "input": "", "output": "Cognizance of an offense is the court's recognition that a case exists, allowing it to begin legal proceedings."}
+{"instruction": "What is the difference between felony and misdemeanor?", "input": "", "output": "A felony is a serious criminal offense punishable by imprisonment for more than one year or death, whereas a misdemeanor is a less serious offense punishable by shorter imprisonment or fines."}
+{"instruction": "What is actus reus?", "input": "", "output": "Actus reus is the physical act or unlawful omission that constitutes a criminal offense."}
+{"instruction": "What is mens rea?", "input": "", "output": "Mens rea is the mental intention or knowledge of wrongdoing required to establish criminal liability."}
+{"instruction": "What is strict liability in criminal law?", "input": "", "output": "Strict liability imposes criminal responsibility without requiring proof of mens rea or intent."}
+{"instruction": "What is criminal contempt?", "input": "", "output": "Criminal contempt refers to acts that scandalize the court, obstruct justice, or interfere with the administration of law."}
+{"instruction": "What is preventive law?", "input": "", "output": "Preventive law focuses on taking measures to prevent legal problems before they occur."}
+{"instruction": "What is environmental law?", "input": "", "output": "Environmental law governs the protection of the environment, natural resources, and public health."}
+{"instruction": "What is the Environment Protection Act?", "input": "", "output": "The Environment Protection Act provides a framework for the protection and improvement of the environment."}
+{"instruction": "What is cyber law?", "input": "", "output": "Cyber law regulates activities related to the internet, digital communications, data privacy, and electronic transactions."}
+{"instruction": "What is Information Technology Act, 2000?", "input": "", "output": "The IT Act regulates electronic commerce, digital signatures, cybersecurity, and cybercrimes in India."}
+{"instruction": "What is cybercrime?", "input": "", "output": "Cybercrime refers to criminal acts committed using computers or digital networks, including hacking, fraud, and identity theft."}
+{"instruction": "What is data protection law?", "input": "", "output": "Data protection law regulates the collection, storage, and use of personal data to protect privacy."}
+{"instruction": "What is consumer law?", "input": "", "output": "Consumer law protects the rights of consumers against unfair trade practices, defective goods, and deficient services."}
+{"instruction": "What is Consumer Protection Act, 2019?", "input": "", "output": "The Consumer Protection Act provides mechanisms for consumers to file complaints and seek redress for grievances."}
+{"instruction": "What is consumer grievance redressal?", "input": "", "output": "Consumer grievance redressal refers to the legal process by which consumers can file complaints and obtain remedies."}
+{"instruction": "What is negotiable instruments law?", "input": "", "output": "Negotiable instruments law regulates the use, transfer, and enforcement of instruments like cheques, promissory notes, and bills of exchange."}
+{"instruction": "What is a promissory note?", "input": "", "output": "A promissory note is a written promise to pay a specified sum to a person or order on demand or at a future date."}
+{"instruction": "What is a bill of exchange?", "input": "", "output": "A bill of exchange is a written order directing a person to pay a certain amount to another person or bearer."}
+{"instruction": "What is a cheque?", "input": "", "output": "A cheque is a written order directing a bank to pay a specified sum from the drawer’s account to the payee."}
+{"instruction": "What is negotiability?", "input": "", "output": "Negotiability is the quality of an instrument that allows it to be transferred freely and ensures the transferee can claim payment."}
+{"instruction": "What is endorsement?", "input": "", "output": "Endorsement is the signature of the holder on a negotiable instrument to transfer rights to another party."}
+{"instruction": "What is dishonor of a cheque?", "input": "", "output": "Dishonor of a cheque occurs when a bank refuses to honor payment due to insufficient funds or other reasons."}
+{"instruction": "What is intellectual property?", "input": "", "output": "Intellectual property refers to creations of the mind like inventions, literary works, designs, symbols, and names used in commerce."}
+{"instruction": "What is copyright?", "input": "", "output": "Copyright protects original literary, artistic, musical, and dramatic works from unauthorized use."}
+{"instruction": "What is patent?", "input": "", "output": "A patent grants the inventor exclusive rights to make, use, sell, or license an invention for a limited period."}
+{"instruction": "What is trademark?", "input": "", "output": "A trademark is a sign, logo, or symbol that distinguishes goods or services of one entity from another."}
+{"instruction": "What is trade secret?", "input": "", "output": "A trade secret is confidential business information that provides a competitive advantage and is protected from unauthorized disclosure."}
+{"instruction": "What is property registration?", "input": "", "output": "Property registration is the legal process of recording ownership rights and transactions related to immovable property."}
+{"instruction": "What is land acquisition law?", "input": "", "output": "Land acquisition law regulates the process by which the government acquires private land for public purposes."}
+{"instruction": "What is eminent domain?", "input": "", "output": "Eminent domain is the power of the government to take private property for public use, with compensation to the owner."}
+{"instruction": "What is tenancy law?", "input": "", "output": "Tenancy law governs the rights and obligations of landlords and tenants, including rent, eviction, and lease agreements."}
+{"instruction": "What is eviction?", "input": "", "output": "Eviction is the legal process by which a landlord removes a tenant from leased property for breach of terms or non-payment."}
+{"instruction": "What is company law?", "input": "", "output": "Company law governs the formation, operation, regulation, and dissolution of companies."}
+{"instruction": "What is corporate governance?", "input": "", "output": "Corporate governance refers to the system of rules, practices, and processes by which a company is directed and controlled."}
+{"instruction": "What is director's duties?", "input": "", "output": "Directors’ duties include acting in good faith, exercising due care, avoiding conflicts of interest, and complying with the law."}
+{"instruction": "What is shareholder rights?", "input": "", "output": "Shareholders have rights to vote, receive dividends, inspect records, and participate in major decisions of the company."}
+{"instruction": "What is limited liability?", "input": "", "output": "Limited liability restricts the personal financial responsibility of owners or shareholders to the extent of their investment in the company."}
+{"instruction": "What is partnership deed?", "input": "", "output": "A partnership deed is a legal document that specifies the terms, rights, duties, and profit-sharing arrangement among partners."}
+{"instruction": "What is dissolution of partnership?", "input": "", "output": "Dissolution of partnership is the termination of the partnership agreement and settlement of accounts among partners."}
+{"instruction": "What is consumer rights?", "input": "", "output": "Consumer rights include the right to safety, information, choice, redress, and to be heard."}
+{"instruction": "What is cyber tort?", "input": "", "output": "A cyber tort is a civil wrong committed using digital or internet-based platforms, such as online defamation or privacy breaches."}
+{"instruction": "What is white-collar crime?", "input": "", "output": "White-collar crime refers to non-violent financial crimes committed for personal or corporate gain, like fraud, embezzlement, or insider trading."}
+{"instruction": "What is corporate liability?", "input": "", "output": "Corporate liability holds a company legally responsible for acts of its directors, employees, or agents under certain conditions."}
+{"instruction": "What is whistleblower protection?", "input": "", "output": "Whistleblower protection safeguards individuals who expose illegal or unethical activities within an organization from retaliation."}
+{"instruction": "What is anti-corruption law?", "input": "", "output": "Anti-corruption law prohibits bribery, corruption, and misuse of public office, establishing penalties for offenders."}
+{"instruction": "What is human trafficking law?", "input": "", "output": "Human trafficking law criminalizes the recruitment, transport, or harboring of persons for exploitation."}
+{"instruction": "What is intellectual property licensing?", "input": "", "output": "Intellectual property licensing is an agreement allowing another party to use protected IP in exchange for royalties or fees."}
+{"instruction": "What is cyber security law?", "input": "", "output": "Cybersecurity law regulates the protection of information systems, data integrity, and the prevention of cyber attacks."}
+{"instruction": "What is whistleblower?", "input": "", "output": "A whistleblower is an individual who exposes illegal, unethical, or unsafe activities within an organization."}
+{"instruction": "What is corporate compliance?", "input": "", "output": "Corporate compliance ensures that a company follows legal standards, regulations, and internal policies to avoid violations and penalties."}
+{"instruction": "What is international criminal law?", "input": "", "output": "International criminal law addresses crimes recognized as offenses against the international community, such as genocide, war crimes, and crimes against humanity."}
+{"instruction": "What is extradition?", "input": "", "output": "Extradition is the legal process by which one country surrenders a suspected or convicted criminal to another country for trial or punishment."}
+{"instruction": "What is banking law?", "input": "", "output": "Banking law regulates banks, financial institutions, and their transactions, including lending, deposits, and electronic banking."}

@@ -7,4 +7,3 @@ adapters/
 logs/
 __pycache__/
 .gradio/
-data_extra/

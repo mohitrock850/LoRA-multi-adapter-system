@@ -1,0 +1,517 @@
+{"instruction": "What is a tuple in Python?", "input": "", "output": "A tuple is an ordered, immutable collection of elements that can contain different data types."}
+{"instruction": "What is a set in Python?", "input": "", "output": "A set is an unordered collection of unique elements in Python."}
+{"instruction": "What is a dictionary in Python?", "input": "", "output": "A dictionary is a collection of key-value pairs where each key is unique."}
+{"instruction": "What is a function?", "input": "", "output": "A function is a reusable block of code that performs a specific task and can accept inputs and return outputs."}
+{"instruction": "What is recursion?", "input": "", "output": "Recursion is a technique where a function calls itself to solve a problem by breaking it into smaller subproblems."}
+{"instruction": "What is a loop?", "input": "", "output": "A loop is a control structure that repeats a block of code multiple times until a condition is met."}
+{"instruction": "What is a for loop?", "input": "", "output": "A for loop is a control structure that iterates over a sequence or range of values a fixed number of times."}
+{"instruction": "What is a while loop?", "input": "", "output": "A while loop repeats a block of code as long as a given condition evaluates to true."}
+{"instruction": "What is a conditional statement?", "input": "", "output": "A conditional statement executes a block of code based on whether a condition is true or false."}
+{"instruction": "What is an if statement?", "input": "", "output": "An if statement executes a block of code if a specified condition evaluates to true."}
+{"instruction": "What is an if-else statement?", "input": "", "output": "An if-else statement executes one block of code if a condition is true and another block if the condition is false."}
+{"instruction": "What is an elif statement in Python?", "input": "", "output": "Elif (else if) allows multiple conditions to be checked sequentially after an if statement in Python."}
+{"instruction": "What is a switch statement?", "input": "", "output": "A switch statement allows a variable to be tested against multiple cases and executes the matching case block."}
+{"instruction": "What is object-oriented programming (OOP)?", "input": "", "output": "OOP is a programming paradigm that uses objects and classes to organize code around data and behavior."}
+{"instruction": "What is a class?", "input": "", "output": "A class is a blueprint for creating objects, defining properties (attributes) and methods (functions)."}
+{"instruction": "What is an object?", "input": "", "output": "An object is an instance of a class containing data and methods defined by the class."}
+{"instruction": "What is inheritance?", "input": "", "output": "Inheritance is a mechanism where a class can inherit attributes and methods from another class."}
+{"instruction": "What is encapsulation?", "input": "", "output": "Encapsulation is the concept of restricting direct access to some components of an object and using methods to interact with them."}
+{"instruction": "What is polymorphism?", "input": "", "output": "Polymorphism allows objects of different classes to be treated as objects of a common superclass, often through method overriding or interfaces."}
+{"instruction": "What is abstraction?", "input": "", "output": "Abstraction is the concept of hiding complex implementation details and exposing only the essential features."}
+{"instruction": "What is a constructor?", "input": "", "output": "A constructor is a special method used to initialize objects of a class when they are created."}
+{"instruction": "What is a destructor?", "input": "", "output": "A destructor is a special method invoked when an object is destroyed to release resources."}
+{"instruction": "What is method overloading?", "input": "", "output": "Method overloading is the ability to define multiple methods with the same name but different parameter lists."}
+{"instruction": "What is method overriding?", "input": "", "output": "Method overriding occurs when a subclass provides a specific implementation of a method already defined in its superclass."}
+{"instruction": "What is a module in Python?", "input": "", "output": "A module is a file containing Python code, such as functions, classes, or variables, that can be imported and reused."}
+{"instruction": "What is a package in Python?", "input": "", "output": "A package is a collection of Python modules organized in directories and containing an __init__.py file."}
+{"instruction": "What is exception handling?", "input": "", "output": "Exception handling is the process of managing errors or exceptional conditions in a program using try, catch, or finally blocks."}
+{"instruction": "What is a try-except block?", "input": "", "output": "A try-except block allows a program to attempt code execution and handle exceptions without crashing."}
+{"instruction": "What is a file in programming?", "input": "", "output": "A file is a collection of data stored on disk that a program can read from or write to."}
+{"instruction": "What is file I/O?", "input": "", "output": "File I/O is the process of reading data from and writing data to files in a program."}
+{"instruction": "What is a database?", "input": "", "output": "A database is an organized collection of data that can be accessed, managed, and updated."}
+{"instruction": "What is SQL?", "input": "", "output": "SQL (Structured Query Language) is used to manage and manipulate relational databases."}
+{"instruction": "What is a primary key?", "input": "", "output": "A primary key is a unique identifier for a record in a database table."}
+{"instruction": "What is a foreign key?", "input": "", "output": "A foreign key is a field in one table that refers to the primary key of another table to establish a relationship."}
+{"instruction": "What is normalization in databases?", "input": "", "output": "Normalization is the process of organizing database tables to reduce redundancy and improve data integrity."}
+{"instruction": "What is a transaction?", "input": "", "output": "A transaction is a sequence of database operations that are executed as a single unit, following ACID properties."}
+{"instruction": "What is an index in databases?", "input": "", "output": "An index is a database structure that improves the speed of data retrieval at the cost of additional storage."}
+{"instruction": "What is NoSQL?", "input": "", "output": "NoSQL databases are non-relational databases designed to handle unstructured or semi-structured data, often for scalability and flexibility."}
+{"instruction": "What is a key-value store?", "input": "", "output": "A key-value store is a type of NoSQL database that stores data as key-value pairs for fast retrieval."}
+{"instruction": "What is a document database?", "input": "", "output": "A document database is a type of NoSQL database that stores data in document format, such as JSON or XML."}
+{"instruction": "What is a graph database?", "input": "", "output": "A graph database stores data as nodes and edges to represent relationships, useful for social networks or recommendations."}
+{"instruction": "What is a relational database?", "input": "", "output": "A relational database stores data in structured tables with rows and columns and supports SQL queries."}
+{"instruction": "What is a deadlock in programming?", "input": "", "output": "A deadlock is a situation in concurrent programming where two or more processes are unable to proceed because each is waiting for the other to release resources."}
+{"instruction": "What is multithreading?", "input": "", "output": "Multithreading is the ability of a program to execute multiple threads concurrently to improve performance."}
+{"instruction": "What is a thread?", "input": "", "output": "A thread is the smallest unit of execution within a process, sharing resources with other threads of the same process."}
+{"instruction": "What is concurrency?", "input": "", "output": "Concurrency is the ability of a system to execute multiple tasks simultaneously, improving efficiency."}
+{"instruction": "What is parallelism?", "input": "", "output": "Parallelism is performing multiple operations at exactly the same time, usually using multiple processors or cores."}
+{"instruction": "What is a process?", "input": "", "output": "A process is an independent program in execution, with its own memory space and resources."}
+{"instruction": "What is inter-process communication (IPC)?", "input": "", "output": "IPC is the mechanism by which processes communicate and share data, such as pipes, sockets, or shared memory."}
+{"instruction": "What is a mutex?", "input": "", "output": "A mutex is a synchronization primitive that ensures only one thread can access a resource at a time."}
+{"instruction": "What is a semaphore?", "input": "", "output": "A semaphore is a synchronization mechanism used to control access to shared resources by multiple threads."}
+{"instruction": "What is a race condition?", "input": "", "output": "A race condition occurs when multiple threads access shared data simultaneously and produce unexpected results."}
+{"instruction": "What is a deadlock prevention?", "input": "", "output": "Deadlock prevention is a technique to ensure that the conditions for deadlock do not occur in concurrent systems."}
+{"instruction": "What is a data structure?", "input": "", "output": "A data structure is a way of organizing and storing data to perform operations efficiently."}
+{"instruction": "What is a stack?", "input": "", "output": "A stack is a data structure that follows Last-In-First-Out (LIFO) principle."}
+{"instruction": "What is a queue?", "input": "", "output": "A queue is a data structure that follows First-In-First-Out (FIFO) principle."}
+{"instruction": "What is a priority queue?", "input": "", "output": "A priority queue is a data structure where elements are served based on priority rather than order of insertion."}
+{"instruction": "What is a linked list?", "input": "", "output": "A linked list is a linear data structure where each element points to the next element, allowing dynamic memory allocation."}
+{"instruction": "What is a doubly linked list?", "input": "", "output": "A doubly linked list is a linked list where each node points to both its previous and next node."}
+{"instruction": "What is a circular linked list?", "input": "", "output": "A circular linked list is a linked list where the last node points back to the first node."}
+{"instruction": "What is a hash table?", "input": "", "output": "A hash table is a data structure that maps keys to values using a hash function for efficient lookup."}
+{"instruction": "What is a hash function?", "input": "", "output": "A hash function is a function that converts input data into a fixed-size integer to index into a hash table."}
+{"instruction": "What is collision in hashing?", "input": "", "output": "A collision occurs when two different keys generate the same hash value in a hash table."}
+{"instruction": "What is chaining in hashing?", "input": "", "output": "Chaining is a technique to resolve hash collisions using linked lists to store multiple items in the same bucket."}
+{"instruction": "What is open addressing in hashing?", "input": "", "output": "Open addressing resolves hash collisions by finding another empty slot within the hash table according to a probing sequence."}
+{"instruction": "What is a binary tree?", "input": "", "output": "A binary tree is a tree data structure where each node has at most two children."}
+{"instruction": "What is a binary search tree (BST)?", "input": "", "output": "A BST is a binary tree where left child nodes are less than the parent and right child nodes are greater."}
+{"instruction": "What is a balanced tree?", "input": "", "output": "A balanced tree maintains its height such that the depth of subtrees is minimized for efficient operations."}
+{"instruction": "What is an AVL tree?", "input": "", "output": "An AVL tree is a self-balancing BST where the height difference between left and right subtrees is at most 1."}
+{"instruction": "What is a red-black tree?", "input": "", "output": "A red-black tree is a self-balancing BST with nodes colored red or black to ensure balance."}
+{"instruction": "What is a heap?", "input": "", "output": "A heap is a complete binary tree where elements follow a specific order, e.g., max-heap or min-heap."}
+{"instruction": "What is a max-heap?", "input": "", "output": "A max-heap is a heap where the parent node is always greater than or equal to its children."}
+{"instruction": "What is a min-heap?", "input": "", "output": "A min-heap is a heap where the parent node is always less than or equal to its children."}
+{"instruction": "What is a graph?", "input": "", "output": "A graph is a data structure consisting of nodes (vertices) connected by edges."}
+{"instruction": "What is a directed graph?", "input": "", "output": "A directed graph is a graph where edges have a direction from one vertex to another."}
+{"instruction": "What is an undirected graph?", "input": "", "output": "An undirected graph is a graph where edges have no direction and connect vertices mutually."}
+{"instruction": "What is a weighted graph?", "input": "", "output": "A weighted graph is a graph where edges have numerical values representing cost, distance, or capacity."}
+{"instruction": "What is an unweighted graph?", "input": "", "output": "An unweighted graph is a graph where edges do not carry any weight or cost."}
+{"instruction": "What is a connected graph?", "input": "", "output": "A connected graph is one where there is a path between every pair of vertices."}
+{"instruction": "What is a disconnected graph?", "input": "", "output": "A disconnected graph has at least two vertices with no path connecting them."}
+{"instruction": "What is a cycle in a graph?", "input": "", "output": "A cycle is a path in a graph that starts and ends at the same vertex without repeating edges or vertices."}
+{"instruction": "What is a DAG (Directed Acyclic Graph)?", "input": "", "output": "A DAG is a directed graph with no cycles, often used to represent dependencies or tasks."}
+{"instruction": "What is BFS (Breadth-First Search)?", "input": "", "output": "BFS is a graph traversal algorithm that visits nodes level by level using a queue."}
+{"instruction": "What is DFS (Depth-First Search)?", "input": "", "output": "DFS is a graph traversal algorithm that explores as far as possible along each branch before backtracking, using recursion or a stack."}
+{"instruction": "What is Dijkstra's algorithm?", "input": "", "output": "Dijkstra's algorithm finds the shortest path from a source node to all other nodes in a weighted graph with non-negative edges."}
+{"instruction": "What is Bellman-Ford algorithm?", "input": "", "output": "The Bellman-Ford algorithm computes the shortest path from a source to all vertices in a weighted graph and can handle negative weights."}
+{"instruction": "What is Floyd-Warshall algorithm?", "input": "", "output": "Floyd-Warshall algorithm computes shortest paths between all pairs of vertices in a weighted graph."}
+{"instruction": "What is Prim's algorithm?", "input": "", "output": "Prim's algorithm finds a minimum spanning tree of a weighted graph by adding edges with the smallest weight connecting new vertices."}
+{"instruction": "What is Kruskal's algorithm?", "input": "", "output": "Kruskal's algorithm finds a minimum spanning tree by sorting edges by weight and adding them without forming cycles."}
+{"instruction": "What is a dynamic programming?", "input": "", "output": "Dynamic programming is an optimization technique where problems are solved by combining solutions to overlapping subproblems and storing intermediate results."}
+{"instruction": "What is memoization?", "input": "", "output": "Memoization is a technique to store computed results of function calls to avoid redundant computations."}
+{"instruction": "What is tabulation in dynamic programming?", "input": "", "output": "Tabulation is a bottom-up approach in dynamic programming where results are computed iteratively and stored in a table."}
+{"instruction": "What is greedy algorithm?", "input": "", "output": "A greedy algorithm builds a solution iteratively by choosing the locally optimal choice at each step."}
+{"instruction": "What is divide and conquer?", "input": "", "output": "Divide and conquer is a strategy that divides a problem into smaller subproblems, solves them recursively, and combines the results."}
+{"instruction": "What is a backtracking algorithm?", "input": "", "output": "Backtracking is a technique for solving problems incrementally, abandoning solutions that fail constraints to find all possible solutions."}
+{"instruction": "What is a sorting algorithm?", "input": "", "output": "A sorting algorithm arranges elements in a specific order, such as ascending or descending."}
+{"instruction": "What is bubble sort?", "input": "", "output": "Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order."}
+{"instruction": "What is selection sort?", "input": "", "output": "Selection sort is a sorting algorithm that repeatedly selects the minimum (or maximum) element from the unsorted portion and places it at the beginning (or end)."}
+{"instruction": "What is insertion sort?", "input": "", "output": "Insertion sort builds a sorted array one element at a time by inserting each new element into its correct position."}
+{"instruction": "What is merge sort?", "input": "", "output": "Merge sort is a divide and conquer algorithm that divides the array into halves, recursively sorts them, and merges them back together."}
+{"instruction": "What is quick sort?", "input": "", "output": "Quick sort is a divide and conquer algorithm that selects a pivot, partitions the array around the pivot, and recursively sorts the partitions."}
+{"instruction": "What is heap sort?", "input": "", "output": "Heap sort is a comparison-based sorting algorithm that converts the array into a heap and repeatedly extracts the maximum or minimum element to sort."}
+{"instruction": "What is counting sort?", "input": "", "output": "Counting sort is a non-comparison sorting algorithm that counts the occurrences of each element and calculates their positions in the sorted array."}
+{"instruction": "What is radix sort?", "input": "", "output": "Radix sort is a non-comparison sorting algorithm that sorts elements by processing individual digits, usually from least significant to most significant."}
+{"instruction": "What is bucket sort?", "input": "", "output": "Bucket sort distributes elements into buckets, sorts each bucket individually, and concatenates the results to produce a sorted array."}
+{"instruction": "What is linear search?", "input": "", "output": "Linear search is a search algorithm that sequentially checks each element in a list until the target is found or the list ends."}
+{"instruction": "What is binary search?", "input": "", "output": "Binary search is a search algorithm that repeatedly divides a sorted array in half to locate the target element."}
+{"instruction": "What is time complexity?", "input": "", "output": "Time complexity is a measure of the amount of computational time an algorithm takes relative to input size."}
+{"instruction": "What is space complexity?", "input": "", "output": "Space complexity is the measure of memory an algorithm requires relative to input size."}
+{"instruction": "What is Big O notation?", "input": "", "output": "Big O notation describes the upper bound of an algorithm’s time or space complexity, expressing worst-case performance."}
+{"instruction": "What is O(1) complexity?", "input": "", "output": "O(1) represents constant time complexity where the algorithm executes in the same time regardless of input size."}
+{"instruction": "What is O(n) complexity?", "input": "", "output": "O(n) represents linear time complexity where the execution time grows proportionally with input size."}
+{"instruction": "What is O(log n) complexity?", "input": "", "output": "O(log n) represents logarithmic time complexity where execution time grows logarithmically with input size, common in divide and conquer algorithms."}
+{"instruction": "What is O(n^2) complexity?", "input": "", "output": "O(n^2) represents quadratic time complexity where execution time grows proportionally to the square of input size, common in simple nested loops."}
+{"instruction": "What is recursion base case?", "input": "", "output": "The base case is the condition in a recursive function that stops further recursive calls to prevent infinite recursion."}
+{"instruction": "What is recursion depth?", "input": "", "output": "Recursion depth is the number of times a recursive function calls itself before reaching the base case."}
+{"instruction": "What is stack overflow?", "input": "", "output": "Stack overflow occurs when a program exceeds the call stack limit, often due to deep or infinite recursion."}
+{"instruction": "What is a pointer?", "input": "", "output": "A pointer is a variable that stores the memory address of another variable."}
+{"instruction": "What is dereferencing a pointer?", "input": "", "output": "Dereferencing a pointer means accessing the value stored at the memory address the pointer is pointing to."}
+{"instruction": "What is null pointer?", "input": "", "output": "A null pointer is a pointer that does not point to any valid memory location."}
+{"instruction": "What is memory leak?", "input": "", "output": "A memory leak occurs when a program allocates memory but fails to release it, leading to wasted memory and potential crashes."}
+{"instruction": "What is garbage collection?", "input": "", "output": "Garbage collection is an automatic process that frees memory occupied by objects no longer in use."}
+{"instruction": "What is a compiler?", "input": "", "output": "A compiler is a program that translates high-level source code into machine code or an intermediate language."}
+{"instruction": "What is an interpreter?", "input": "", "output": "An interpreter directly executes the instructions of a high-level programming language without producing machine code."}
+{"instruction": "What is JIT compilation?", "input": "", "output": "Just-In-Time (JIT) compilation translates code into machine code at runtime to improve performance."}
+{"instruction": "What is source code?", "input": "", "output": "Source code is the human-readable set of instructions written in a programming language."}
+{"instruction": "What is object code?", "input": "", "output": "Object code is the machine-readable code produced by compiling source code."}
+{"instruction": "What is bytecode?", "input": "", "output": "Bytecode is an intermediate code between source code and machine code, often executed by a virtual machine."}
+{"instruction": "What is a virtual machine (VM)?", "input": "", "output": "A virtual machine is software that emulates a physical computer, allowing execution of programs in a platform-independent way."}
+{"instruction": "What is assembly language?", "input": "", "output": "Assembly language is a low-level programming language using mnemonics to represent machine instructions."}
+{"instruction": "What is machine code?", "input": "", "output": "Machine code is the set of binary instructions executed directly by a computer's CPU."}
+{"instruction": "What is an operating system?", "input": "", "output": "An operating system is software that manages hardware resources, provides services, and serves as an interface between hardware and applications."}
+{"instruction": "What is a process scheduler?", "input": "", "output": "A process scheduler is a component of an OS that decides the order and allocation of CPU time to processes."}
+{"instruction": "What is context switch?", "input": "", "output": "A context switch is the process of saving the state of a currently running process and loading the state of another process."}
+{"instruction": "What is multithreading in OS?", "input": "", "output": "Multithreading is the capability of an OS to run multiple threads of a single process concurrently."}
+{"instruction": "What is deadlock in OS?", "input": "", "output": "A deadlock is a state where processes are waiting for resources held by each other and cannot proceed."}
+{"instruction": "What is virtual memory?", "input": "", "output": "Virtual memory is a memory management technique that uses disk space to extend the apparent available RAM."}
+{"instruction": "What is paging?", "input": "", "output": "Paging is a memory management scheme that divides memory into fixed-size pages and maps them to physical frames."}
+{"instruction": "What is segmentation in OS?", "input": "", "output": "Segmentation is a memory management technique where memory is divided into variable-sized segments based on logical divisions of programs."}
+{"instruction": "What is a file system?", "input": "", "output": "A file system is a method and data structure an OS uses to store, organize, and access files on storage devices."}
+{"instruction": "What is a process?", "input": "", "output": "A process is a running instance of a program with its own memory space, code, and execution context."}
+{"instruction": "What is a thread?", "input": "", "output": "A thread is the smallest unit of execution in a process, sharing memory and resources with other threads."}
+{"instruction": "What is synchronization?", "input": "", "output": "Synchronization ensures that multiple threads or processes access shared resources safely to avoid conflicts."}
+{"instruction": "What is a semaphore in OS?", "input": "", "output": "A semaphore is a synchronization tool used to control access to shared resources in concurrent programming."}
+{"instruction": "What is a mutex in OS?", "input": "", "output": "A mutex is a mutual exclusion object used to prevent multiple threads from accessing a shared resource simultaneously."}
+{"instruction": "What is a deadlock detection?", "input": "", "output": "Deadlock detection identifies if a set of processes are deadlocked and determines ways to recover from it."}
+{"instruction": "What is a distributed system?", "input": "", "output": "A distributed system is a network of independent computers that appear as a single system to users and applications."}
+{"instruction": "What is cloud computing?", "input": "", "output": "Cloud computing delivers computing services like servers, storage, and applications over the internet on demand."}
+{"instruction": "What is SaaS?", "input": "", "output": "Software as a Service (SaaS) is a cloud computing model where applications are hosted and accessed over the internet."}
+{"instruction": "What is PaaS?", "input": "", "output": "Platform as a Service (PaaS) provides a platform for developers to build, test, and deploy applications without managing underlying infrastructure."}
+{"instruction": "What is IaaS?", "input": "", "output": "Infrastructure as a Service (IaaS) provides virtualized computing resources over the internet, including servers, storage, and networking."}
+{"instruction": "What is a client-server architecture?", "input": "", "output": "Client-server architecture is a model where clients request services and servers provide them over a network."}
+{"instruction": "What is a peer-to-peer (P2P) network?", "input": "", "output": "A P2P network is a decentralized network where all nodes act as both clients and servers, sharing resources directly."}
+{"instruction": "What is HTTP?", "input": "", "output": "HTTP (HyperText Transfer Protocol) is a protocol for transferring web pages and data over the internet."}
+{"instruction": "What is HTTPS?", "input": "", "output": "HTTPS is the secure version of HTTP, using SSL/TLS to encrypt data exchanged between client and server."}
+{"instruction": "What is a REST API?", "input": "", "output": "A REST API is an application programming interface that uses HTTP requests to perform CRUD operations in a stateless manner."}
+{"instruction": "What is SOAP?", "input": "", "output": "SOAP (Simple Object Access Protocol) is a protocol for exchanging structured information in web services using XML."}
+{"instruction": "What is JSON?", "input": "", "output": "JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans and machines to read and write."}
+{"instruction": "What is XML?", "input": "", "output": "XML (eXtensible Markup Language) is a markup language used to encode data in a structured, readable format."}
+{"instruction": "What is AJAX?", "input": "", "output": "AJAX (Asynchronous JavaScript and XML) is a technique for creating asynchronous web applications that can update content without refreshing the page."}
+{"instruction": "What is web socket?", "input": "", "output": "A WebSocket is a protocol that allows full-duplex communication between a client and server over a single TCP connection."}
+{"instruction": "What is a cookie?", "input": "", "output": "A cookie is a small piece of data stored on a user's browser to remember information between sessions."}
+{"instruction": "What is session storage?", "input": "", "output": "Session storage is a web storage mechanism that stores data for the duration of the page session."}
+{"instruction": "What is local storage?", "input": "", "output": "Local storage is a web storage mechanism that stores data persistently in the browser until explicitly deleted."}
+{"instruction": "What is a database index?", "input": "", "output": "A database index is a structure that improves query performance by allowing faster retrieval of rows based on indexed columns."}
+{"instruction": "What is ACID property in databases?", "input": "", "output": "ACID stands for Atomicity, Consistency, Isolation, Durability, which are properties that ensure reliable transactions in databases."}
+{"instruction": "What is BASE property in databases?", "input": "", "output": "BASE stands for Basically Available, Soft state, Eventual consistency, often used in NoSQL databases for scalability and flexibility."}
+{"instruction": "What is SQL injection?", "input": "", "output": "SQL injection is a security vulnerability where attackers execute malicious SQL code by manipulating user inputs."}
+{"instruction": "What is Cross-Site Scripting (XSS)?", "input": "", "output": "XSS is a web security vulnerability where attackers inject malicious scripts into web pages viewed by other users."}
+{"instruction": "What is Cross-Site Request Forgery (CSRF)?", "input": "", "output": "CSRF is a security attack that forces a user to execute unwanted actions on a web application in which they are authenticated."}
+{"instruction": "What is authentication?", "input": "", "output": "Authentication is the process of verifying the identity of a user or system."}
+{"instruction": "What is authorization?", "input": "", "output": "Authorization is the process of granting or denying access to resources based on authenticated identity."}
+{"instruction": "What is OAuth?", "input": "", "output": "OAuth is an open standard for access delegation, allowing users to grant applications limited access to their resources without sharing credentials."}
+{"instruction": "What is JWT?", "input": "", "output": "JWT (JSON Web Token) is a compact, URL-safe token used for securely transmitting information between parties as a JSON object."}
+{"instruction": "What is MVC architecture?", "input": "", "output": "MVC (Model-View-Controller) is a software design pattern that separates an application into three components: model, view, and controller."}
+{"instruction": "What is MVVM architecture?", "input": "", "output": "MVVM (Model-View-ViewModel) is a design pattern that separates UI logic (ViewModel) from business logic and data (Model) and presentation (View)."}
+{"instruction": "What is MVP architecture?", "input": "", "output": "MVP (Model-View-Presenter) is a design pattern where the Presenter handles user interactions and updates the View with Model data."}
+{"instruction": "What is a framework?", "input": "", "output": "A framework is a pre-built collection of tools, libraries, and conventions that helps developers build applications efficiently."}
+{"instruction": "What is a library?", "input": "", "output": "A library is a collection of reusable functions or classes that developers can use in their programs."}
+{"instruction": "What is front-end development?", "input": "", "output": "Front-end development involves building the user interface and experience of a web application using HTML, CSS, and JavaScript."}
+{"instruction": "What is back-end development?", "input": "", "output": "Back-end development involves building server-side logic, databases, and APIs to support front-end applications."}
+{"instruction": "What is full-stack development?", "input": "", "output": "Full-stack development involves working on both front-end and back-end parts of an application."}
+{"instruction": "What is HTML?", "input": "", "output": "HTML (HyperText Markup Language) is the standard language for creating web page structures and content."}
+{"instruction": "What is CSS?", "input": "", "output": "CSS (Cascading Style Sheets) is used to style and layout HTML elements on a web page."}
+{"instruction": "What is JavaScript?", "input": "", "output": "JavaScript is a scripting language used to create dynamic and interactive web pages."}
+{"instruction": "What is TypeScript?", "input": "", "output": "TypeScript is a typed superset of JavaScript that adds static typing and compiles to plain JavaScript."}
+{"instruction": "What is React?", "input": "", "output": "React is a JavaScript library for building user interfaces using components and a virtual DOM."}
+{"instruction": "What is Angular?", "input": "", "output": "Angular is a TypeScript-based front-end framework for building dynamic single-page applications."}
+{"instruction": "What is Vue.js?", "input": "", "output": "Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications."}
+{"instruction": "What is Node.js?", "input": "", "output": "Node.js is a JavaScript runtime that allows server-side programming using JavaScript."}
+{"instruction": "What is Express.js?", "input": "", "output": "Express.js is a minimal Node.js framework used for building web applications and APIs."}
+{"instruction": "What is Django?", "input": "", "output": "Django is a Python-based web framework that encourages rapid development and clean, pragmatic design."}
+{"instruction": "What is Flask?", "input": "", "output": "Flask is a lightweight Python web framework for building web applications and APIs."}
+{"instruction": "What is RESTful service?", "input": "", "output": "A RESTful service is a web service that follows REST principles, including statelessness and resource-based URLs."}
+{"instruction": "What is GraphQL?", "input": "", "output": "GraphQL is a query language for APIs that allows clients to request exactly the data they need."}
+{"instruction": "What is WebAssembly?", "input": "", "output": "WebAssembly is a binary instruction format that allows code written in multiple languages to run in browsers at near-native speed."}
+{"instruction": "What is responsive web design?", "input": "", "output": "Responsive web design is an approach where web pages adapt to different screen sizes and devices."}
+{"instruction": "What is Bootstrap?", "input": "", "output": "Bootstrap is a front-end framework that provides pre-built CSS and JavaScript components for responsive web design."}
+{"instruction": "What is Material UI?", "input": "", "output": "Material UI is a React component library that implements Google's Material Design principles."}
+{"instruction": "What is AJAX call?", "input": "", "output": "An AJAX call is a request from a client to a server using JavaScript to update web content asynchronously."}
+{"instruction": "What is a promise in JavaScript?", "input": "", "output": "A promise is an object representing the eventual completion or failure of an asynchronous operation and its resulting value."}
+{"instruction": "What is async/await in JavaScript?", "input": "", "output": "Async/await is syntax in JavaScript to write asynchronous code that looks synchronous, improving readability and error handling."}
+{"instruction": "What is a callback function?", "input": "", "output": "A callback function is a function passed as an argument to another function, to be executed after some operation completes."}
+{"instruction": "What is event bubbling in JavaScript?", "input": "", "output": "Event bubbling is a propagation method where an event starts from the target element and bubbles up through its ancestors."}
+{"instruction": "What is event capturing in JavaScript?", "input": "", "output": "Event capturing is a propagation method where an event starts from the outermost element and moves down to the target element."}
+{"instruction": "What is the DOM?", "input": "", "output": "The Document Object Model (DOM) is a programming interface that represents HTML and XML documents as a tree of objects."}
+{"instruction": "What is DOM manipulation?", "input": "", "output": "DOM manipulation involves using JavaScript to modify the structure, style, or content of web pages dynamically."}
+{"instruction": "What is AJAX?", "input": "", "output": "AJAX (Asynchronous JavaScript and XML) is a technique to send and receive data asynchronously without reloading the web page."}
+{"instruction": "What is Web API?", "input": "", "output": "A Web API is an interface that allows web applications to interact with other software systems over the internet."}
+{"instruction": "What is a REST endpoint?", "input": "", "output": "A REST endpoint is a specific URL exposed by a RESTful API to perform operations on a resource."}
+{"instruction": "What is CRUD?", "input": "", "output": "CRUD stands for Create, Read, Update, and Delete – the four basic operations of persistent storage."}
+{"instruction": "What is JWT authentication?", "input": "", "output": "JWT authentication uses JSON Web Tokens to securely transmit user identity and claims for access control."}
+{"instruction": "What is session management?", "input": "", "output": "Session management is the process of maintaining state and user identity across multiple requests in web applications."}
+{"instruction": "What is a cookie in web development?", "input": "", "output": "A cookie is a small piece of data stored by a web browser to maintain user sessions and preferences."}
+{"instruction": "What is HTTPS?", "input": "", "output": "HTTPS is the secure version of HTTP, encrypting data transferred between client and server using SSL/TLS."}
+{"instruction": "What is SSL/TLS?", "input": "", "output": "SSL/TLS are cryptographic protocols that provide secure communication over a network."}
+{"instruction": "What is CORS?", "input": "", "output": "CORS (Cross-Origin Resource Sharing) is a security feature that allows or restricts resources on a web page to be requested from another domain."}
+{"instruction": "What is a single-page application (SPA)?", "input": "", "output": "An SPA is a web application that loads a single HTML page and dynamically updates content without full page reloads."}
+{"instruction": "What is progressive web app (PWA)?", "input": "", "output": "A PWA is a web app that uses modern web technologies to provide offline capabilities, push notifications, and app-like experience."}
+{"instruction": "What is responsive design?", "input": "", "output": "Responsive design ensures that web applications adapt to various screen sizes and devices."}
+{"instruction": "What is a database?", "input": "", "output": "A database is an organized collection of data stored and accessed electronically."}
+{"instruction": "What is SQL?", "input": "", "output": "SQL (Structured Query Language) is used to manage and manipulate relational databases."}
+{"instruction": "What is a table in SQL?", "input": "", "output": "A table is a collection of rows and columns in a relational database used to store structured data."}
+{"instruction": "What is a primary key in SQL?", "input": "", "output": "A primary key is a unique identifier for each row in a table."}
+{"instruction": "What is a foreign key in SQL?", "input": "", "output": "A foreign key is a column that establishes a relationship between two tables by referring to a primary key in another table."}
+{"instruction": "What is normalization?", "input": "", "output": "Normalization is the process of organizing database tables to reduce redundancy and improve data integrity."}
+{"instruction": "What is denormalization?", "input": "", "output": "Denormalization is the process of combining tables to improve read performance at the cost of potential redundancy."}
+{"instruction": "What is an index in SQL?", "input": "", "output": "An index is a database structure that improves query performance by allowing faster data retrieval."}
+{"instruction": "What is a transaction in databases?", "input": "", "output": "A transaction is a sequence of database operations executed as a single unit, ensuring ACID properties."}
+{"instruction": "What is a view in SQL?", "input": "", "output": "A view is a virtual table created by querying one or more tables."}
+{"instruction": "What is a stored procedure?", "input": "", "output": "A stored procedure is a set of SQL statements stored in the database that can be executed as a single unit."}
+{"instruction": "What is a trigger in SQL?", "input": "", "output": "A trigger is a database object that automatically executes a specified action in response to certain events on a table."}
+{"instruction": "What is NoSQL?", "input": "", "output": "NoSQL is a class of databases that store unstructured or semi-structured data, often providing high scalability and flexibility."}
+{"instruction": "What is MongoDB?", "input": "", "output": "MongoDB is a NoSQL document database that stores data in JSON-like documents with flexible schemas."}
+{"instruction": "What is Redis?", "input": "", "output": "Redis is an in-memory key-value store used for caching, real-time analytics, and message brokering."}
+{"instruction": "What is Cassandra?", "input": "", "output": "Cassandra is a distributed NoSQL database designed for high availability and scalability with no single point of failure."}
+{"instruction": "What is graph database?", "input": "", "output": "A graph database stores data as nodes and edges to represent relationships and supports graph queries."}
+{"instruction": "What is indexing in NoSQL?", "input": "", "output": "Indexing in NoSQL is a technique to optimize query performance by creating efficient access paths to data."}
+{"instruction": "What is sharding in databases?", "input": "", "output": "Sharding is a method of partitioning a database horizontally across multiple servers to improve scalability."}
+{"instruction": "What is replication in databases?", "input": "", "output": "Replication is the process of copying and maintaining database copies on multiple servers to improve availability and fault tolerance."}
+{"instruction": "What is CAP theorem?", "input": "", "output": "CAP theorem states that in a distributed system, you can achieve at most two of Consistency, Availability, and Partition tolerance simultaneously."}
+{"instruction": "What is eventual consistency?", "input": "", "output": "Eventual consistency is a consistency model where all nodes will eventually have the same data, even if updates are applied asynchronously."}
+{"instruction": "What is a RESTful API?", "input": "", "output": "A RESTful API is an API that follows REST principles, including statelessness, client-server separation, and resource-based URLs."}
+{"instruction": "What is GraphQL API?", "input": "", "output": "GraphQL API allows clients to request only the data they need using a single query with flexible schema."}
+{"instruction": "What is WebSocket?", "input": "", "output": "WebSocket is a protocol providing full-duplex communication between client and server over a single TCP connection."}
+{"instruction": "What is JWT?", "input": "", "output": "JWT (JSON Web Token) is a compact, URL-safe token used to securely transmit information between parties."}
+{"instruction": "What is OAuth 2.0?", "input": "", "output": "OAuth 2.0 is a protocol for authorization that allows third-party applications to access user resources without sharing credentials."}
+{"instruction": "What is OpenID Connect?", "input": "", "output": "OpenID Connect is an authentication layer built on OAuth 2.0 for verifying user identities and providing single sign-on."}
+{"instruction": "What is Cross-Origin Resource Sharing (CORS)?", "input": "", "output": "CORS is a security feature that restricts web applications from requesting resources from a different origin without explicit permission."}
+{"instruction": "What is serverless computing?", "input": "", "output": "Serverless computing allows developers to run applications without managing servers, paying only for actual usage."}
+{"instruction": "What is microservices architecture?", "input": "", "output": "Microservices architecture is an approach where applications are built as a collection of small, independent services communicating via APIs."}
+{"instruction": "What is containerization?", "input": "", "output": "Containerization is a technique to package an application and its dependencies into a portable container for consistent deployment."}
+{"instruction": "What is Docker?", "input": "", "output": "Docker is a platform for building, shipping, and running applications inside containers."}
+{"instruction": "What is Kubernetes?", "input": "", "output": "Kubernetes is an orchestration platform for managing containerized applications at scale."}
+{"instruction": "What is CI/CD?", "input": "", "output": "CI/CD (Continuous Integration/Continuous Deployment) is a practice to automatically test, build, and deploy code changes."}
+{"instruction": "What is version control?", "input": "", "output": "Version control is a system for tracking changes to code and managing multiple versions of a project."}
+{"instruction": "What is Git?", "input": "", "output": "Git is a distributed version control system for tracking changes in source code during software development."}
+{"instruction": "What is GitHub?", "input": "", "output": "GitHub is a web-based platform for hosting Git repositories and collaborating on code."}
+{"instruction": "What is Git commit?", "input": "", "output": "A Git commit records changes to the repository along with a message describing the changes."}
+{"instruction": "What is Git branch?", "input": "", "output": "A Git branch is an independent line of development used to isolate changes from the main codebase."}
+{"instruction": "What is Git merge?", "input": "", "output": "Git merge is the process of combining changes from one branch into another branch."}
+{"instruction": "What is Git rebase?", "input": "", "output": "Git rebase is a process to move or combine a sequence of commits onto a new base commit."}
+{"instruction": "What is Git clone?", "input": "", "output": "Git clone creates a copy of an existing repository on a local machine."}
+{"instruction": "What is Git pull?", "input": "", "output": "Git pull fetches changes from a remote repository and merges them into the local branch."}
+{"instruction": "What is Git push?", "input": "", "output": "Git push uploads local repository changes to a remote repository."}
+{"instruction": "What is Git stash?", "input": "", "output": "Git stash temporarily saves changes that are not ready to commit, allowing a clean working directory."}
+{"instruction": "What is Git diff?", "input": "", "output": "Git diff shows the differences between commits, branches, or files in a repository."}
+{"instruction": "What is Git log?", "input": "", "output": "Git log displays the commit history of a repository, including commit messages, authors, and timestamps."}
+{"instruction": "What is DevOps?", "input": "", "output": "DevOps is a set of practices that combines software development and IT operations to deliver applications faster and more reliably."}
+{"instruction": "What is continuous integration (CI)?", "input": "", "output": "Continuous Integration is the practice of automatically testing and integrating code changes into a shared repository frequently."}
+{"instruction": "What is continuous delivery (CD)?", "input": "", "output": "Continuous Delivery is the practice of automatically preparing code changes for deployment to production environments."}
+{"instruction": "What is continuous deployment?", "input": "", "output": "Continuous Deployment automatically deploys every approved code change to production without manual intervention."}
+{"instruction": "What is infrastructure as code (IaC)?", "input": "", "output": "IaC is the practice of managing and provisioning computing infrastructure using code and automation."}
+{"instruction": "What is Terraform?", "input": "", "output": "Terraform is an IaC tool used to define and provision infrastructure using configuration files."}
+{"instruction": "What is Ansible?", "input": "", "output": "Ansible is an open-source automation tool used for configuration management, application deployment, and task automation."}
+{"instruction": "What is Puppet?", "input": "", "output": "Puppet is a configuration management tool used to automate system administration and infrastructure management."}
+{"instruction": "What is Chef?", "input": "", "output": "Chef is an automation platform for managing infrastructure as code and configuring servers."}
+{"instruction": "What is load balancing?", "input": "", "output": "Load balancing is the process of distributing network or application traffic across multiple servers to improve performance and reliability."}
+{"instruction": "What is a reverse proxy?", "input": "", "output": "A reverse proxy is a server that forwards client requests to backend servers and can provide load balancing, caching, and security."}
+{"instruction": "What is a CDN?", "input": "", "output": "A CDN (Content Delivery Network) is a network of servers distributed geographically to deliver content faster to users."}
+{"instruction": "What is caching?", "input": "", "output": "Caching is the process of storing frequently accessed data in memory to improve application performance."}
+{"instruction": "What is memcached?", "input": "", "output": "Memcached is a distributed in-memory caching system used to speed up dynamic web applications."}
+{"instruction": "What is Redis?", "input": "", "output": "Redis is an in-memory key-value store used for caching, real-time analytics, and messaging."}
+{"instruction": "What is API rate limiting?", "input": "", "output": "API rate limiting restricts the number of requests a client can make to an API within a specific time period."}
+{"instruction": "What is throttling?", "input": "", "output": "Throttling is the process of limiting the rate at which a system processes requests to prevent overload."}
+{"instruction": "What is pagination?", "input": "", "output": "Pagination is the process of dividing large data sets into smaller pages to improve performance and usability."}
+{"instruction": "What is JWT token expiration?", "input": "", "output": "JWT token expiration is a mechanism to ensure that a token is valid only for a limited period to enhance security."}
+{"instruction": "What is refresh token?", "input": "", "output": "A refresh token is a long-lived token used to obtain a new short-lived access token without requiring user re-authentication."}
+{"instruction": "What is OAuth flow?", "input": "", "output": "OAuth flow is the sequence of steps used to obtain access tokens securely for third-party applications."}
+{"instruction": "What is session hijacking?", "input": "", "output": "Session hijacking is a security attack where an attacker takes over a user's active session to gain unauthorized access."}
+{"instruction": "What is SQL injection?", "input": "", "output": "SQL injection is a security vulnerability where attackers manipulate database queries by injecting malicious SQL code."}
+{"instruction": "What is XSS (Cross-Site Scripting)?", "input": "", "output": "XSS is a security vulnerability where attackers inject malicious scripts into web pages viewed by other users."}
+{"instruction": "What is CSRF (Cross-Site Request Forgery)?", "input": "", "output": "CSRF is a security attack where an attacker tricks a user into performing unwanted actions on a web application."}
+{"instruction": "What is HTTPS?", "input": "", "output": "HTTPS is the secure version of HTTP, encrypting data exchanged between clients and servers using SSL/TLS."}
+{"instruction": "What is SSL/TLS certificate?", "input": "", "output": "An SSL/TLS certificate is a digital certificate that authenticates a website and enables encrypted communication."}
+{"instruction": "What is a public key?", "input": "", "output": "A public key is part of asymmetric cryptography used to encrypt data or verify digital signatures."}
+{"instruction": "What is a private key?", "input": "", "output": "A private key is part of asymmetric cryptography used to decrypt data or create digital signatures."}
+{"instruction": "What is hashing?", "input": "", "output": "Hashing is the process of converting data into a fixed-size string using a hash function."}
+{"instruction": "What is SHA-256?", "input": "", "output": "SHA-256 is a cryptographic hash function that generates a 256-bit hash for data integrity and security."}
+{"instruction": "What is bcrypt?", "input": "", "output": "Bcrypt is a password-hashing function designed to be slow to prevent brute-force attacks."}
+{"instruction": "What is HMAC?", "input": "", "output": "HMAC (Hash-based Message Authentication Code) is a mechanism for verifying data integrity and authenticity using a shared secret key."}
+{"instruction": "What is TLS handshake?", "input": "", "output": "TLS handshake is the process of establishing a secure connection between client and server by exchanging keys and verifying certificates."}
+{"instruction": "What is encryption?", "input": "", "output": "Encryption is the process of converting plaintext data into ciphertext to prevent unauthorized access."}
+{"instruction": "What is symmetric encryption?", "input": "", "output": "Symmetric encryption uses the same key for both encryption and decryption of data."}
+{"instruction": "What is asymmetric encryption?", "input": "", "output": "Asymmetric encryption uses a pair of keys, public and private, for encryption and decryption."}
+{"instruction": "What is tokenization?", "input": "", "output": "Tokenization is the process of replacing sensitive data with unique tokens to protect information."}
+{"instruction": "What is HTTPS vs HTTP?", "input": "", "output": "HTTP is unencrypted and insecure, while HTTPS encrypts data using SSL/TLS to ensure security and integrity."}
+{"instruction": "What is firewall?", "input": "", "output": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on rules."}
+{"instruction": "What is VPN?", "input": "", "output": "A VPN (Virtual Private Network) creates a secure, encrypted connection over a public network, protecting data and privacy."}
+{"instruction": "What is penetration testing?", "input": "", "output": "Penetration testing is a security assessment to identify vulnerabilities by simulating attacks on a system."}
+{"instruction": "What is ethical hacking?", "input": "", "output": "Ethical hacking is the practice of intentionally probing systems for security weaknesses to improve protection."}
+{"instruction": "What is CSRF token?", "input": "", "output": "A CSRF token is a unique value used to prevent Cross-Site Request Forgery attacks in web applications."}
+{"instruction": "What is input validation?", "input": "", "output": "Input validation is the process of verifying user input to prevent errors and security vulnerabilities."}
+{"instruction": "What is rate limiting?", "input": "", "output": "Rate limiting restricts the number of requests a client can make to a server in a given time to prevent abuse."}
+{"instruction": "What is reverse engineering?", "input": "", "output": "Reverse engineering is analyzing software to understand its design, code, and functionality."}
+{"instruction": "What is software license?", "input": "", "output": "A software license is a legal instrument governing the use, distribution, and modification of software."}
+{"instruction": "What is agile methodology?", "input": "", "output": "Agile methodology is an iterative approach to software development that emphasizes collaboration, flexibility, and customer feedback."}
+{"instruction": "What is Scrum?", "input": "", "output": "Scrum is an agile framework for managing projects using fixed-length iterations called sprints and defined roles like Scrum Master and Product Owner."}
+{"instruction": "What is Kanban?", "input": "", "output": "Kanban is an agile method that visualizes work on a board and focuses on continuous delivery and limiting work in progress."}
+{"instruction": "What is DevOps?", "input": "", "output": "DevOps is a set of practices combining software development and IT operations to deliver applications faster and more reliably."}
+{"instruction": "What is continuous integration (CI)?", "input": "", "output": "Continuous Integration is the practice of frequently merging code changes into a shared repository and automatically testing them."}
+{"instruction": "What is continuous delivery (CD)?", "input": "", "output": "Continuous Delivery automates the preparation of code for deployment so that it can be released reliably at any time."}
+{"instruction": "What is continuous deployment?", "input": "", "output": "Continuous Deployment automatically releases every approved code change to production without manual intervention."}
+{"instruction": "What is unit testing?", "input": "", "output": "Unit testing is the process of testing individual components or functions of code to ensure they work correctly."}
+{"instruction": "What is integration testing?", "input": "", "output": "Integration testing evaluates the interaction between multiple modules or components to ensure they work together correctly."}
+{"instruction": "What is system testing?", "input": "", "output": "System testing evaluates the complete and integrated software system to verify that it meets specified requirements."}
+{"instruction": "What is acceptance testing?", "input": "", "output": "Acceptance testing determines whether a system satisfies business requirements and is ready for deployment."}
+{"instruction": "What is regression testing?", "input": "", "output": "Regression testing ensures that recent code changes do not negatively affect existing functionality."}
+{"instruction": "What is test automation?", "input": "", "output": "Test automation is the use of software tools to automatically execute test cases and compare actual outcomes with expected results."}
+{"instruction": "What is Selenium?", "input": "", "output": "Selenium is an open-source tool for automating web browsers to perform functional testing."}
+{"instruction": "What is JUnit?", "input": "", "output": "JUnit is a testing framework for Java used to write and run repeatable unit tests."}
+{"instruction": "What is pytest?", "input": "", "output": "pytest is a Python testing framework that allows writing simple and scalable test cases."}
+{"instruction": "What is mocking in testing?", "input": "", "output": "Mocking is creating simulated objects or behaviors to test components in isolation without relying on real dependencies."}
+{"instruction": "What is code coverage?", "input": "", "output": "Code coverage measures the extent to which code is executed during testing, indicating potential untested areas."}
+{"instruction": "What is static code analysis?", "input": "", "output": "Static code analysis is the examination of source code without executing it to find bugs, security issues, or violations of coding standards."}
+{"instruction": "What is dynamic code analysis?", "input": "", "output": "Dynamic code analysis examines software behavior during execution to detect runtime errors or performance issues."}
+{"instruction": "What is refactoring?", "input": "", "output": "Refactoring is the process of restructuring existing code to improve readability, maintainability, or performance without changing its functionality."}
+{"instruction": "What is technical debt?", "input": "", "output": "Technical debt is the implied cost of additional work caused by choosing an easy solution now instead of a better approach that takes longer."}
+{"instruction": "What is pair programming?", "input": "", "output": "Pair programming is a development technique where two programmers work together at one workstation, one writing code and the other reviewing."}
+{"instruction": "What is code review?", "input": "", "output": "Code review is the practice of examining code by peers to identify defects, ensure quality, and share knowledge."}
+{"instruction": "What is software design pattern?", "input": "", "output": "A software design pattern is a reusable solution to a common problem in software design."}
+{"instruction": "What is singleton pattern?", "input": "", "output": "Singleton pattern ensures a class has only one instance and provides a global point of access to it."}
+{"instruction": "What is factory pattern?", "input": "", "output": "Factory pattern defines an interface for creating objects but allows subclasses to alter the type of objects created."}
+{"instruction": "What is observer pattern?", "input": "", "output": "Observer pattern defines a one-to-many dependency between objects so that when one object changes, all its dependents are notified."}
+{"instruction": "What is decorator pattern?", "input": "", "output": "Decorator pattern allows behavior to be added to an object dynamically without affecting other objects."}
+{"instruction": "What is strategy pattern?", "input": "", "output": "Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable."}
+{"instruction": "What is MVC pattern?", "input": "", "output": "MVC (Model-View-Controller) separates an application into three components: Model for data, View for UI, and Controller for logic."}
+{"instruction": "What is MVVM pattern?", "input": "", "output": "MVVM (Model-View-ViewModel) separates UI logic (ViewModel) from the data (Model) and presentation (View) to facilitate data binding."}
+{"instruction": "What is MVP pattern?", "input": "", "output": "MVP (Model-View-Presenter) separates presentation logic into a Presenter that mediates between the Model and the View."}
+{"instruction": "What is SOLID principle?", "input": "", "output": "SOLID is a set of object-oriented design principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion."}
+{"instruction": "What is KISS principle?", "input": "", "output": "KISS (Keep It Simple, Stupid) principle advocates designing software as simple as possible to reduce complexity."}
+{"instruction": "What is DRY principle?", "input": "", "output": "DRY (Don't Repeat Yourself) principle promotes reducing code duplication to improve maintainability."}
+{"instruction": "What is YAGNI principle?", "input": "", "output": "YAGNI (You Aren't Gonna Need It) principle advises against adding features until they are necessary."}
+{"instruction": "What is dependency injection?", "input": "", "output": "Dependency injection is a design pattern where an object receives its dependencies from an external source rather than creating them itself."}
+{"instruction": "What is inversion of control (IoC)?", "input": "", "output": "Inversion of Control is a principle where the flow of control of a program is inverted, often achieved using frameworks and dependency injection."}
+{"instruction": "What is middleware?", "input": "", "output": "Middleware is software that sits between the client and server, handling tasks such as authentication, logging, and routing."}
+{"instruction": "What is message queue?", "input": "", "output": "A message queue is a communication method where messages are stored in a queue until they are processed by a consumer."}
+{"instruction": "What is RabbitMQ?", "input": "", "output": "RabbitMQ is an open-source message broker that implements messaging through queues and supports multiple protocols."}
+{"instruction": "What is Kafka?", "input": "", "output": "Kafka is a distributed streaming platform used for building real-time data pipelines and event-driven applications."}
+{"instruction": "What is event-driven architecture?", "input": "", "output": "Event-driven architecture is a software architecture where events trigger the execution of services or actions asynchronously."}
+{"instruction": "What is publish-subscribe model?", "input": "", "output": "The publish-subscribe model is a messaging pattern where publishers send messages to topics, and subscribers receive messages from topics they are interested in."}
+{"instruction": "What is message broker?", "input": "", "output": "A message broker is a middleware that enables communication between distributed systems by routing and transforming messages."}
+{"instruction": "What is queue vs topic?", "input": "", "output": "A queue delivers messages to a single consumer (point-to-point), while a topic delivers messages to multiple subscribers (publish-subscribe)."}
+{"instruction": "What is event sourcing?", "input": "", "output": "Event sourcing is a pattern where state changes are stored as a sequence of events instead of overwriting the current state."}
+{"instruction": "What is CQRS?", "input": "", "output": "CQRS (Command Query Responsibility Segregation) separates read and write operations into different models to optimize performance and scalability."}
+{"instruction": "What is eventual consistency?", "input": "", "output": "Eventual consistency is a model in distributed systems where updates propagate to all nodes over time, ensuring eventual synchronization."}
+{"instruction": "What is distributed transaction?", "input": "", "output": "A distributed transaction is a transaction that spans multiple networked databases or services, requiring coordination to maintain consistency."}
+{"instruction": "What is CAP theorem?", "input": "", "output": "CAP theorem states that a distributed system can only guarantee two of three properties at the same time: Consistency, Availability, and Partition tolerance."}
+{"instruction": "What is microservices architecture?", "input": "", "output": "Microservices architecture structures an application as a collection of loosely coupled services, each responsible for specific functionality."}
+{"instruction": "What is containerization?", "input": "", "output": "Containerization packages an application and its dependencies into a container to run consistently across environments."}
+{"instruction": "What is Docker?", "input": "", "output": "Docker is a platform that allows developers to build, ship, and run applications in containers."}
+{"instruction": "What is Kubernetes?", "input": "", "output": "Kubernetes is a container orchestration platform for automating deployment, scaling, and management of containerized applications."}
+{"instruction": "What is orchestration in DevOps?", "input": "", "output": "Orchestration automates the management, coordination, and deployment of complex software systems and workflows."}
+{"instruction": "What is CI/CD?", "input": "", "output": "CI/CD (Continuous Integration/Continuous Deployment) is a practice to automatically test, build, and deploy code changes."}
+{"instruction": "What is automated testing?", "input": "", "output": "Automated testing uses software tools to execute test cases and verify results without manual intervention."}
+{"instruction": "What is test-driven development (TDD)?", "input": "", "output": "TDD is a software development approach where tests are written before writing the actual code to guide design and ensure correctness."}
+{"instruction": "What is behavior-driven development (BDD)?", "input": "", "output": "BDD is an agile software development practice that encourages collaboration by writing tests in natural language describing desired behavior."}
+{"instruction": "What is load testing?", "input": "", "output": "Load testing measures how a system performs under expected user load to identify performance bottlenecks."}
+{"instruction": "What is stress testing?", "input": "", "output": "Stress testing evaluates how a system behaves under extreme conditions or heavy load to ensure stability."}
+{"instruction": "What is performance testing?", "input": "", "output": "Performance testing assesses a system's responsiveness, scalability, and stability under various conditions."}
+{"instruction": "What is memory profiling?", "input": "", "output": "Memory profiling analyzes how a program uses memory, identifying leaks and inefficient memory usage."}
+{"instruction": "What is CPU profiling?", "input": "", "output": "CPU profiling measures the CPU time consumed by different parts of a program to identify performance bottlenecks."}
+{"instruction": "What is logging in software?", "input": "", "output": "Logging is the process of recording events, errors, and other runtime information to monitor and debug applications."}
+{"instruction": "What is monitoring in DevOps?", "input": "", "output": "Monitoring involves continuously observing system performance, availability, and health to detect issues proactively."}
+{"instruction": "What is alerting in DevOps?", "input": "", "output": "Alerting is notifying engineers when a system exceeds thresholds or encounters failures, enabling quick response."}
+{"instruction": "What is Prometheus?", "input": "", "output": "Prometheus is an open-source monitoring and alerting toolkit used to collect and query metrics from systems."}
+{"instruction": "What is Grafana?", "input": "", "output": "Grafana is a visualization tool for displaying metrics from data sources like Prometheus on dashboards."}
+{"instruction": "What is log aggregation?", "input": "", "output": "Log aggregation collects and centralizes logs from multiple sources to simplify monitoring and analysis."}
+{"instruction": "What is ELK stack?", "input": "", "output": "ELK stack (Elasticsearch, Logstash, Kibana) is a collection of tools for searching, analyzing, and visualizing log data."}
+{"instruction": "What is Graylog?", "input": "", "output": "Graylog is a log management platform for collecting, indexing, and analyzing log data from multiple sources."}
+{"instruction": "What is distributed system?", "input": "", "output": "A distributed system is a network of independent computers that work together to appear as a single system."}
+{"instruction": "What is microservices vs monolith?", "input": "", "output": "Monolith is a single unified application, while microservices split functionality into independent services that communicate over APIs."}
+{"instruction": "What is service discovery?", "input": "", "output": "Service discovery automatically detects and tracks services in a network to enable dynamic communication."}
+{"instruction": "What is API gateway?", "input": "", "output": "An API gateway is a server that acts as a single entry point, managing routing, authentication, and rate limiting for multiple services."}
+{"instruction": "What is load balancer?", "input": "", "output": "A load balancer distributes network traffic across multiple servers to improve reliability and performance."}
+{"instruction": "What is horizontal scaling?", "input": "", "output": "Horizontal scaling adds more machines or instances to handle increased load."}
+{"instruction": "What is vertical scaling?", "input": "", "output": "Vertical scaling increases the capacity of a single machine by adding more CPU, memory, or storage."}
+{"instruction": "What is high availability?", "input": "", "output": "High availability ensures that a system remains operational and accessible even during failures."}
+{"instruction": "What is fault tolerance?", "input": "", "output": "Fault tolerance is the ability of a system to continue functioning correctly even when components fail."}
+{"instruction": "What is disaster recovery?", "input": "", "output": "Disaster recovery is a plan and process to restore systems and data after catastrophic failures."}
+{"instruction": "What is backup strategy?", "input": "", "output": "A backup strategy involves creating copies of data to prevent loss and ensure recovery during failures."}
+{"instruction": "What is horizontal partitioning (sharding)?", "input": "", "output": "Sharding is dividing a database into smaller, distributed parts to improve performance and scalability."}
+{"instruction": "What is database replication?", "input": "", "output": "Database replication is creating and maintaining copies of data across multiple servers for redundancy and performance."}
+{"instruction": "What is distributed cache?", "input": "", "output": "A distributed cache stores frequently accessed data across multiple servers to improve response times."}
+{"instruction": "What is eventual consistency?", "input": "", "output": "Eventual consistency ensures that all nodes in a distributed system will converge to the same state over time."}
+{"instruction": "What is leader election in distributed systems?", "input": "", "output": "Leader election is the process of selecting a coordinator node to manage tasks in a distributed system."}
+{"instruction": "What is consensus algorithm?", "input": "", "output": "A consensus algorithm ensures that all nodes in a distributed system agree on the same data or state."}
+{"instruction": "What is Raft?", "input": "", "output": "Raft is a consensus algorithm used in distributed systems to manage replicated logs and ensure consistency."}
+{"instruction": "What is Paxos?", "input": "", "output": "Paxos is a consensus protocol used to achieve agreement among distributed nodes despite failures."}
+{"instruction": "What is CAP theorem?", "input": "", "output": "CAP theorem states that a distributed system can guarantee only two of three properties: Consistency, Availability, and Partition tolerance."}
+{"instruction": "What is gossip protocol?", "input": "", "output": "Gossip protocol is a communication method in distributed systems where nodes periodically exchange state information with random peers."}
+{"instruction": "What is eventual consistency vs strong consistency?", "input": "", "output": "Strong consistency ensures immediate data consistency across nodes, while eventual consistency allows temporary inconsistencies that resolve over time."}
+{"instruction": "What is distributed locking?", "input": "", "output": "Distributed locking prevents multiple nodes in a distributed system from accessing shared resources simultaneously."}
+{"instruction": "What is leader-follower pattern?", "input": "", "output": "Leader-follower pattern designates one node as leader to manage coordination, while followers replicate or execute tasks."}
+{"instruction": "What is publish-subscribe messaging?", "input": "", "output": "Publish-subscribe messaging is a communication model where publishers send messages to topics and subscribers receive messages of interest."}
+{"instruction": "What is message queue vs pub-sub?", "input": "", "output": "Message queues deliver messages to a single consumer, while pub-sub delivers messages to multiple subscribers interested in the topic."}
+{"instruction": "What is RabbitMQ?", "input": "", "output": "RabbitMQ is a message broker that implements message queuing and supports multiple messaging protocols."}
+{"instruction": "What is Apache Kafka?", "input": "", "output": "Apache Kafka is a distributed streaming platform for building real-time data pipelines and event-driven applications."}
+{"instruction": "What is event-driven architecture?", "input": "", "output": "Event-driven architecture is a design pattern where events trigger the execution of services or actions asynchronously."}
+{"instruction": "What is event sourcing?", "input": "", "output": "Event sourcing is a pattern where state changes are stored as a sequence of immutable events instead of overwriting current state."}
+{"instruction": "What is CQRS?", "input": "", "output": "CQRS (Command Query Responsibility Segregation) separates read and write operations into different models to optimize performance and scalability."}
+{"instruction": "What is eventual consistency?", "input": "", "output": "Eventual consistency is a consistency model where all nodes in a distributed system will converge to the same data state over time."}
+{"instruction": "What is distributed transaction?", "input": "", "output": "A distributed transaction is a transaction that spans multiple networked databases or services, requiring coordination to maintain consistency."}
+{"instruction": "What is CAP theorem?", "input": "", "output": "CAP theorem states that a distributed system can guarantee at most two of the three properties: Consistency, Availability, and Partition tolerance."}
+{"instruction": "What is leader election?", "input": "", "output": "Leader election is the process of selecting a coordinator node in a distributed system to manage tasks and decision-making."}
+{"instruction": "What is consensus algorithm?", "input": "", "output": "A consensus algorithm ensures that all nodes in a distributed system agree on a single data value or state."}
+{"instruction": "What is Raft?", "input": "", "output": "Raft is a consensus algorithm used in distributed systems to manage replicated logs and ensure data consistency."}
+{"instruction": "What is Paxos?", "input": "", "output": "Paxos is a protocol for achieving consensus in a network of unreliable or failing nodes."}
+{"instruction": "What is gossip protocol?", "input": "", "output": "Gossip protocol is a communication method in distributed systems where nodes periodically share state information with random peers."}
+{"instruction": "What is horizontal scaling?", "input": "", "output": "Horizontal scaling adds more machines or instances to handle increased system load."}
+{"instruction": "What is vertical scaling?", "input": "", "output": "Vertical scaling increases the capacity of a single machine by adding more CPU, memory, or storage."}
+{"instruction": "What is high availability?", "input": "", "output": "High availability ensures that a system remains operational and accessible even during failures or maintenance."}
+{"instruction": "What is fault tolerance?", "input": "", "output": "Fault tolerance is the ability of a system to continue functioning correctly even when some components fail."}
+{"instruction": "What is disaster recovery?", "input": "", "output": "Disaster recovery is the process of restoring systems and data after catastrophic failures or outages."}
+{"instruction": "What is backup strategy?", "input": "", "output": "A backup strategy involves creating and storing copies of data to prevent loss and ensure recovery."}
+{"instruction": "What is sharding in databases?", "input": "", "output": "Sharding is the practice of dividing a database into smaller, distributed pieces to improve performance and scalability."}
+{"instruction": "What is database replication?", "input": "", "output": "Database replication involves creating and maintaining copies of data across multiple servers for redundancy and performance."}
+{"instruction": "What is distributed cache?", "input": "", "output": "A distributed cache stores frequently accessed data across multiple servers to improve response time and scalability."}
+{"instruction": "What is service discovery?", "input": "", "output": "Service discovery is a process that automatically detects services in a network and enables clients to locate them dynamically."}
+{"instruction": "What is API gateway?", "input": "", "output": "An API gateway is a server that acts as a single entry point for client requests, handling routing, authentication, and rate limiting."}
+{"instruction": "What is microservices vs monolithic architecture?", "input": "", "output": "Monolithic architecture is a single unified application, while microservices break functionality into independent services communicating over APIs."}
+{"instruction": "What is containerization?", "input": "", "output": "Containerization packages an application and its dependencies into a container for consistent execution across environments."}
+{"instruction": "What is Docker?", "input": "", "output": "Docker is a platform to build, ship, and run applications in containers."}
+{"instruction": "What is Kubernetes?", "input": "", "output": "Kubernetes is a container orchestration platform that automates deployment, scaling, and management of containerized applications."}
+{"instruction": "What is orchestration in DevOps?", "input": "", "output": "Orchestration automates the management, coordination, and deployment of complex software systems and workflows."}
+{"instruction": "What is CI/CD?", "input": "", "output": "CI/CD (Continuous Integration/Continuous Deployment) is a practice to automatically test, build, and deploy code changes."}
+{"instruction": "What is automated testing?", "input": "", "output": "Automated testing uses software tools to execute test cases and validate results without manual intervention."}
+{"instruction": "What is test-driven development (TDD)?", "input": "", "output": "TDD is a development approach where tests are written before code to guide design and ensure correctness."}
+{"instruction": "What is behavior-driven development (BDD)?", "input": "", "output": "BDD is a software development approach where tests are written in natural language describing desired behavior to enhance collaboration."}
+{"instruction": "What is unit testing?", "input": "", "output": "Unit testing tests individual components or functions of code to ensure they work correctly."}
+{"instruction": "What is integration testing?", "input": "", "output": "Integration testing evaluates the interaction between multiple modules to ensure they work together properly."}
+{"instruction": "What is system testing?", "input": "", "output": "System testing evaluates the complete and integrated software to verify it meets specified requirements."}
+{"instruction": "What is acceptance testing?", "input": "", "output": "Acceptance testing determines if the system satisfies business requirements and is ready for deployment."}
+{"instruction": "What is regression testing?", "input": "", "output": "Regression testing ensures recent code changes do not break existing functionality."}
+{"instruction": "What is performance testing?", "input": "", "output": "Performance testing evaluates a system's responsiveness, scalability, and stability under load."}
+{"instruction": "What is load testing?", "input": "", "output": "Load testing measures how a system performs under expected user load to identify bottlenecks."}
+{"instruction": "What is stress testing?", "input": "", "output": "Stress testing evaluates system behavior under extreme conditions or heavy load."}
+{"instruction": "What is memory profiling?", "input": "", "output": "Memory profiling analyzes how a program uses memory, identifying leaks or inefficiencies."}
+{"instruction": "What is CPU profiling?", "input": "", "output": "CPU profiling measures the CPU time consumed by different parts of a program to locate performance bottlenecks."}
+{"instruction": "What is logging in software?", "input": "", "output": "Logging records events, errors, and runtime information to monitor and debug applications."}
+{"instruction": "What is monitoring in DevOps?", "input": "", "output": "Monitoring involves continuously observing system performance, availability, and health to detect issues proactively."}
+{"instruction": "What is alerting in DevOps?", "input": "", "output": "Alerting notifies engineers when a system exceeds thresholds or encounters failures to enable prompt response."}
+{"instruction": "What is Prometheus?", "input": "", "output": "Prometheus is an open-source monitoring and alerting toolkit for collecting and querying system metrics."}
+{"instruction": "What is Grafana?", "input": "", "output": "Grafana is a visualization tool for displaying metrics from data sources like Prometheus on dashboards."}
+{"instruction": "What is Graylog?", "input": "", "output": "Graylog is a log management platform for collecting, indexing, and analyzing log data from multiple sources."}
+{"instruction": "What is distributed system?", "input": "", "output": "A distributed system is a network of independent computers that work together to appear as a single system."}
+{"instruction": "What is leader-follower pattern?", "input": "", "output": "Leader-follower pattern designates one node as leader to manage coordination while followers replicate or execute tasks."}
+{"instruction": "What is publish-subscribe messaging?", "input": "", "output": "Publish-subscribe messaging is a communication model where publishers send messages to topics and subscribers receive messages of interest."}
+{"instruction": "What is message broker?", "input": "", "output": "A message broker is middleware that enables communication between distributed systems by routing and transforming messages."}
+{"instruction": "What is queue vs topic?", "input": "", "output": "A queue delivers messages to a single consumer (point-to-point), while a topic delivers messages to multiple subscribers (publish-subscribe)."}
+{"instruction": "What is RabbitMQ?", "input": "", "output": "RabbitMQ is a message broker that implements message queuing and supports multiple messaging protocols."}
+{"instruction": "What is Apache Kafka?", "input": "", "output": "Apache Kafka is a distributed streaming platform for building real-time data pipelines and event-driven applications."}
+{"instruction": "What is service mesh?", "input": "", "output": "A service mesh is a dedicated infrastructure layer that manages service-to-service communication in microservices architectures."}
+{"instruction": "What is Istio?", "input": "", "output": "Istio is a service mesh platform that provides traffic management, security, and observability for microservices."}
+{"instruction": "What is Envoy?", "input": "", "output": "Envoy is a high-performance proxy and communication bus for service-to-service interactions in distributed systems."}
+{"instruction": "What is circuit breaker pattern?", "input": "", "output": "Circuit breaker pattern prevents cascading failures by stopping requests to a failing service until it recovers."}
+{"instruction": "What is retry pattern?", "input": "", "output": "Retry pattern attempts an operation multiple times in case of transient failures to increase reliability."}
+{"instruction": "What is backoff strategy?", "input": "", "output": "Backoff strategy defines increasing delays between retries to avoid overwhelming a failing service."}
+{"instruction": "What is idempotency?", "input": "", "output": "Idempotency ensures that performing the same operation multiple times produces the same result without side effects."}
+{"instruction": "What is circuit breaker vs retry?", "input": "", "output": "Circuit breaker prevents requests when a service is failing, while retry attempts the operation again to recover from transient errors."}
+{"instruction": "What is distributed tracing?", "input": "", "output": "Distributed tracing tracks requests across services in a distributed system to diagnose latency and performance issues."}
+{"instruction": "What is OpenTelemetry?", "input": "", "output": "OpenTelemetry is an open-source framework for collecting metrics, logs, and traces from applications and services."}
+{"instruction": "What is Jaeger?", "input": "", "output": "Jaeger is an open-source distributed tracing system used to monitor and troubleshoot microservices architectures."}
+{"instruction": "What is Zipkin?", "input": "", "output": "Zipkin is a distributed tracing system that collects timing data to troubleshoot latency problems in microservices."}
+{"instruction": "What is blue-green deployment?", "input": "", "output": "Blue-green deployment is a strategy where two identical environments exist; one serves production while the other is updated, minimizing downtime."}
+{"instruction": "What is canary deployment?", "input": "", "output": "Canary deployment gradually releases a new version to a subset of users to detect issues before full rollout."}
+{"instruction": "What is rolling deployment?", "input": "", "output": "Rolling deployment gradually replaces instances of an old version with a new version without downtime."}
+{"instruction": "What is feature flag?", "input": "", "output": "A feature flag allows enabling or disabling features in production without deploying new code."}
+{"instruction": "What is A/B testing?", "input": "", "output": "A/B testing compares two versions of a feature or page to measure performance and user engagement."}
+{"instruction": "What is chaos engineering?", "input": "", "output": "Chaos engineering is the practice of intentionally injecting failures to test system resilience and reliability."}
+{"instruction": "What is Netflix Simian Army?", "input": "", "output": "Netflix Simian Army is a suite of tools for chaos engineering to test fault tolerance in production systems."}
+{"instruction": "What is rate limiting?", "input": "", "output": "Rate limiting restricts the number of requests a client can make to a server in a given time period."}
+{"instruction": "What is throttling?", "input": "", "output": "Throttling controls traffic to prevent system overload and maintain service availability."}
+{"instruction": "What is circuit breaker vs bulkhead?", "input": "", "output": "Circuit breaker stops requests to failing services; bulkhead isolates components to prevent failures from spreading."}
+{"instruction": "What is API versioning?", "input": "", "output": "API versioning manages changes in API endpoints to ensure backward compatibility for clients."}
+{"instruction": "What is idempotent HTTP method?", "input": "", "output": "Idempotent HTTP methods, like GET or PUT, produce the same result when called multiple times without side effects."}
+{"instruction": "What is safe HTTP method?", "input": "", "output": "Safe HTTP methods, like GET and HEAD, do not modify resources on the server."}
+{"instruction": "What is REST vs GraphQL?", "input": "", "output": "REST provides multiple endpoints for resources; GraphQL provides a single endpoint where clients specify exactly what data they need."}
+{"instruction": "What is WebSocket?", "input": "", "output": "WebSocket is a protocol providing full-duplex communication over a single TCP connection for real-time applications."}
+{"instruction": "What is SSE (Server-Sent Events)?", "input": "", "output": "SSE allows servers to push real-time updates to clients over a single HTTP connection."}
+{"instruction": "What is long polling?", "input": "", "output": "Long polling is a technique where the client requests data from the server and waits until the server responds or a timeout occurs."}
+{"instruction": "What is gRPC?", "input": "", "output": "gRPC is a high-performance RPC framework using Protocol Buffers for efficient communication between services."}
+{"instruction": "What is Protocol Buffers?", "input": "", "output": "Protocol Buffers are a language-neutral, platform-neutral serialization format used to structure data efficiently."}
+{"instruction": "What is Thrift?", "input": "", "output": "Thrift is a software framework for scalable cross-language services development using a defined interface and serialization format."}
+{"instruction": "What is API throttling vs rate limiting?", "input": "", "output": "Rate limiting caps requests over time; throttling slows down requests when limits are approached."}
+{"instruction": "What is OAuth 2.0?", "input": "", "output": "OAuth 2.0 is an authorization framework that allows third-party apps to access user resources securely without sharing credentials."}
+{"instruction": "What is OpenID Connect?", "input": "", "output": "OpenID Connect is an identity layer built on OAuth 2.0 for user authentication and single sign-on."}
+{"instruction": "What is JWT (JSON Web Token)?", "input": "", "output": "JWT is a compact token format used for securely transmitting claims between parties."}
+{"instruction": "What is refresh token?", "input": "", "output": "A refresh token is a long-lived token used to obtain new access tokens without re-authenticating the user."}
+{"instruction": "What is CSRF token?", "input": "", "output": "A CSRF token is a unique value used to prevent Cross-Site Request Forgery attacks in web applications."}
+{"instruction": "What is XSS (Cross-Site Scripting)?", "input": "", "output": "XSS is a vulnerability where attackers inject malicious scripts into web pages viewed by other users."}
+{"instruction": "What is SQL injection?", "input": "", "output": "SQL injection is a vulnerability where attackers manipulate database queries by injecting malicious SQL code."}
+{"instruction": "What is encryption?", "input": "", "output": "Encryption converts data into a coded form to prevent unauthorized access."}
+{"instruction": "What is symmetric vs asymmetric encryption?", "input": "", "output": "Symmetric encryption uses the same key for encryption and decryption; asymmetric uses a public-private key pair."}
+{"instruction": "What is hashing?", "input": "", "output": "Hashing converts data into a fixed-size string using a hash function, typically for integrity verification."}
+{"instruction": "What is SSL/TLS?", "input": "", "output": "SSL/TLS are protocols for encrypting data transmitted over networks to ensure security and integrity."}
+{"instruction": "What is HTTPS vs HTTP?", "input": "", "output": "HTTP is unencrypted, while HTTPS encrypts communication using SSL/TLS for security and data integrity."}
